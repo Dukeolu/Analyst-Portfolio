@@ -18,9 +18,9 @@ Using data to analyze real business problems, and shipping the solution the anal
 
 | # | Project | Tool | Status |
 |---|---------|------|--------|
-| 05 | Order-to-cash SQL deep dive | SQL | ⏳ Planned |
-| 06 | Automated weekly ops report | Python | ⏳ Planned |
-| 07 | Interactive budget workbook | Excel | ⏳ Planned |
-| 08 | Demand forecasting exercise | Python | ⏳ Planned |
+| 05 | [Order-to-cash SQL deep dive](extras/05-sql-order-to-cash/) | SQL | ✅ Built |
+| 06 | [Automated weekly ops report](extras/06-python-report-automation/) | Python | ✅ Built |
+| 07 | [Interactive budget workbook](extras/07-excel-budget-workbook/) | Excel | ✅ Built |
+| 08 | [Demand forecasting exercise](extras/08-demand-forecasting/) | Python | ✅ Built |
 
-Each flagship case follows the same structure: `data/` → `sql/` → `scripts/` → a dashboard → a `README.md` case-study write-up (business problem, method, findings, recommendation, business impact).
+Each flagship case follows the same structure: `data/` → `sql/` → `scripts/` → a dashboard → a `README.md` case-study write-up (business problem, method, findings, recommendation, business impact). The extras are lighter, single-tool builds — no dashboard, just the tool named in the table plus a README.

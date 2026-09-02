@@ -1,0 +1,4 @@
+method,mae,rmse,mape,mape_pct
+Naive (flat),2028.1,2584.7,0.3224,32.2
+Seasonal naive (same week last year),536.2,703.3,0.1023,10.2
+Holt-Winters (trend + seasonal),377.1,490.0,0.0741,7.4

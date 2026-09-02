@@ -1,0 +1,7 @@
+cut,group_label,invoices_paid,avg_days_late_weighted,rank_worst
+by risk tier,High,113,24.1,1
+by risk tier,Medium,385,8.5,2
+by risk tier,Low,1229,-1.0,3
+by segment,SMB,694,4.4,1
+by segment,Mid-Market,606,2.3,2
+by segment,Enterprise,427,0.3,3

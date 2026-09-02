@@ -1,0 +1,9 @@
+aging_bucket,segment,risk_tier,invoice_count,outstanding_total,pct_of_total_outstanding
+31-60 days,Enterprise,Low,1,67643.43,7.2
+90+ days,Enterprise,Low,11,670143.24,71.4
+90+ days,Mid-Market,Low,10,89635.88,9.5
+90+ days,Enterprise,Medium,2,63996.0,6.8
+90+ days,SMB,Low,9,30243.71,3.2
+90+ days,Mid-Market,Medium,1,7305.14,0.8
+90+ days,SMB,Medium,3,5813.94,0.6
+90+ days,SMB,High,2,4370.46,0.5
