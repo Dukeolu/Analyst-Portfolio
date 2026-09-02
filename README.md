@@ -4,8 +4,7 @@ Using data to analyze real business problems, and shipping the solution the anal
 
 **Website:** [dukeolu.github.io](https://dukeolu.github.io/) — the four case studies below, presented for a hiring manager to skim in a few minutes each. This repo is the full archive behind them.
 
-Full plan: [`portfolio-plan.md`](../portfolio-plan.md) (or the [designed version](https://claude.ai/code/artifact/0806b737-2482-42ae-b1dc-641b8fe52520)).
-
+Full plan: [`portfolio-plan.md`](../portfolio-plan.md) 
 ## Flagship case studies
 
 | # | Case | Domain | Tools | Status |
