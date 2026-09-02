@@ -1,0 +1,2 @@
+test_auc,test_accuracy,n_train,n_test
+0.708,0.657,4500,1500

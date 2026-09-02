@@ -1,0 +1,20 @@
+channel,tenure_band,employees,voluntary_terms,term_rate_pct
+Agency,0-3 months,72,37,51.39
+Agency,4-6 months,33,11,33.33
+Agency,7-12 months,59,8,13.56
+Agency,13+ months,82,4,4.88
+Campus,0-3 months,47,26,55.32
+Campus,7-12 months,30,6,20.0
+Campus,13+ months,42,3,7.14
+Employee Referral,0-3 months,83,21,25.3
+Employee Referral,4-6 months,49,13,26.53
+Employee Referral,7-12 months,63,5,7.94
+Employee Referral,13+ months,113,10,8.85
+Internal Transfer,0-3 months,54,17,31.48
+Internal Transfer,4-6 months,38,12,31.58
+Internal Transfer,7-12 months,66,12,18.18
+Internal Transfer,13+ months,75,2,2.67
+Job Board,0-3 months,114,66,57.89
+Job Board,4-6 months,42,11,26.19
+Job Board,7-12 months,62,15,24.19
+Job Board,13+ months,92,7,7.61

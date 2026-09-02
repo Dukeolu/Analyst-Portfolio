@@ -1,0 +1,19 @@
+contract_type,horizon_months,eligible_customers,retained_customers,retention_rate
+Month-to-month,1,3300,3300,1.0
+Month-to-month,3,3050,2500,0.8197
+Month-to-month,6,2708,1807,0.6673
+Month-to-month,12,2056,991,0.482
+Month-to-month,18,1362,536,0.3935
+Month-to-month,24,686,212,0.309
+One year,1,1791,1791,1.0
+One year,3,1670,1590,0.9521
+One year,6,1480,1342,0.9068
+One year,12,1102,927,0.8412
+One year,18,736,576,0.7826
+One year,24,360,264,0.7333
+Two year,1,909,909,1.0
+Two year,3,841,827,0.9834
+Two year,6,747,719,0.9625
+Two year,12,586,543,0.9266
+Two year,18,396,364,0.9192
+Two year,24,199,179,0.8995

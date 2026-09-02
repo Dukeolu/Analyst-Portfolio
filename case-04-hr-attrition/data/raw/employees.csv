@@ -1,0 +1,1231 @@
+employee_id,hire_month,department,channel,level,comp_ratio,manager_span,overtime_hours_monthly,avg_engagement_score,tenure_months,months_observable,terminated_voluntary
+EMP-00001,2024-01,Sales,Job Board,Mid,1.061,5,0.0,25.1,2,23,Yes
+EMP-00002,2024-02,Sales,Job Board,Entry,0.961,7,0.3,85.7,22,22,No
+EMP-00003,2024-02,Sales,Job Board,Manager,0.989,5,2.9,54.3,22,22,No
+EMP-00004,2024-03,Sales,Job Board,Entry,0.905,8,2.8,61.2,21,21,No
+EMP-00005,2024-03,Sales,Job Board,Mid,0.935,3,7.2,32.9,16,21,Yes
+EMP-00006,2024-03,Sales,Job Board,Entry,1.048,7,5.1,35.6,19,21,Yes
+EMP-00007,2024-04,Sales,Job Board,Entry,0.996,4,16.5,45.3,20,20,No
+EMP-00008,2024-04,Sales,Job Board,Entry,0.797,7,7.0,71.2,5,20,Yes
+EMP-00009,2024-05,Sales,Job Board,Entry,0.887,9,0.0,47.1,19,19,No
+EMP-00010,2024-05,Sales,Job Board,Entry,0.976,8,8.8,56.7,19,19,Yes
+EMP-00011,2024-06,Sales,Job Board,Entry,1.018,5,7.0,65.3,18,18,No
+EMP-00012,2024-07,Sales,Job Board,Senior,1.087,3,6.4,67.0,17,17,No
+EMP-00013,2024-07,Sales,Job Board,Senior,0.899,5,4.4,65.6,4,17,Yes
+EMP-00014,2024-08,Sales,Job Board,Mid,1.028,7,11.2,97.1,16,16,No
+EMP-00015,2024-09,Sales,Job Board,Entry,0.959,8,5.5,89.5,15,15,No
+EMP-00016,2024-09,Sales,Job Board,Mid,0.909,9,0.0,57.3,15,15,No
+EMP-00017,2024-10,Sales,Job Board,Mid,1.002,7,0.0,65.6,12,14,Yes
+EMP-00018,2024-10,Sales,Job Board,Mid,1.167,4,0.0,68.1,14,14,No
+EMP-00019,2024-10,Sales,Job Board,Entry,0.897,10,0.9,40.2,7,14,Yes
+EMP-00020,2024-11,Sales,Job Board,Mid,1.039,5,5.3,25.7,13,13,No
+EMP-00021,2024-11,Sales,Job Board,Manager,1.071,6,0.0,82.5,13,13,No
+EMP-00022,2024-11,Sales,Job Board,Entry,0.918,5,12.7,59.6,13,13,No
+EMP-00023,2024-12,Sales,Job Board,Entry,1.122,7,2.0,38.6,1,12,Yes
+EMP-00024,2024-12,Sales,Job Board,Senior,0.992,5,10.6,44.3,12,12,Yes
+EMP-00025,2025-01,Sales,Job Board,Mid,0.929,6,0.0,47.0,11,11,No
+EMP-00026,2025-01,Sales,Job Board,Senior,0.992,5,10.4,27.2,11,11,No
+EMP-00027,2025-02,Sales,Job Board,Mid,0.939,7,16.3,63.1,9,10,Yes
+EMP-00028,2025-02,Sales,Job Board,Entry,1.027,3,8.4,80.8,1,10,Yes
+EMP-00029,2025-03,Sales,Job Board,Mid,1.051,7,0.0,45.3,2,9,Yes
+EMP-00030,2025-04,Sales,Job Board,Manager,1.152,4,6.7,46.4,8,8,No
+EMP-00031,2025-04,Sales,Job Board,Senior,0.947,3,4.0,79.7,8,8,No
+EMP-00032,2025-05,Sales,Job Board,Mid,0.946,10,5.8,100.0,1,7,Yes
+EMP-00033,2025-05,Sales,Job Board,Manager,1.265,6,0.0,45.3,7,7,No
+EMP-00034,2025-06,Sales,Job Board,Entry,1.035,8,8.2,48.6,6,6,No
+EMP-00035,2025-06,Sales,Job Board,Entry,0.75,4,8.6,33.2,6,6,No
+EMP-00036,2025-07,Sales,Job Board,Entry,1.068,3,9.0,70.5,5,5,No
+EMP-00037,2025-08,Sales,Job Board,Entry,1.008,6,4.5,71.2,4,4,No
+EMP-00038,2025-08,Sales,Job Board,Entry,0.986,7,10.6,75.3,4,4,No
+EMP-00039,2025-09,Sales,Job Board,Mid,0.93,10,14.3,83.2,3,3,No
+EMP-00040,2025-09,Sales,Job Board,Mid,1.073,8,0.0,65.0,3,3,No
+EMP-00041,2025-10,Sales,Job Board,Mid,0.959,7,15.3,36.0,2,2,Yes
+EMP-00042,2025-10,Sales,Job Board,Mid,1.061,8,10.1,47.9,2,2,No
+EMP-00043,2025-11,Sales,Job Board,Entry,0.918,10,4.2,68.3,1,1,No
+EMP-00044,2025-11,Sales,Job Board,Mid,0.882,8,0.0,71.6,1,1,No
+EMP-00045,2025-12,Sales,Job Board,Senior,1.108,7,16.6,38.2,1,1,No
+EMP-00046,2025-12,Sales,Job Board,Senior,1.077,7,18.2,48.8,1,1,No
+EMP-00047,2025-12,Sales,Job Board,Senior,1.112,8,2.7,70.8,1,1,No
+EMP-00048,2024-01,Sales,Employee Referral,Entry,0.929,5,11.3,69.6,23,23,No
+EMP-00049,2024-01,Sales,Employee Referral,Manager,1.076,3,9.8,47.4,23,23,Yes
+EMP-00050,2024-02,Sales,Employee Referral,Entry,0.973,4,2.0,54.4,22,22,No
+EMP-00051,2024-02,Sales,Employee Referral,Mid,0.993,6,15.2,74.4,5,22,Yes
+EMP-00052,2024-02,Sales,Employee Referral,Entry,1.059,11,13.4,42.8,6,22,Yes
+EMP-00053,2024-03,Sales,Employee Referral,Entry,1.03,9,4.2,68.0,21,21,No
+EMP-00054,2024-03,Sales,Employee Referral,Entry,0.927,4,12.6,57.2,21,21,No
+EMP-00055,2024-03,Sales,Employee Referral,Mid,1.027,7,0.9,72.4,13,21,Yes
+EMP-00056,2024-04,Sales,Employee Referral,Entry,1.006,6,6.3,61.6,20,20,No
+EMP-00057,2024-06,Sales,Employee Referral,Mid,1.023,3,13.3,57.6,18,18,No
+EMP-00058,2024-06,Sales,Employee Referral,Entry,1.02,6,1.4,77.2,18,18,No
+EMP-00059,2024-06,Sales,Employee Referral,Entry,0.999,9,5.7,81.9,3,18,Yes
+EMP-00060,2024-06,Sales,Employee Referral,Entry,0.942,8,0.3,67.5,4,18,Yes
+EMP-00061,2024-07,Sales,Employee Referral,Manager,1.01,5,11.8,47.4,17,17,No
+EMP-00062,2024-07,Sales,Employee Referral,Mid,1.096,5,6.5,64.6,17,17,No
+EMP-00063,2024-07,Sales,Employee Referral,Manager,0.872,5,3.1,71.7,17,17,No
+EMP-00064,2024-08,Sales,Employee Referral,Mid,1.038,10,9.0,47.3,16,16,No
+EMP-00065,2024-09,Sales,Employee Referral,Entry,0.912,5,2.4,82.1,15,15,No
+EMP-00066,2024-09,Sales,Employee Referral,Mid,1.1,9,5.2,58.9,15,15,No
+EMP-00067,2024-10,Sales,Employee Referral,Mid,0.924,8,6.6,86.5,14,14,No
+EMP-00068,2024-11,Sales,Employee Referral,Entry,0.962,9,2.7,75.1,13,13,No
+EMP-00069,2024-11,Sales,Employee Referral,Entry,0.963,3,5.0,50.4,13,13,No
+EMP-00070,2024-12,Sales,Employee Referral,Entry,1.173,6,10.5,83.2,12,12,No
+EMP-00071,2025-01,Sales,Employee Referral,Entry,1.024,6,2.4,76.7,11,11,No
+EMP-00072,2025-02,Sales,Employee Referral,Mid,0.954,8,12.7,70.3,10,10,No
+EMP-00073,2025-02,Sales,Employee Referral,Entry,0.832,6,7.7,55.0,2,10,Yes
+EMP-00074,2025-03,Sales,Employee Referral,Manager,1.025,7,12.1,85.9,9,9,No
+EMP-00075,2025-03,Sales,Employee Referral,Mid,0.941,8,3.2,96.3,9,9,No
+EMP-00076,2025-03,Sales,Employee Referral,Senior,0.926,5,0.0,71.7,9,9,No
+EMP-00077,2025-04,Sales,Employee Referral,Entry,0.899,3,10.3,54.0,8,8,No
+EMP-00078,2025-05,Sales,Employee Referral,Entry,0.79,8,6.4,76.8,7,7,No
+EMP-00079,2025-05,Sales,Employee Referral,Manager,1.019,6,0.0,70.0,7,7,No
+EMP-00080,2025-05,Sales,Employee Referral,Senior,1.023,3,12.4,77.9,7,7,No
+EMP-00081,2025-06,Sales,Employee Referral,Senior,0.974,3,6.9,57.7,6,6,No
+EMP-00082,2025-07,Sales,Employee Referral,Entry,1.138,10,9.3,60.0,5,5,No
+EMP-00083,2025-07,Sales,Employee Referral,Mid,0.998,8,4.4,63.7,5,5,No
+EMP-00084,2025-08,Sales,Employee Referral,Entry,0.857,9,11.0,55.6,4,4,No
+EMP-00085,2025-08,Sales,Employee Referral,Entry,1.151,9,0.0,64.3,4,4,No
+EMP-00086,2025-08,Sales,Employee Referral,Entry,0.878,5,5.3,65.1,4,4,No
+EMP-00087,2025-09,Sales,Employee Referral,Mid,0.902,3,4.5,65.5,3,3,No
+EMP-00088,2025-09,Sales,Employee Referral,Mid,1.088,7,2.6,98.0,3,3,No
+EMP-00089,2025-09,Sales,Employee Referral,Mid,0.878,5,6.2,84.2,3,3,No
+EMP-00090,2025-09,Sales,Employee Referral,Mid,0.854,8,2.3,42.1,3,3,No
+EMP-00091,2025-10,Sales,Employee Referral,Mid,1.012,3,13.8,62.4,2,2,No
+EMP-00092,2025-10,Sales,Employee Referral,Mid,1.094,5,5.4,62.8,2,2,No
+EMP-00093,2025-10,Sales,Employee Referral,Mid,1.22,4,4.6,98.8,2,2,No
+EMP-00094,2025-11,Sales,Employee Referral,Entry,1.105,7,11.2,84.2,1,1,No
+EMP-00095,2025-11,Sales,Employee Referral,Entry,0.88,6,9.1,65.5,1,1,No
+EMP-00096,2025-11,Sales,Employee Referral,Entry,0.872,10,14.6,62.5,1,1,No
+EMP-00097,2025-12,Sales,Employee Referral,Entry,1.072,7,5.4,81.3,1,1,No
+EMP-00098,2025-12,Sales,Employee Referral,Senior,0.938,8,6.2,65.6,1,1,No
+EMP-00099,2025-12,Sales,Employee Referral,Mid,0.884,8,12.8,71.5,1,1,No
+EMP-00100,2025-12,Sales,Employee Referral,Entry,0.876,6,2.3,50.7,1,1,No
+EMP-00101,2024-01,Sales,Agency,Mid,1.053,8,10.1,92.6,23,23,No
+EMP-00102,2024-02,Sales,Agency,Mid,1.042,7,0.0,47.7,22,22,No
+EMP-00103,2024-02,Sales,Agency,Mid,0.961,6,0.0,75.9,22,22,No
+EMP-00104,2024-02,Sales,Agency,Entry,0.977,7,0.0,88.0,1,22,Yes
+EMP-00105,2024-03,Sales,Agency,Entry,0.933,5,11.2,69.1,21,21,No
+EMP-00106,2024-03,Sales,Agency,Entry,0.979,6,0.2,57.4,21,21,No
+EMP-00107,2024-04,Sales,Agency,Entry,0.983,5,13.5,63.8,12,20,Yes
+EMP-00108,2024-04,Sales,Agency,Entry,1.094,3,7.4,57.8,20,20,No
+EMP-00109,2024-05,Sales,Agency,Senior,1.075,4,11.1,34.8,19,19,No
+EMP-00110,2024-05,Sales,Agency,Entry,0.956,4,10.9,87.2,1,19,Yes
+EMP-00111,2024-06,Sales,Agency,Senior,1.026,8,2.9,77.1,18,18,No
+EMP-00112,2024-06,Sales,Agency,Entry,0.75,8,7.4,53.2,18,18,No
+EMP-00113,2024-07,Sales,Agency,Mid,1.119,5,1.4,51.3,17,17,No
+EMP-00114,2024-08,Sales,Agency,Entry,0.761,6,0.7,64.0,6,16,Yes
+EMP-00115,2024-08,Sales,Agency,Manager,0.956,6,0.0,65.3,4,16,Yes
+EMP-00116,2024-09,Sales,Agency,Mid,1.021,6,2.4,74.8,3,15,Yes
+EMP-00117,2024-10,Sales,Agency,Manager,0.898,3,4.5,66.2,14,14,No
+EMP-00118,2024-11,Sales,Agency,Mid,0.947,9,0.5,95.8,13,13,No
+EMP-00119,2024-11,Sales,Agency,Mid,0.925,5,4.5,72.4,1,13,Yes
+EMP-00120,2024-12,Sales,Agency,Mid,1.011,8,10.4,70.2,12,12,No
+EMP-00121,2024-12,Sales,Agency,Mid,0.968,5,0.0,59.7,12,12,No
+EMP-00122,2025-01,Sales,Agency,Entry,1.014,5,8.8,73.8,11,11,No
+EMP-00123,2025-01,Sales,Agency,Entry,1.147,5,0.0,56.5,11,11,No
+EMP-00124,2025-02,Sales,Agency,Senior,0.902,8,5.7,65.3,10,10,No
+EMP-00125,2025-02,Sales,Agency,Manager,1.008,6,0.0,71.5,10,10,No
+EMP-00126,2025-03,Sales,Agency,Mid,0.97,4,2.8,56.2,9,9,No
+EMP-00127,2025-03,Sales,Agency,Entry,0.917,5,10.9,70.7,9,9,No
+EMP-00128,2025-04,Sales,Agency,Entry,1.075,5,7.4,57.3,8,8,No
+EMP-00129,2025-04,Sales,Agency,Mid,1.114,4,19.6,97.9,8,8,No
+EMP-00130,2025-05,Sales,Agency,Entry,1.039,4,8.2,80.3,1,7,Yes
+EMP-00131,2025-06,Sales,Agency,Mid,1.007,10,6.3,94.4,6,6,No
+EMP-00132,2025-06,Sales,Agency,Senior,1.169,6,0.0,74.0,6,6,No
+EMP-00133,2025-06,Sales,Agency,Senior,1.016,7,5.6,26.6,6,6,No
+EMP-00134,2025-07,Sales,Agency,Entry,1.131,10,7.6,73.1,5,5,No
+EMP-00135,2025-08,Sales,Agency,Entry,1.103,9,0.0,60.0,4,4,No
+EMP-00136,2025-08,Sales,Agency,Entry,0.911,8,17.1,98.0,4,4,No
+EMP-00137,2025-09,Sales,Agency,Mid,0.92,9,0.0,65.9,3,3,No
+EMP-00138,2025-09,Sales,Agency,Entry,0.94,7,11.5,75.2,3,3,No
+EMP-00139,2025-10,Sales,Agency,Mid,1.057,9,10.1,51.7,2,2,No
+EMP-00140,2025-10,Sales,Agency,Entry,0.921,9,0.0,54.6,2,2,No
+EMP-00141,2025-11,Sales,Agency,Mid,0.958,10,10.0,32.8,1,1,No
+EMP-00142,2025-11,Sales,Agency,Manager,1.174,3,1.3,65.0,1,1,No
+EMP-00143,2025-12,Sales,Agency,Mid,1.148,4,5.8,73.9,1,1,No
+EMP-00144,2024-01,Sales,Campus,Entry,0.878,5,0.0,64.8,23,23,No
+EMP-00145,2024-02,Sales,Campus,Manager,0.953,8,0.0,35.6,22,22,No
+EMP-00146,2024-03,Sales,Campus,Manager,0.983,8,0.0,49.6,21,21,No
+EMP-00147,2024-04,Sales,Campus,Mid,0.995,8,5.1,88.6,3,20,Yes
+EMP-00148,2024-05,Sales,Campus,Mid,0.791,4,8.2,70.2,18,19,Yes
+EMP-00149,2024-06,Sales,Campus,Entry,1.065,5,0.0,78.9,18,18,No
+EMP-00150,2024-07,Sales,Campus,Entry,0.98,3,0.0,51.8,17,17,No
+EMP-00151,2024-08,Sales,Campus,Senior,1.041,6,2.5,69.0,16,16,No
+EMP-00152,2024-09,Sales,Campus,Mid,1.064,12,3.0,97.7,15,15,No
+EMP-00153,2024-11,Sales,Campus,Mid,1.02,5,8.1,43.8,13,13,No
+EMP-00154,2024-12,Sales,Campus,Entry,0.963,3,23.9,81.4,12,12,No
+EMP-00155,2025-01,Sales,Campus,Manager,1.036,8,4.1,68.1,11,11,No
+EMP-00156,2025-02,Sales,Campus,Entry,0.865,6,13.8,68.6,3,10,Yes
+EMP-00157,2025-03,Sales,Campus,Entry,1.052,12,6.4,64.7,9,9,No
+EMP-00158,2025-04,Sales,Campus,Entry,1.071,5,9.0,45.6,3,8,Yes
+EMP-00159,2025-05,Sales,Campus,Entry,1.091,8,13.2,52.0,2,7,Yes
+EMP-00160,2025-06,Sales,Campus,Entry,0.808,7,10.0,61.4,2,6,Yes
+EMP-00161,2025-07,Sales,Campus,Mid,0.915,4,5.1,74.7,3,5,Yes
+EMP-00162,2025-09,Sales,Campus,Entry,1.025,9,2.2,53.3,3,3,No
+EMP-00163,2025-10,Sales,Campus,Mid,1.023,5,5.5,48.6,2,2,No
+EMP-00164,2025-12,Sales,Campus,Entry,0.995,6,11.2,39.3,1,1,No
+EMP-00165,2025-12,Sales,Campus,Entry,0.923,8,0.0,78.7,1,1,No
+EMP-00166,2024-01,Sales,Internal Transfer,Entry,0.944,7,0.0,71.9,23,23,No
+EMP-00167,2024-02,Sales,Internal Transfer,Mid,0.878,9,6.4,65.0,22,22,No
+EMP-00168,2024-02,Sales,Internal Transfer,Senior,0.998,9,3.4,59.1,22,22,No
+EMP-00169,2024-03,Sales,Internal Transfer,Entry,1.013,9,0.0,81.5,1,21,Yes
+EMP-00170,2024-03,Sales,Internal Transfer,Entry,0.877,8,7.0,47.9,21,21,No
+EMP-00171,2024-04,Sales,Internal Transfer,Entry,1.018,3,8.3,63.9,20,20,No
+EMP-00172,2024-04,Sales,Internal Transfer,Entry,0.76,10,1.3,56.5,20,20,No
+EMP-00173,2024-04,Sales,Internal Transfer,Entry,1.009,6,14.3,64.3,20,20,No
+EMP-00174,2024-05,Sales,Internal Transfer,Mid,0.982,7,0.0,54.7,19,19,No
+EMP-00175,2024-05,Sales,Internal Transfer,Senior,0.869,11,6.3,60.8,19,19,No
+EMP-00176,2024-06,Sales,Internal Transfer,Entry,1.111,8,0.0,58.7,6,18,Yes
+EMP-00177,2024-06,Sales,Internal Transfer,Manager,0.923,7,0.0,54.5,18,18,No
+EMP-00178,2024-07,Sales,Internal Transfer,Entry,1.025,5,10.6,40.2,11,17,Yes
+EMP-00179,2024-07,Sales,Internal Transfer,Entry,0.977,3,12.8,66.8,3,17,Yes
+EMP-00180,2024-08,Sales,Internal Transfer,Senior,1.05,4,1.1,43.1,3,16,Yes
+EMP-00181,2024-09,Sales,Internal Transfer,Senior,0.802,7,16.1,60.2,15,15,No
+EMP-00182,2024-09,Sales,Internal Transfer,Mid,0.957,6,5.9,67.5,15,15,No
+EMP-00183,2024-10,Sales,Internal Transfer,Senior,0.983,6,7.1,83.4,1,14,Yes
+EMP-00184,2024-10,Sales,Internal Transfer,Mid,0.978,5,9.4,43.5,7,14,Yes
+EMP-00185,2024-11,Sales,Internal Transfer,Mid,1.08,6,0.0,68.0,13,13,No
+EMP-00186,2024-11,Sales,Internal Transfer,Entry,0.98,4,18.7,79.6,13,13,No
+EMP-00187,2024-11,Sales,Internal Transfer,Mid,1.25,6,0.0,59.9,2,13,Yes
+EMP-00188,2024-12,Sales,Internal Transfer,Entry,0.818,8,10.9,41.1,12,12,No
+EMP-00189,2025-01,Sales,Internal Transfer,Entry,0.85,3,7.6,64.6,11,11,No
+EMP-00190,2025-01,Sales,Internal Transfer,Entry,0.988,6,1.1,61.5,11,11,Yes
+EMP-00191,2025-02,Sales,Internal Transfer,Entry,0.962,8,0.6,58.6,10,10,No
+EMP-00192,2025-02,Sales,Internal Transfer,Mid,0.944,8,0.7,61.5,10,10,No
+EMP-00193,2025-02,Sales,Internal Transfer,Mid,1.063,9,6.0,95.2,10,10,No
+EMP-00194,2025-03,Sales,Internal Transfer,Entry,0.898,8,0.0,61.8,9,9,No
+EMP-00195,2025-03,Sales,Internal Transfer,Mid,1.124,7,3.5,66.7,9,9,No
+EMP-00196,2025-03,Sales,Internal Transfer,Entry,1.057,3,0.0,74.5,9,9,No
+EMP-00197,2025-04,Sales,Internal Transfer,Entry,1.132,6,6.4,71.7,8,8,No
+EMP-00198,2025-05,Sales,Internal Transfer,Mid,0.934,11,7.2,28.7,7,7,No
+EMP-00199,2025-05,Sales,Internal Transfer,Senior,1.048,8,12.4,68.6,7,7,No
+EMP-00200,2025-06,Sales,Internal Transfer,Entry,0.944,7,8.3,55.9,6,6,No
+EMP-00201,2025-06,Sales,Internal Transfer,Senior,1.051,7,4.4,77.6,6,6,No
+EMP-00202,2025-07,Sales,Internal Transfer,Entry,1.014,10,5.0,58.5,5,5,No
+EMP-00203,2025-07,Sales,Internal Transfer,Entry,0.927,5,11.0,60.3,5,5,No
+EMP-00204,2025-08,Sales,Internal Transfer,Mid,1.097,6,8.3,52.7,4,4,No
+EMP-00205,2025-08,Sales,Internal Transfer,Senior,0.984,10,6.4,43.9,4,4,No
+EMP-00206,2025-09,Sales,Internal Transfer,Entry,0.846,8,9.7,76.6,3,3,No
+EMP-00207,2025-09,Sales,Internal Transfer,Mid,0.898,6,1.0,77.8,3,3,No
+EMP-00208,2025-11,Sales,Internal Transfer,Entry,1.001,5,11.6,51.1,1,1,No
+EMP-00209,2025-12,Sales,Internal Transfer,Mid,1.052,11,0.0,46.3,1,1,No
+EMP-00210,2025-12,Sales,Internal Transfer,Mid,1.142,9,9.3,39.6,1,1,No
+EMP-00211,2024-01,Customer Support,Job Board,Entry,1.006,7,6.8,77.3,23,23,No
+EMP-00212,2024-01,Customer Support,Job Board,Senior,0.817,4,5.5,59.1,23,23,No
+EMP-00213,2024-02,Customer Support,Job Board,Mid,1.146,6,6.2,90.5,3,22,Yes
+EMP-00214,2024-02,Customer Support,Job Board,Mid,0.995,7,0.0,64.6,7,22,Yes
+EMP-00215,2024-02,Customer Support,Job Board,Mid,0.959,8,7.1,79.4,22,22,No
+EMP-00216,2024-02,Customer Support,Job Board,Entry,1.065,4,12.3,54.8,22,22,No
+EMP-00217,2024-03,Customer Support,Job Board,Entry,0.932,11,0.5,75.4,21,21,No
+EMP-00218,2024-03,Customer Support,Job Board,Entry,0.969,5,0.0,46.3,21,21,No
+EMP-00219,2024-04,Customer Support,Job Board,Entry,0.889,3,10.7,76.1,19,20,Yes
+EMP-00220,2024-04,Customer Support,Job Board,Entry,0.912,3,0.3,66.7,1,20,Yes
+EMP-00221,2024-05,Customer Support,Job Board,Entry,0.863,12,0.0,71.3,19,19,No
+EMP-00222,2024-05,Customer Support,Job Board,Mid,1.016,3,12.1,60.3,19,19,No
+EMP-00223,2024-06,Customer Support,Job Board,Manager,1.121,4,0.0,43.3,1,18,Yes
+EMP-00224,2024-07,Customer Support,Job Board,Entry,1.069,11,1.3,84.5,17,17,No
+EMP-00225,2024-07,Customer Support,Job Board,Mid,0.974,6,9.6,34.2,5,17,Yes
+EMP-00226,2024-08,Customer Support,Job Board,Entry,0.903,9,9.4,78.6,16,16,No
+EMP-00227,2024-08,Customer Support,Job Board,Senior,1.032,4,6.5,57.8,16,16,No
+EMP-00228,2024-09,Customer Support,Job Board,Entry,0.759,9,0.0,63.6,15,15,No
+EMP-00229,2024-09,Customer Support,Job Board,Mid,1.082,5,20.1,85.1,4,15,Yes
+EMP-00230,2024-10,Customer Support,Job Board,Entry,0.919,9,10.1,71.7,14,14,No
+EMP-00231,2024-10,Customer Support,Job Board,Entry,0.952,9,16.5,68.3,14,14,No
+EMP-00232,2024-11,Customer Support,Job Board,Entry,0.941,8,0.0,60.5,13,13,No
+EMP-00233,2024-11,Customer Support,Job Board,Senior,1.033,6,3.5,59.4,13,13,No
+EMP-00234,2024-12,Customer Support,Job Board,Mid,1.048,7,11.0,58.8,12,12,No
+EMP-00235,2024-12,Customer Support,Job Board,Mid,0.863,6,13.6,52.1,12,12,No
+EMP-00236,2025-01,Customer Support,Job Board,Entry,0.904,7,0.0,95.4,11,11,No
+EMP-00237,2025-02,Customer Support,Job Board,Mid,0.936,4,0.0,70.6,10,10,No
+EMP-00238,2025-02,Customer Support,Job Board,Senior,1.054,8,0.0,82.8,10,10,No
+EMP-00239,2025-02,Customer Support,Job Board,Entry,0.935,5,3.9,57.3,10,10,No
+EMP-00240,2025-03,Customer Support,Job Board,Mid,1.084,8,3.3,67.4,9,9,No
+EMP-00241,2025-03,Customer Support,Job Board,Mid,1.059,7,7.3,84.5,9,9,No
+EMP-00242,2025-04,Customer Support,Job Board,Senior,0.911,6,16.6,64.9,1,8,Yes
+EMP-00243,2025-04,Customer Support,Job Board,Mid,0.904,7,9.2,64.1,3,8,Yes
+EMP-00244,2025-04,Customer Support,Job Board,Entry,1.0,4,11.7,55.7,1,8,Yes
+EMP-00245,2025-05,Customer Support,Job Board,Mid,0.95,6,4.3,80.2,7,7,No
+EMP-00246,2025-05,Customer Support,Job Board,Entry,0.859,3,0.0,49.7,7,7,No
+EMP-00247,2025-06,Customer Support,Job Board,Manager,1.016,9,0.4,64.0,6,6,No
+EMP-00248,2025-06,Customer Support,Job Board,Mid,0.862,10,0.0,42.4,6,6,No
+EMP-00249,2025-07,Customer Support,Job Board,Mid,1.094,9,8.1,90.9,5,5,No
+EMP-00250,2025-07,Customer Support,Job Board,Mid,0.85,8,2.9,73.6,5,5,No
+EMP-00251,2025-08,Customer Support,Job Board,Mid,1.098,7,1.8,84.6,4,4,No
+EMP-00252,2025-08,Customer Support,Job Board,Senior,1.075,7,0.0,74.1,4,4,No
+EMP-00253,2025-08,Customer Support,Job Board,Entry,0.901,8,17.3,77.9,4,4,No
+EMP-00254,2025-09,Customer Support,Job Board,Mid,1.02,9,23.9,54.8,3,3,Yes
+EMP-00255,2025-09,Customer Support,Job Board,Manager,1.034,4,0.4,48.6,3,3,No
+EMP-00256,2025-10,Customer Support,Job Board,Entry,0.78,5,0.0,54.7,2,2,No
+EMP-00257,2025-10,Customer Support,Job Board,Entry,1.002,7,8.3,64.1,2,2,No
+EMP-00258,2025-10,Customer Support,Job Board,Entry,0.892,7,3.0,37.8,2,2,No
+EMP-00259,2025-11,Customer Support,Job Board,Entry,1.162,3,5.4,43.5,1,1,No
+EMP-00260,2025-11,Customer Support,Job Board,Senior,1.168,9,13.9,71.9,1,1,No
+EMP-00261,2025-11,Customer Support,Job Board,Senior,0.878,6,10.4,71.9,1,1,No
+EMP-00262,2025-12,Customer Support,Job Board,Mid,1.152,3,0.0,71.9,1,1,No
+EMP-00263,2025-12,Customer Support,Job Board,Mid,0.884,6,8.6,71.3,1,1,No
+EMP-00264,2024-01,Customer Support,Employee Referral,Mid,1.047,4,2.6,58.3,23,23,No
+EMP-00265,2024-01,Customer Support,Employee Referral,Senior,1.063,5,0.0,77.3,1,23,Yes
+EMP-00266,2024-02,Customer Support,Employee Referral,Entry,0.863,7,6.4,54.8,22,22,No
+EMP-00267,2024-02,Customer Support,Employee Referral,Entry,0.989,11,9.4,52.4,22,22,No
+EMP-00268,2024-03,Customer Support,Employee Referral,Entry,0.986,9,4.8,63.4,21,21,No
+EMP-00269,2024-03,Customer Support,Employee Referral,Entry,0.962,3,21.4,63.5,7,21,Yes
+EMP-00270,2024-04,Customer Support,Employee Referral,Entry,0.991,7,9.9,66.7,20,20,No
+EMP-00271,2024-04,Customer Support,Employee Referral,Senior,0.929,3,7.2,47.7,20,20,No
+EMP-00272,2024-04,Customer Support,Employee Referral,Entry,0.973,7,7.8,82.5,20,20,No
+EMP-00273,2024-05,Customer Support,Employee Referral,Entry,0.814,8,8.6,49.1,19,19,No
+EMP-00274,2024-05,Customer Support,Employee Referral,Manager,0.926,9,9.1,49.9,12,19,Yes
+EMP-00275,2024-06,Customer Support,Employee Referral,Mid,1.054,9,0.8,56.1,18,18,No
+EMP-00276,2024-06,Customer Support,Employee Referral,Entry,1.075,9,4.3,43.1,18,18,No
+EMP-00277,2024-07,Customer Support,Employee Referral,Mid,0.999,8,0.0,78.9,5,17,Yes
+EMP-00278,2024-07,Customer Support,Employee Referral,Mid,1.087,8,0.0,68.5,17,17,No
+EMP-00279,2024-07,Customer Support,Employee Referral,Mid,1.016,4,2.2,58.2,17,17,No
+EMP-00280,2024-07,Customer Support,Employee Referral,Mid,1.061,3,7.7,91.9,17,17,No
+EMP-00281,2024-08,Customer Support,Employee Referral,Entry,0.998,5,0.0,51.4,16,16,No
+EMP-00282,2024-08,Customer Support,Employee Referral,Manager,1.197,6,0.0,80.4,16,16,No
+EMP-00283,2024-09,Customer Support,Employee Referral,Senior,1.025,7,0.3,74.3,15,15,No
+EMP-00284,2024-09,Customer Support,Employee Referral,Senior,1.157,9,5.5,45.3,15,15,No
+EMP-00285,2024-10,Customer Support,Employee Referral,Entry,1.055,8,0.0,66.6,14,14,No
+EMP-00286,2024-10,Customer Support,Employee Referral,Mid,0.897,3,4.2,67.2,14,14,No
+EMP-00287,2024-11,Customer Support,Employee Referral,Entry,0.847,7,1.5,79.3,13,13,No
+EMP-00288,2024-11,Customer Support,Employee Referral,Mid,0.959,9,0.5,53.1,13,13,No
+EMP-00289,2024-12,Customer Support,Employee Referral,Mid,1.066,6,5.7,67.7,12,12,No
+EMP-00290,2024-12,Customer Support,Employee Referral,Senior,1.023,7,0.0,88.4,12,12,No
+EMP-00291,2024-12,Customer Support,Employee Referral,Entry,0.974,9,5.9,77.5,12,12,No
+EMP-00292,2025-01,Customer Support,Employee Referral,Entry,0.924,8,13.4,85.7,11,11,No
+EMP-00293,2025-01,Customer Support,Employee Referral,Entry,1.093,8,0.0,76.4,11,11,No
+EMP-00294,2025-01,Customer Support,Employee Referral,Manager,1.08,5,9.7,57.9,11,11,No
+EMP-00295,2025-02,Customer Support,Employee Referral,Manager,1.177,4,2.8,66.5,1,10,Yes
+EMP-00296,2025-02,Customer Support,Employee Referral,Mid,1.298,8,5.8,66.2,10,10,No
+EMP-00297,2025-03,Customer Support,Employee Referral,Senior,1.002,7,13.4,31.6,9,9,No
+EMP-00298,2025-03,Customer Support,Employee Referral,Mid,1.021,3,12.5,70.1,9,9,No
+EMP-00299,2025-03,Customer Support,Employee Referral,Entry,0.947,6,0.0,76.3,9,9,No
+EMP-00300,2025-04,Customer Support,Employee Referral,Mid,1.055,4,1.1,42.1,8,8,No
+EMP-00301,2025-04,Customer Support,Employee Referral,Senior,1.127,8,0.8,42.8,8,8,No
+EMP-00302,2025-04,Customer Support,Employee Referral,Entry,1.002,6,2.8,58.9,8,8,No
+EMP-00303,2025-05,Customer Support,Employee Referral,Senior,0.912,7,7.5,72.3,7,7,No
+EMP-00304,2025-05,Customer Support,Employee Referral,Entry,1.077,6,5.1,91.8,7,7,No
+EMP-00305,2025-06,Customer Support,Employee Referral,Entry,0.778,8,3.7,95.5,2,6,Yes
+EMP-00306,2025-06,Customer Support,Employee Referral,Entry,1.028,9,0.0,70.4,6,6,No
+EMP-00307,2025-06,Customer Support,Employee Referral,Entry,0.847,6,0.0,74.9,6,6,No
+EMP-00308,2025-06,Customer Support,Employee Referral,Mid,0.916,6,13.1,63.4,6,6,No
+EMP-00309,2025-06,Customer Support,Employee Referral,Entry,1.001,11,0.0,58.6,6,6,No
+EMP-00310,2025-07,Customer Support,Employee Referral,Entry,1.005,7,8.5,97.2,5,5,No
+EMP-00311,2025-08,Customer Support,Employee Referral,Entry,0.884,7,14.0,62.9,4,4,No
+EMP-00312,2025-08,Customer Support,Employee Referral,Mid,1.013,6,2.5,82.2,4,4,No
+EMP-00313,2025-08,Customer Support,Employee Referral,Entry,0.942,3,3.6,57.5,4,4,No
+EMP-00314,2025-08,Customer Support,Employee Referral,Mid,0.95,3,7.0,78.3,4,4,No
+EMP-00315,2025-09,Customer Support,Employee Referral,Manager,1.018,5,3.6,74.4,3,3,No
+EMP-00316,2025-09,Customer Support,Employee Referral,Entry,0.865,11,3.7,66.7,3,3,No
+EMP-00317,2025-10,Customer Support,Employee Referral,Entry,1.056,4,1.8,97.0,2,2,No
+EMP-00318,2025-10,Customer Support,Employee Referral,Mid,1.072,7,3.5,54.1,2,2,No
+EMP-00319,2025-11,Customer Support,Employee Referral,Manager,1.029,3,1.8,52.7,1,1,No
+EMP-00320,2025-11,Customer Support,Employee Referral,Senior,0.916,3,15.5,59.4,1,1,No
+EMP-00321,2025-11,Customer Support,Employee Referral,Mid,1.064,6,8.7,56.0,1,1,No
+EMP-00322,2025-11,Customer Support,Employee Referral,Mid,0.965,9,1.4,25.2,1,1,No
+EMP-00323,2025-11,Customer Support,Employee Referral,Entry,1.044,5,0.0,50.1,1,1,No
+EMP-00324,2025-12,Customer Support,Employee Referral,Mid,0.903,4,8.9,74.2,1,1,No
+EMP-00325,2025-12,Customer Support,Employee Referral,Entry,0.834,13,0.0,50.1,1,1,No
+EMP-00326,2025-12,Customer Support,Employee Referral,Senior,0.895,7,21.7,43.3,1,1,No
+EMP-00327,2024-01,Customer Support,Agency,Entry,0.96,5,0.0,73.9,23,23,No
+EMP-00328,2024-01,Customer Support,Agency,Entry,0.993,7,0.0,52.1,7,23,Yes
+EMP-00329,2024-01,Customer Support,Agency,Entry,0.855,7,0.0,79.3,14,23,Yes
+EMP-00330,2024-02,Customer Support,Agency,Mid,1.064,8,4.9,63.0,22,22,No
+EMP-00331,2024-02,Customer Support,Agency,Manager,0.872,12,0.0,31.2,3,22,Yes
+EMP-00332,2024-03,Customer Support,Agency,Entry,0.907,7,4.5,49.0,3,21,Yes
+EMP-00333,2024-03,Customer Support,Agency,Entry,0.949,9,2.3,68.1,21,21,No
+EMP-00334,2024-04,Customer Support,Agency,Senior,0.94,4,1.1,79.8,20,20,No
+EMP-00335,2024-04,Customer Support,Agency,Senior,1.017,3,15.9,63.3,20,20,No
+EMP-00336,2024-04,Customer Support,Agency,Mid,1.054,8,3.9,78.4,9,20,Yes
+EMP-00337,2024-05,Customer Support,Agency,Mid,1.047,6,0.0,47.0,19,19,No
+EMP-00338,2024-06,Customer Support,Agency,Entry,0.899,3,2.9,61.0,18,18,No
+EMP-00339,2024-06,Customer Support,Agency,Entry,0.799,9,9.0,59.6,17,18,Yes
+EMP-00340,2024-07,Customer Support,Agency,Entry,0.968,8,8.0,66.2,17,17,No
+EMP-00341,2024-07,Customer Support,Agency,Entry,0.886,8,15.4,69.5,17,17,No
+EMP-00342,2024-07,Customer Support,Agency,Manager,1.098,6,0.0,51.9,17,17,No
+EMP-00343,2024-08,Customer Support,Agency,Entry,0.939,9,0.0,85.1,2,16,Yes
+EMP-00344,2024-09,Customer Support,Agency,Entry,0.894,8,8.6,42.4,15,15,No
+EMP-00345,2024-10,Customer Support,Agency,Entry,0.966,8,9.4,68.4,8,14,Yes
+EMP-00346,2024-10,Customer Support,Agency,Mid,0.96,9,0.0,65.7,14,14,No
+EMP-00347,2024-11,Customer Support,Agency,Senior,1.004,10,13.2,93.1,1,13,Yes
+EMP-00348,2024-12,Customer Support,Agency,Senior,0.832,7,6.4,60.1,12,12,No
+EMP-00349,2024-12,Customer Support,Agency,Manager,1.153,9,2.3,78.5,12,12,No
+EMP-00350,2025-01,Customer Support,Agency,Senior,0.993,5,5.6,63.6,2,11,Yes
+EMP-00351,2025-01,Customer Support,Agency,Mid,0.995,11,0.0,73.6,11,11,No
+EMP-00352,2025-02,Customer Support,Agency,Mid,0.95,8,17.4,78.7,3,10,Yes
+EMP-00353,2025-02,Customer Support,Agency,Mid,1.003,9,7.7,78.1,10,10,No
+EMP-00354,2025-02,Customer Support,Agency,Entry,0.922,9,18.5,84.4,3,10,Yes
+EMP-00355,2025-02,Customer Support,Agency,Senior,0.93,8,1.6,87.1,5,10,Yes
+EMP-00356,2025-03,Customer Support,Agency,Entry,0.77,13,7.5,62.1,9,9,No
+EMP-00357,2025-04,Customer Support,Agency,Entry,0.81,6,0.0,49.3,8,8,No
+EMP-00358,2025-04,Customer Support,Agency,Entry,1.028,7,4.7,58.5,8,8,No
+EMP-00359,2025-05,Customer Support,Agency,Entry,0.916,7,8.8,51.9,1,7,Yes
+EMP-00360,2025-05,Customer Support,Agency,Mid,1.074,9,2.8,62.2,7,7,No
+EMP-00361,2025-06,Customer Support,Agency,Manager,1.129,9,8.8,70.5,6,6,No
+EMP-00362,2025-06,Customer Support,Agency,Manager,0.922,7,3.2,66.8,1,6,Yes
+EMP-00363,2025-07,Customer Support,Agency,Mid,1.082,4,6.3,37.8,5,5,No
+EMP-00364,2025-08,Customer Support,Agency,Entry,1.051,4,4.0,45.7,3,4,Yes
+EMP-00365,2025-08,Customer Support,Agency,Entry,1.145,3,2.8,77.8,4,4,No
+EMP-00366,2025-09,Customer Support,Agency,Entry,0.999,9,0.0,68.1,3,3,No
+EMP-00367,2025-09,Customer Support,Agency,Senior,0.916,6,0.3,43.5,3,3,No
+EMP-00368,2025-10,Customer Support,Agency,Entry,1.132,3,0.0,71.0,2,2,No
+EMP-00369,2025-11,Customer Support,Agency,Mid,0.93,8,1.2,60.8,1,1,Yes
+EMP-00370,2025-11,Customer Support,Agency,Entry,1.014,3,1.4,97.1,1,1,No
+EMP-00371,2025-12,Customer Support,Agency,Entry,0.84,8,8.1,100.0,1,1,No
+EMP-00372,2024-01,Customer Support,Campus,Entry,1.035,10,0.0,64.4,23,23,No
+EMP-00373,2024-02,Customer Support,Campus,Entry,0.951,6,2.3,80.0,22,22,No
+EMP-00374,2024-03,Customer Support,Campus,Mid,1.12,4,1.3,31.9,21,21,No
+EMP-00375,2024-04,Customer Support,Campus,Senior,1.172,3,5.6,77.1,20,20,No
+EMP-00376,2024-05,Customer Support,Campus,Mid,1.126,12,3.6,65.8,1,19,Yes
+EMP-00377,2024-06,Customer Support,Campus,Entry,0.9,3,6.9,55.2,18,18,No
+EMP-00378,2024-07,Customer Support,Campus,Entry,0.901,6,6.6,38.6,1,17,Yes
+EMP-00379,2024-08,Customer Support,Campus,Mid,0.792,10,3.1,55.5,16,16,No
+EMP-00380,2024-09,Customer Support,Campus,Manager,1.089,6,4.2,57.8,7,15,Yes
+EMP-00381,2024-11,Customer Support,Campus,Entry,1.059,8,6.2,81.2,13,13,No
+EMP-00382,2024-12,Customer Support,Campus,Manager,1.092,9,6.8,63.6,12,12,No
+EMP-00383,2025-01,Customer Support,Campus,Entry,1.009,9,5.1,76.3,11,11,No
+EMP-00384,2025-02,Customer Support,Campus,Mid,0.865,3,13.3,60.0,10,10,No
+EMP-00385,2025-03,Customer Support,Campus,Mid,1.133,3,12.4,79.7,9,9,No
+EMP-00386,2025-04,Customer Support,Campus,Mid,0.917,8,0.4,75.2,8,8,No
+EMP-00387,2025-05,Customer Support,Campus,Entry,0.979,4,0.0,55.6,2,7,Yes
+EMP-00388,2025-06,Customer Support,Campus,Entry,0.926,3,7.4,70.8,6,6,No
+EMP-00389,2025-07,Customer Support,Campus,Entry,0.952,3,0.7,59.8,2,5,Yes
+EMP-00390,2025-08,Customer Support,Campus,Entry,0.981,7,17.7,65.0,4,4,No
+EMP-00391,2025-09,Customer Support,Campus,Entry,0.978,3,4.6,63.5,1,3,Yes
+EMP-00392,2025-10,Customer Support,Campus,Entry,0.821,8,3.2,59.9,2,2,No
+EMP-00393,2025-11,Customer Support,Campus,Senior,1.025,8,1.5,58.2,1,1,No
+EMP-00394,2025-12,Customer Support,Campus,Manager,1.037,6,9.8,80.3,1,1,No
+EMP-00395,2024-01,Customer Support,Internal Transfer,Mid,0.983,7,10.4,73.9,23,23,No
+EMP-00396,2024-01,Customer Support,Internal Transfer,Entry,1.076,3,5.6,69.6,23,23,No
+EMP-00397,2024-02,Customer Support,Internal Transfer,Manager,1.039,6,0.6,60.7,22,22,No
+EMP-00398,2024-02,Customer Support,Internal Transfer,Entry,1.008,3,7.5,67.0,22,22,No
+EMP-00399,2024-03,Customer Support,Internal Transfer,Senior,0.985,4,7.4,58.4,5,21,Yes
+EMP-00400,2024-03,Customer Support,Internal Transfer,Entry,0.867,10,0.0,59.5,21,21,No
+EMP-00401,2024-04,Customer Support,Internal Transfer,Mid,1.021,4,7.3,52.9,20,20,No
+EMP-00402,2024-05,Customer Support,Internal Transfer,Mid,1.142,5,12.5,74.6,19,19,No
+EMP-00403,2024-05,Customer Support,Internal Transfer,Entry,0.878,6,7.2,88.0,4,19,Yes
+EMP-00404,2024-06,Customer Support,Internal Transfer,Entry,0.979,3,9.9,73.7,18,18,No
+EMP-00405,2024-06,Customer Support,Internal Transfer,Manager,1.031,5,8.2,68.9,18,18,No
+EMP-00406,2024-08,Customer Support,Internal Transfer,Entry,0.905,9,1.8,78.0,16,16,No
+EMP-00407,2024-08,Customer Support,Internal Transfer,Senior,0.944,8,16.6,68.6,16,16,No
+EMP-00408,2024-09,Customer Support,Internal Transfer,Mid,1.063,4,6.2,59.1,15,15,No
+EMP-00409,2024-09,Customer Support,Internal Transfer,Entry,1.112,6,0.9,59.8,15,15,No
+EMP-00410,2024-10,Customer Support,Internal Transfer,Mid,0.973,3,6.7,38.4,14,14,No
+EMP-00411,2024-10,Customer Support,Internal Transfer,Senior,1.114,8,0.0,82.8,14,14,No
+EMP-00412,2024-11,Customer Support,Internal Transfer,Mid,0.989,6,0.0,61.1,13,13,No
+EMP-00413,2024-11,Customer Support,Internal Transfer,Mid,0.989,5,8.1,70.9,13,13,No
+EMP-00414,2024-12,Customer Support,Internal Transfer,Entry,0.925,4,15.9,72.7,12,12,No
+EMP-00415,2024-12,Customer Support,Internal Transfer,Mid,1.0,10,6.8,66.5,12,12,No
+EMP-00416,2025-01,Customer Support,Internal Transfer,Entry,0.866,8,0.0,70.8,11,11,No
+EMP-00417,2025-01,Customer Support,Internal Transfer,Entry,0.947,8,1.1,73.8,11,11,No
+EMP-00418,2025-02,Customer Support,Internal Transfer,Manager,0.773,7,8.8,57.2,10,10,No
+EMP-00419,2025-02,Customer Support,Internal Transfer,Senior,0.989,8,14.0,84.4,10,10,No
+EMP-00420,2025-03,Customer Support,Internal Transfer,Manager,0.927,5,0.0,64.7,9,9,No
+EMP-00421,2025-03,Customer Support,Internal Transfer,Manager,1.156,3,2.9,42.2,8,9,Yes
+EMP-00422,2025-03,Customer Support,Internal Transfer,Mid,0.933,12,13.1,69.3,9,9,No
+EMP-00423,2025-04,Customer Support,Internal Transfer,Mid,0.79,7,2.4,76.4,8,8,No
+EMP-00424,2025-05,Customer Support,Internal Transfer,Mid,0.9,9,0.9,67.1,7,7,No
+EMP-00425,2025-05,Customer Support,Internal Transfer,Entry,1.135,7,6.7,80.6,7,7,No
+EMP-00426,2025-07,Customer Support,Internal Transfer,Entry,0.877,7,13.5,40.7,4,5,Yes
+EMP-00427,2025-07,Customer Support,Internal Transfer,Mid,0.75,6,1.8,75.7,5,5,No
+EMP-00428,2025-07,Customer Support,Internal Transfer,Mid,0.993,9,1.4,55.0,5,5,No
+EMP-00429,2025-08,Customer Support,Internal Transfer,Entry,0.969,12,9.0,68.4,4,4,No
+EMP-00430,2025-08,Customer Support,Internal Transfer,Senior,1.096,10,1.6,39.3,4,4,No
+EMP-00431,2025-09,Customer Support,Internal Transfer,Mid,0.857,7,10.6,63.3,3,3,No
+EMP-00432,2025-09,Customer Support,Internal Transfer,Senior,0.997,6,2.9,60.3,3,3,No
+EMP-00433,2025-10,Customer Support,Internal Transfer,Mid,1.054,8,14.4,48.6,2,2,No
+EMP-00434,2025-11,Customer Support,Internal Transfer,Entry,0.874,8,13.9,70.5,1,1,No
+EMP-00435,2025-12,Customer Support,Internal Transfer,Senior,0.965,5,6.3,61.3,1,1,No
+EMP-00436,2024-01,Warehouse & Ops,Job Board,Entry,0.986,10,15.0,50.1,3,23,Yes
+EMP-00437,2024-01,Warehouse & Ops,Job Board,Entry,0.897,9,18.2,68.4,1,23,Yes
+EMP-00438,2024-02,Warehouse & Ops,Job Board,Mid,1.039,7,23.6,84.3,22,22,No
+EMP-00439,2024-02,Warehouse & Ops,Job Board,Manager,1.105,7,13.1,73.8,10,22,Yes
+EMP-00440,2024-03,Warehouse & Ops,Job Board,Senior,1.001,6,20.2,72.9,21,21,No
+EMP-00441,2024-03,Warehouse & Ops,Job Board,Mid,0.966,6,4.3,68.4,21,21,No
+EMP-00442,2024-04,Warehouse & Ops,Job Board,Senior,1.087,9,19.8,65.0,20,20,No
+EMP-00443,2024-04,Warehouse & Ops,Job Board,Senior,0.82,11,7.6,81.2,20,20,No
+EMP-00444,2024-04,Warehouse & Ops,Job Board,Mid,1.04,8,23.6,67.8,12,20,Yes
+EMP-00445,2024-05,Warehouse & Ops,Job Board,Senior,1.08,11,15.9,58.3,19,19,No
+EMP-00446,2024-06,Warehouse & Ops,Job Board,Mid,1.039,7,11.6,73.0,13,18,Yes
+EMP-00447,2024-06,Warehouse & Ops,Job Board,Senior,1.172,8,7.1,82.5,18,18,No
+EMP-00448,2024-07,Warehouse & Ops,Job Board,Entry,0.966,13,15.2,37.3,6,17,Yes
+EMP-00449,2024-07,Warehouse & Ops,Job Board,Mid,1.033,14,19.3,82.8,17,17,No
+EMP-00450,2024-08,Warehouse & Ops,Job Board,Mid,0.811,9,12.0,22.7,1,16,Yes
+EMP-00451,2024-08,Warehouse & Ops,Job Board,Entry,0.991,8,14.4,86.6,3,16,Yes
+EMP-00452,2024-09,Warehouse & Ops,Job Board,Entry,0.949,5,17.4,38.8,15,15,No
+EMP-00453,2024-09,Warehouse & Ops,Job Board,Manager,0.972,7,19.0,84.8,15,15,No
+EMP-00454,2024-10,Warehouse & Ops,Job Board,Entry,0.959,13,12.3,86.0,2,14,Yes
+EMP-00455,2024-10,Warehouse & Ops,Job Board,Senior,0.877,9,11.2,75.6,14,14,No
+EMP-00456,2024-11,Warehouse & Ops,Job Board,Mid,1.098,11,24.7,58.4,13,13,No
+EMP-00457,2024-11,Warehouse & Ops,Job Board,Mid,1.101,11,9.7,54.4,13,13,No
+EMP-00458,2024-11,Warehouse & Ops,Job Board,Mid,1.141,6,9.9,55.1,13,13,No
+EMP-00459,2024-12,Warehouse & Ops,Job Board,Senior,1.128,11,8.8,69.6,2,12,Yes
+EMP-00460,2024-12,Warehouse & Ops,Job Board,Entry,0.961,5,22.8,62.6,12,12,No
+EMP-00461,2025-01,Warehouse & Ops,Job Board,Manager,0.887,4,19.9,44.0,11,11,No
+EMP-00462,2025-01,Warehouse & Ops,Job Board,Mid,0.918,10,6.2,71.8,11,11,No
+EMP-00463,2025-01,Warehouse & Ops,Job Board,Entry,0.96,12,23.2,64.9,5,11,Yes
+EMP-00464,2025-02,Warehouse & Ops,Job Board,Entry,0.941,7,18.2,70.4,10,10,No
+EMP-00465,2025-02,Warehouse & Ops,Job Board,Senior,0.968,10,19.9,68.3,10,10,No
+EMP-00466,2025-03,Warehouse & Ops,Job Board,Entry,0.781,10,0.0,59.0,9,9,No
+EMP-00467,2025-03,Warehouse & Ops,Job Board,Entry,0.927,5,16.7,77.9,9,9,No
+EMP-00468,2025-03,Warehouse & Ops,Job Board,Entry,1.023,12,10.2,54.0,9,9,No
+EMP-00469,2025-04,Warehouse & Ops,Job Board,Manager,1.089,13,23.1,82.2,8,8,No
+EMP-00470,2025-04,Warehouse & Ops,Job Board,Entry,1.171,9,18.2,62.8,8,8,No
+EMP-00471,2025-05,Warehouse & Ops,Job Board,Entry,0.833,6,9.0,60.6,1,7,Yes
+EMP-00472,2025-06,Warehouse & Ops,Job Board,Entry,0.935,11,12.2,66.3,6,6,No
+EMP-00473,2025-06,Warehouse & Ops,Job Board,Entry,0.75,9,19.1,73.9,2,6,Yes
+EMP-00474,2025-06,Warehouse & Ops,Job Board,Entry,0.889,9,10.8,76.1,6,6,No
+EMP-00475,2025-07,Warehouse & Ops,Job Board,Mid,0.9,6,6.5,69.9,1,5,Yes
+EMP-00476,2025-07,Warehouse & Ops,Job Board,Entry,0.927,9,10.8,66.9,5,5,No
+EMP-00477,2025-08,Warehouse & Ops,Job Board,Senior,0.846,11,21.7,46.3,1,4,Yes
+EMP-00478,2025-08,Warehouse & Ops,Job Board,Mid,0.958,5,7.3,66.9,3,4,Yes
+EMP-00479,2025-09,Warehouse & Ops,Job Board,Senior,0.916,11,12.2,54.4,2,3,Yes
+EMP-00480,2025-10,Warehouse & Ops,Job Board,Entry,1.103,10,3.6,75.7,2,2,No
+EMP-00481,2025-10,Warehouse & Ops,Job Board,Mid,0.859,11,13.3,39.9,2,2,No
+EMP-00482,2025-11,Warehouse & Ops,Job Board,Mid,0.885,10,10.6,51.4,1,1,No
+EMP-00483,2025-11,Warehouse & Ops,Job Board,Mid,1.011,9,8.3,35.4,1,1,No
+EMP-00484,2025-12,Warehouse & Ops,Job Board,Entry,0.918,9,11.9,74.8,1,1,No
+EMP-00485,2025-12,Warehouse & Ops,Job Board,Entry,0.895,7,10.9,58.2,1,1,No
+EMP-00486,2024-01,Warehouse & Ops,Employee Referral,Entry,0.985,12,16.8,62.4,3,23,Yes
+EMP-00487,2024-01,Warehouse & Ops,Employee Referral,Manager,1.095,8,14.0,95.3,13,23,Yes
+EMP-00488,2024-02,Warehouse & Ops,Employee Referral,Entry,1.012,8,20.0,76.2,16,22,Yes
+EMP-00489,2024-03,Warehouse & Ops,Employee Referral,Entry,0.857,10,15.5,72.1,21,21,No
+EMP-00490,2024-04,Warehouse & Ops,Employee Referral,Entry,0.976,9,18.7,80.8,20,20,No
+EMP-00491,2024-04,Warehouse & Ops,Employee Referral,Entry,0.819,13,9.8,84.1,3,20,Yes
+EMP-00492,2024-05,Warehouse & Ops,Employee Referral,Mid,1.078,12,12.4,68.4,19,19,No
+EMP-00493,2024-06,Warehouse & Ops,Employee Referral,Entry,0.911,7,11.6,33.4,18,18,No
+EMP-00494,2024-06,Warehouse & Ops,Employee Referral,Entry,0.953,12,16.6,92.2,4,18,Yes
+EMP-00495,2024-07,Warehouse & Ops,Employee Referral,Mid,1.047,12,6.0,79.0,17,17,No
+EMP-00496,2024-07,Warehouse & Ops,Employee Referral,Senior,0.897,6,19.0,67.1,17,17,No
+EMP-00497,2024-08,Warehouse & Ops,Employee Referral,Entry,0.764,8,17.2,49.8,16,16,No
+EMP-00498,2024-09,Warehouse & Ops,Employee Referral,Entry,0.872,11,14.1,56.6,15,15,No
+EMP-00499,2024-10,Warehouse & Ops,Employee Referral,Entry,1.126,7,19.1,81.5,14,14,No
+EMP-00500,2024-10,Warehouse & Ops,Employee Referral,Mid,1.054,8,8.4,54.8,14,14,No
+EMP-00501,2024-11,Warehouse & Ops,Employee Referral,Entry,1.069,8,14.7,82.7,13,13,No
+EMP-00502,2024-12,Warehouse & Ops,Employee Referral,Entry,0.851,15,19.9,61.0,12,12,No
+EMP-00503,2025-01,Warehouse & Ops,Employee Referral,Entry,1.083,7,12.5,51.8,11,11,No
+EMP-00504,2025-02,Warehouse & Ops,Employee Referral,Mid,0.966,8,6.9,64.8,10,10,No
+EMP-00505,2025-03,Warehouse & Ops,Employee Referral,Entry,0.929,10,7.1,72.1,9,9,No
+EMP-00506,2025-04,Warehouse & Ops,Employee Referral,Mid,1.199,8,10.9,70.4,1,8,Yes
+EMP-00507,2025-04,Warehouse & Ops,Employee Referral,Entry,0.939,8,17.6,45.5,1,8,Yes
+EMP-00508,2025-05,Warehouse & Ops,Employee Referral,Entry,0.919,10,8.8,46.4,7,7,No
+EMP-00509,2025-06,Warehouse & Ops,Employee Referral,Mid,0.902,7,18.6,74.8,6,6,No
+EMP-00510,2025-07,Warehouse & Ops,Employee Referral,Senior,0.977,9,9.2,40.2,5,5,No
+EMP-00511,2025-07,Warehouse & Ops,Employee Referral,Senior,1.095,13,16.3,45.1,5,5,No
+EMP-00512,2025-08,Warehouse & Ops,Employee Referral,Mid,1.036,10,24.4,84.1,4,4,No
+EMP-00513,2025-08,Warehouse & Ops,Employee Referral,Mid,0.939,8,14.3,82.6,4,4,No
+EMP-00514,2025-08,Warehouse & Ops,Employee Referral,Mid,1.068,11,16.5,95.0,4,4,No
+EMP-00515,2025-09,Warehouse & Ops,Employee Referral,Mid,1.065,7,14.3,75.3,3,3,Yes
+EMP-00516,2025-09,Warehouse & Ops,Employee Referral,Mid,1.026,12,24.9,67.3,3,3,No
+EMP-00517,2025-10,Warehouse & Ops,Employee Referral,Manager,1.138,8,18.8,40.9,2,2,No
+EMP-00518,2025-11,Warehouse & Ops,Employee Referral,Entry,0.804,6,16.0,76.1,1,1,No
+EMP-00519,2025-11,Warehouse & Ops,Employee Referral,Mid,0.98,8,6.5,58.2,1,1,No
+EMP-00520,2025-12,Warehouse & Ops,Employee Referral,Mid,1.001,11,19.0,76.6,1,1,No
+EMP-00521,2024-01,Warehouse & Ops,Agency,Entry,0.99,6,21.6,92.8,11,23,Yes
+EMP-00522,2024-01,Warehouse & Ops,Agency,Entry,0.858,8,6.2,78.5,1,23,Yes
+EMP-00523,2024-02,Warehouse & Ops,Agency,Manager,1.21,13,18.3,55.5,22,22,No
+EMP-00524,2024-03,Warehouse & Ops,Agency,Manager,0.963,6,2.1,52.0,21,21,No
+EMP-00525,2024-04,Warehouse & Ops,Agency,Entry,1.093,10,13.9,44.8,20,20,No
+EMP-00526,2024-04,Warehouse & Ops,Agency,Entry,0.914,8,8.4,75.7,20,20,No
+EMP-00527,2024-05,Warehouse & Ops,Agency,Entry,0.906,10,16.7,84.2,13,19,Yes
+EMP-00528,2024-06,Warehouse & Ops,Agency,Senior,1.078,4,12.4,48.4,18,18,No
+EMP-00529,2024-06,Warehouse & Ops,Agency,Entry,1.079,3,21.9,86.5,18,18,No
+EMP-00530,2024-07,Warehouse & Ops,Agency,Entry,0.882,9,2.5,86.6,17,17,No
+EMP-00531,2024-08,Warehouse & Ops,Agency,Entry,0.888,7,17.6,53.5,16,16,Yes
+EMP-00532,2024-09,Warehouse & Ops,Agency,Entry,1.027,8,18.0,90.4,15,15,No
+EMP-00533,2024-09,Warehouse & Ops,Agency,Senior,1.019,6,20.0,66.0,15,15,No
+EMP-00534,2024-10,Warehouse & Ops,Agency,Senior,1.127,5,16.1,52.3,5,14,Yes
+EMP-00535,2024-11,Warehouse & Ops,Agency,Entry,0.79,7,11.2,86.6,13,13,No
+EMP-00536,2024-12,Warehouse & Ops,Agency,Entry,0.85,7,20.4,57.2,12,12,No
+EMP-00537,2024-12,Warehouse & Ops,Agency,Senior,0.954,11,20.4,98.0,12,12,No
+EMP-00538,2025-01,Warehouse & Ops,Agency,Senior,0.94,9,11.6,41.5,11,11,No
+EMP-00539,2025-01,Warehouse & Ops,Agency,Mid,1.099,5,11.0,81.1,11,11,No
+EMP-00540,2025-02,Warehouse & Ops,Agency,Mid,1.012,9,10.3,70.9,10,10,No
+EMP-00541,2025-02,Warehouse & Ops,Agency,Senior,0.869,11,12.6,88.8,10,10,No
+EMP-00542,2025-03,Warehouse & Ops,Agency,Entry,0.915,7,10.3,96.6,9,9,No
+EMP-00543,2025-04,Warehouse & Ops,Agency,Senior,0.998,8,10.8,60.1,8,8,No
+EMP-00544,2025-04,Warehouse & Ops,Agency,Entry,0.891,9,17.8,58.9,3,8,Yes
+EMP-00545,2025-05,Warehouse & Ops,Agency,Mid,0.928,8,4.0,48.6,7,7,No
+EMP-00546,2025-06,Warehouse & Ops,Agency,Entry,1.085,10,16.6,75.1,6,6,No
+EMP-00547,2025-07,Warehouse & Ops,Agency,Mid,0.973,7,3.4,49.3,1,5,Yes
+EMP-00548,2025-08,Warehouse & Ops,Agency,Entry,1.065,9,7.2,80.4,4,4,No
+EMP-00549,2025-08,Warehouse & Ops,Agency,Senior,0.878,10,18.1,97.6,2,4,Yes
+EMP-00550,2025-09,Warehouse & Ops,Agency,Mid,1.117,8,17.3,95.6,3,3,No
+EMP-00551,2025-09,Warehouse & Ops,Agency,Entry,1.04,12,21.3,60.1,3,3,No
+EMP-00552,2025-10,Warehouse & Ops,Agency,Entry,0.949,7,14.4,96.7,2,2,No
+EMP-00553,2025-11,Warehouse & Ops,Agency,Entry,1.039,8,27.8,36.3,1,1,No
+EMP-00554,2025-12,Warehouse & Ops,Agency,Entry,0.827,8,16.3,35.8,1,1,No
+EMP-00555,2024-01,Warehouse & Ops,Campus,Mid,0.953,11,2.3,51.1,23,23,No
+EMP-00556,2024-02,Warehouse & Ops,Campus,Mid,0.979,9,5.6,70.4,7,22,Yes
+EMP-00557,2024-03,Warehouse & Ops,Campus,Mid,1.077,11,13.3,77.4,6,21,Yes
+EMP-00558,2024-05,Warehouse & Ops,Campus,Entry,0.918,10,2.9,48.2,19,19,No
+EMP-00559,2024-07,Warehouse & Ops,Campus,Senior,1.048,10,7.4,66.5,17,17,No
+EMP-00560,2024-10,Warehouse & Ops,Campus,Entry,1.074,4,11.3,83.1,14,14,No
+EMP-00561,2024-11,Warehouse & Ops,Campus,Manager,0.965,8,18.9,89.3,10,13,Yes
+EMP-00562,2024-12,Warehouse & Ops,Campus,Entry,0.825,8,18.6,27.9,12,12,No
+EMP-00563,2025-01,Warehouse & Ops,Campus,Entry,0.995,6,12.2,67.1,3,11,Yes
+EMP-00564,2025-02,Warehouse & Ops,Campus,Mid,0.972,7,20.3,89.9,10,10,No
+EMP-00565,2025-03,Warehouse & Ops,Campus,Entry,1.061,11,9.4,67.5,9,9,No
+EMP-00566,2025-04,Warehouse & Ops,Campus,Senior,0.88,6,13.2,54.9,8,8,No
+EMP-00567,2025-07,Warehouse & Ops,Campus,Entry,0.922,7,8.2,64.4,5,5,No
+EMP-00568,2025-08,Warehouse & Ops,Campus,Mid,0.978,8,13.5,76.4,4,4,No
+EMP-00569,2025-09,Warehouse & Ops,Campus,Senior,1.131,7,19.9,76.9,3,3,No
+EMP-00570,2025-11,Warehouse & Ops,Campus,Senior,0.962,8,14.6,100.0,1,1,No
+EMP-00571,2024-01,Warehouse & Ops,Internal Transfer,Entry,0.861,11,11.4,64.7,4,23,Yes
+EMP-00572,2024-01,Warehouse & Ops,Internal Transfer,Senior,0.972,10,18.8,62.1,23,23,No
+EMP-00573,2024-03,Warehouse & Ops,Internal Transfer,Mid,1.022,8,7.8,88.6,21,21,No
+EMP-00574,2024-06,Warehouse & Ops,Internal Transfer,Manager,1.084,5,22.1,66.3,3,18,Yes
+EMP-00575,2024-07,Warehouse & Ops,Internal Transfer,Entry,0.867,10,21.0,64.8,17,17,No
+EMP-00576,2024-07,Warehouse & Ops,Internal Transfer,Senior,0.871,5,13.7,87.4,17,17,No
+EMP-00577,2024-11,Warehouse & Ops,Internal Transfer,Entry,0.916,10,17.4,55.4,9,13,Yes
+EMP-00578,2024-11,Warehouse & Ops,Internal Transfer,Entry,0.93,10,9.1,65.5,1,13,Yes
+EMP-00579,2024-12,Warehouse & Ops,Internal Transfer,Mid,1.104,8,17.8,61.7,12,12,No
+EMP-00580,2025-01,Warehouse & Ops,Internal Transfer,Entry,0.945,14,5.7,61.2,11,11,No
+EMP-00581,2025-05,Warehouse & Ops,Internal Transfer,Entry,0.984,12,15.2,67.4,6,7,Yes
+EMP-00582,2025-05,Warehouse & Ops,Internal Transfer,Mid,1.012,11,17.6,68.6,7,7,No
+EMP-00583,2025-06,Warehouse & Ops,Internal Transfer,Manager,1.193,7,12.3,56.7,6,6,No
+EMP-00584,2025-06,Warehouse & Ops,Internal Transfer,Senior,1.047,7,12.0,44.4,6,6,No
+EMP-00585,2025-09,Warehouse & Ops,Internal Transfer,Mid,0.852,8,27.7,67.7,1,3,Yes
+EMP-00586,2025-10,Warehouse & Ops,Internal Transfer,Mid,0.955,8,11.9,82.0,2,2,No
+EMP-00587,2025-11,Warehouse & Ops,Internal Transfer,Entry,1.026,11,3.6,51.2,1,1,No
+EMP-00588,2025-12,Warehouse & Ops,Internal Transfer,Entry,0.928,6,12.3,58.3,1,1,No
+EMP-00589,2024-01,Engineering,Job Board,Mid,1.046,7,2.4,79.0,23,23,No
+EMP-00590,2024-01,Engineering,Job Board,Senior,0.982,7,1.1,77.8,23,23,No
+EMP-00591,2024-02,Engineering,Job Board,Entry,0.869,9,7.9,70.1,22,22,No
+EMP-00592,2024-02,Engineering,Job Board,Entry,0.915,7,0.0,74.3,1,22,Yes
+EMP-00593,2024-02,Engineering,Job Board,Senior,0.925,6,0.0,67.6,22,22,No
+EMP-00594,2024-03,Engineering,Job Board,Entry,1.085,9,4.9,35.4,1,21,Yes
+EMP-00595,2024-03,Engineering,Job Board,Manager,1.109,6,3.7,51.0,21,21,No
+EMP-00596,2024-03,Engineering,Job Board,Entry,0.862,4,0.0,75.5,21,21,No
+EMP-00597,2024-04,Engineering,Job Board,Manager,1.134,6,0.0,83.8,3,20,Yes
+EMP-00598,2024-04,Engineering,Job Board,Mid,0.877,3,0.0,64.9,5,20,Yes
+EMP-00599,2024-05,Engineering,Job Board,Entry,1.079,5,0.7,83.2,2,19,Yes
+EMP-00600,2024-05,Engineering,Job Board,Entry,1.022,5,3.2,31.6,3,19,Yes
+EMP-00601,2024-05,Engineering,Job Board,Entry,1.023,8,5.2,73.4,1,19,Yes
+EMP-00602,2024-06,Engineering,Job Board,Mid,0.951,11,0.7,37.0,18,18,No
+EMP-00603,2024-06,Engineering,Job Board,Senior,0.965,6,7.4,67.4,18,18,No
+EMP-00604,2024-07,Engineering,Job Board,Entry,0.956,3,7.5,84.2,2,17,Yes
+EMP-00605,2024-07,Engineering,Job Board,Entry,0.839,11,8.5,46.2,17,17,No
+EMP-00606,2024-08,Engineering,Job Board,Senior,1.061,10,9.2,64.4,16,16,No
+EMP-00607,2024-08,Engineering,Job Board,Senior,0.944,12,4.6,48.8,3,16,Yes
+EMP-00608,2024-08,Engineering,Job Board,Senior,1.095,7,4.1,55.8,16,16,No
+EMP-00609,2024-09,Engineering,Job Board,Entry,0.939,3,0.9,68.2,15,15,No
+EMP-00610,2024-09,Engineering,Job Board,Entry,1.043,8,7.6,67.0,15,15,No
+EMP-00611,2024-09,Engineering,Job Board,Mid,0.939,4,3.2,85.2,15,15,No
+EMP-00612,2024-10,Engineering,Job Board,Entry,0.905,10,7.3,77.2,14,14,No
+EMP-00613,2024-10,Engineering,Job Board,Entry,1.128,8,11.5,63.7,14,14,No
+EMP-00614,2024-10,Engineering,Job Board,Manager,0.975,6,7.0,37.2,14,14,No
+EMP-00615,2024-11,Engineering,Job Board,Entry,1.08,5,1.0,34.5,3,13,Yes
+EMP-00616,2024-12,Engineering,Job Board,Entry,1.004,6,5.9,97.9,12,12,No
+EMP-00617,2024-12,Engineering,Job Board,Mid,0.873,6,9.0,74.8,1,12,Yes
+EMP-00618,2024-12,Engineering,Job Board,Entry,0.993,6,1.6,61.1,12,12,No
+EMP-00619,2024-12,Engineering,Job Board,Mid,0.928,5,9.7,62.2,12,12,No
+EMP-00620,2025-01,Engineering,Job Board,Entry,0.946,3,10.9,62.6,10,11,Yes
+EMP-00621,2025-01,Engineering,Job Board,Entry,1.002,4,4.5,63.1,3,11,Yes
+EMP-00622,2025-02,Engineering,Job Board,Entry,0.832,5,11.5,96.1,10,10,No
+EMP-00623,2025-02,Engineering,Job Board,Entry,0.75,11,2.6,58.2,10,10,Yes
+EMP-00624,2025-02,Engineering,Job Board,Senior,1.083,4,0.0,37.7,10,10,No
+EMP-00625,2025-03,Engineering,Job Board,Senior,0.914,5,3.4,72.7,8,9,Yes
+EMP-00626,2025-03,Engineering,Job Board,Entry,0.854,7,0.0,76.4,9,9,No
+EMP-00627,2025-04,Engineering,Job Board,Entry,1.18,9,13.9,80.1,5,8,Yes
+EMP-00628,2025-04,Engineering,Job Board,Mid,1.071,5,1.0,40.2,8,8,No
+EMP-00629,2025-05,Engineering,Job Board,Mid,1.058,13,9.6,76.2,7,7,No
+EMP-00630,2025-05,Engineering,Job Board,Entry,1.077,7,2.8,67.1,7,7,No
+EMP-00631,2025-06,Engineering,Job Board,Entry,0.95,8,7.3,68.2,6,6,No
+EMP-00632,2025-06,Engineering,Job Board,Entry,0.956,8,2.4,51.5,6,6,No
+EMP-00633,2025-07,Engineering,Job Board,Entry,1.056,7,13.0,60.3,5,5,No
+EMP-00634,2025-07,Engineering,Job Board,Senior,1.156,6,2.6,69.3,5,5,No
+EMP-00635,2025-08,Engineering,Job Board,Entry,0.818,9,4.8,84.1,4,4,No
+EMP-00636,2025-08,Engineering,Job Board,Entry,0.828,9,10.1,48.3,4,4,No
+EMP-00637,2025-09,Engineering,Job Board,Entry,1.038,8,4.5,58.2,3,3,No
+EMP-00638,2025-09,Engineering,Job Board,Mid,1.043,8,0.4,75.5,3,3,No
+EMP-00639,2025-10,Engineering,Job Board,Mid,0.967,11,0.6,57.6,2,2,No
+EMP-00640,2025-10,Engineering,Job Board,Entry,0.889,9,0.0,63.5,2,2,No
+EMP-00641,2025-10,Engineering,Job Board,Manager,1.107,10,7.6,76.5,2,2,No
+EMP-00642,2025-11,Engineering,Job Board,Entry,0.999,10,1.7,41.1,1,1,No
+EMP-00643,2025-11,Engineering,Job Board,Senior,1.068,4,3.5,68.8,1,1,No
+EMP-00644,2025-12,Engineering,Job Board,Mid,0.884,3,6.0,60.4,1,1,No
+EMP-00645,2025-12,Engineering,Job Board,Entry,0.906,7,4.5,74.7,1,1,No
+EMP-00646,2025-12,Engineering,Job Board,Entry,0.878,3,9.8,76.0,1,1,No
+EMP-00647,2024-01,Engineering,Employee Referral,Mid,0.877,3,11.6,66.6,4,23,Yes
+EMP-00648,2024-02,Engineering,Employee Referral,Mid,0.937,5,7.2,74.6,22,22,No
+EMP-00649,2024-02,Engineering,Employee Referral,Entry,1.061,5,6.3,73.3,22,22,No
+EMP-00650,2024-02,Engineering,Employee Referral,Senior,0.863,9,17.5,97.4,22,22,Yes
+EMP-00651,2024-03,Engineering,Employee Referral,Entry,1.007,7,1.5,78.0,21,21,No
+EMP-00652,2024-04,Engineering,Employee Referral,Entry,0.954,7,0.6,82.7,4,20,Yes
+EMP-00653,2024-04,Engineering,Employee Referral,Entry,0.865,8,6.5,82.6,20,20,No
+EMP-00654,2024-04,Engineering,Employee Referral,Mid,1.043,7,1.2,52.4,20,20,No
+EMP-00655,2024-05,Engineering,Employee Referral,Mid,0.957,5,8.2,44.8,19,19,No
+EMP-00656,2024-05,Engineering,Employee Referral,Mid,0.954,13,11.6,87.5,1,19,Yes
+EMP-00657,2024-05,Engineering,Employee Referral,Entry,0.886,6,7.0,78.7,19,19,No
+EMP-00658,2024-06,Engineering,Employee Referral,Senior,0.971,5,5.3,51.7,18,18,No
+EMP-00659,2024-07,Engineering,Employee Referral,Entry,1.072,6,8.6,56.5,17,17,No
+EMP-00660,2024-08,Engineering,Employee Referral,Mid,0.966,6,1.7,39.1,2,16,Yes
+EMP-00661,2024-08,Engineering,Employee Referral,Senior,0.879,11,2.8,65.1,16,16,No
+EMP-00662,2024-09,Engineering,Employee Referral,Entry,0.981,3,5.9,74.3,15,15,No
+EMP-00663,2024-10,Engineering,Employee Referral,Entry,0.891,5,0.0,51.3,14,14,No
+EMP-00664,2024-10,Engineering,Employee Referral,Senior,0.943,11,5.7,72.0,1,14,Yes
+EMP-00665,2024-10,Engineering,Employee Referral,Senior,0.911,4,2.1,82.1,3,14,Yes
+EMP-00666,2024-11,Engineering,Employee Referral,Mid,1.116,7,0.4,73.0,13,13,No
+EMP-00667,2024-11,Engineering,Employee Referral,Mid,0.986,7,10.5,98.2,13,13,No
+EMP-00668,2024-11,Engineering,Employee Referral,Senior,1.02,3,9.3,94.5,13,13,No
+EMP-00669,2024-12,Engineering,Employee Referral,Entry,0.993,7,0.0,62.1,12,12,No
+EMP-00670,2024-12,Engineering,Employee Referral,Senior,0.963,3,8.0,65.1,5,12,Yes
+EMP-00671,2024-12,Engineering,Employee Referral,Entry,1.08,8,0.0,73.2,12,12,No
+EMP-00672,2025-01,Engineering,Employee Referral,Entry,1.121,8,5.3,41.0,4,11,Yes
+EMP-00673,2025-01,Engineering,Employee Referral,Entry,0.989,3,0.0,50.9,11,11,No
+EMP-00674,2025-01,Engineering,Employee Referral,Entry,0.865,7,6.7,73.0,11,11,No
+EMP-00675,2025-01,Engineering,Employee Referral,Mid,0.952,9,0.0,54.1,1,11,Yes
+EMP-00676,2025-02,Engineering,Employee Referral,Mid,1.107,3,12.0,78.5,7,10,Yes
+EMP-00677,2025-03,Engineering,Employee Referral,Entry,0.969,7,1.2,32.9,9,9,No
+EMP-00678,2025-03,Engineering,Employee Referral,Entry,1.044,7,3.4,34.8,9,9,No
+EMP-00679,2025-04,Engineering,Employee Referral,Entry,0.875,7,1.1,53.1,8,8,No
+EMP-00680,2025-04,Engineering,Employee Referral,Manager,0.963,7,8.3,43.5,8,8,No
+EMP-00681,2025-05,Engineering,Employee Referral,Senior,1.008,6,1.5,50.1,7,7,No
+EMP-00682,2025-06,Engineering,Employee Referral,Mid,0.962,7,12.4,87.3,6,6,No
+EMP-00683,2025-06,Engineering,Employee Referral,Senior,1.137,6,13.3,87.2,6,6,No
+EMP-00684,2025-06,Engineering,Employee Referral,Entry,0.888,9,5.6,19.5,3,6,Yes
+EMP-00685,2025-07,Engineering,Employee Referral,Senior,1.048,7,6.2,65.3,5,5,No
+EMP-00686,2025-07,Engineering,Employee Referral,Entry,1.141,3,6.6,75.3,5,5,No
+EMP-00687,2025-08,Engineering,Employee Referral,Mid,1.064,8,0.4,53.2,4,4,No
+EMP-00688,2025-09,Engineering,Employee Referral,Senior,0.96,9,0.8,57.3,2,3,Yes
+EMP-00689,2025-09,Engineering,Employee Referral,Mid,1.0,8,0.0,59.6,3,3,No
+EMP-00690,2025-09,Engineering,Employee Referral,Entry,1.045,4,9.8,63.3,3,3,No
+EMP-00691,2025-10,Engineering,Employee Referral,Senior,0.997,9,9.1,62.4,2,2,No
+EMP-00692,2025-10,Engineering,Employee Referral,Entry,0.953,10,15.6,82.9,2,2,No
+EMP-00693,2025-11,Engineering,Employee Referral,Entry,0.896,4,5.4,100.0,1,1,No
+EMP-00694,2025-11,Engineering,Employee Referral,Mid,1.086,9,7.9,65.3,1,1,No
+EMP-00695,2025-11,Engineering,Employee Referral,Mid,0.945,3,6.4,90.7,1,1,No
+EMP-00696,2025-12,Engineering,Employee Referral,Entry,0.881,7,14.2,54.4,1,1,No
+EMP-00697,2025-12,Engineering,Employee Referral,Entry,0.995,8,6.0,51.0,1,1,No
+EMP-00698,2025-12,Engineering,Employee Referral,Entry,0.895,3,0.0,52.6,1,1,No
+EMP-00699,2025-12,Engineering,Employee Referral,Entry,0.907,3,5.6,73.4,1,1,No
+EMP-00700,2025-12,Engineering,Employee Referral,Entry,0.917,5,13.1,76.0,1,1,No
+EMP-00701,2024-01,Engineering,Agency,Entry,1.045,9,7.5,24.7,3,23,Yes
+EMP-00702,2024-01,Engineering,Agency,Mid,1.027,4,10.6,62.3,23,23,No
+EMP-00703,2024-02,Engineering,Agency,Entry,1.155,6,8.8,98.4,8,22,Yes
+EMP-00704,2024-02,Engineering,Agency,Entry,0.884,3,0.0,71.1,22,22,No
+EMP-00705,2024-03,Engineering,Agency,Senior,0.965,7,4.1,61.9,21,21,No
+EMP-00706,2024-03,Engineering,Agency,Entry,0.905,4,6.8,93.4,21,21,No
+EMP-00707,2024-04,Engineering,Agency,Manager,0.985,5,7.7,64.0,1,20,Yes
+EMP-00708,2024-04,Engineering,Agency,Senior,0.925,6,0.0,30.9,20,20,No
+EMP-00709,2024-05,Engineering,Agency,Entry,0.981,5,12.6,63.8,19,19,No
+EMP-00710,2024-05,Engineering,Agency,Entry,1.01,7,0.0,48.1,19,19,No
+EMP-00711,2024-06,Engineering,Agency,Manager,1.1,6,9.3,71.3,18,18,No
+EMP-00712,2024-06,Engineering,Agency,Mid,1.02,7,16.6,43.6,2,18,Yes
+EMP-00713,2024-07,Engineering,Agency,Manager,0.86,9,0.0,57.7,4,17,Yes
+EMP-00714,2024-08,Engineering,Agency,Entry,0.99,7,2.9,33.4,8,16,Yes
+EMP-00715,2024-08,Engineering,Agency,Entry,0.934,7,0.0,80.1,16,16,No
+EMP-00716,2024-09,Engineering,Agency,Mid,0.98,4,7.6,60.9,15,15,No
+EMP-00717,2024-09,Engineering,Agency,Mid,0.984,4,14.7,64.1,15,15,No
+EMP-00718,2024-09,Engineering,Agency,Entry,0.955,4,10.5,53.7,15,15,No
+EMP-00719,2024-10,Engineering,Agency,Entry,0.973,7,0.6,31.1,14,14,No
+EMP-00720,2024-11,Engineering,Agency,Mid,0.977,4,2.8,94.4,13,13,No
+EMP-00721,2024-11,Engineering,Agency,Mid,1.043,7,3.8,64.1,6,13,Yes
+EMP-00722,2024-12,Engineering,Agency,Entry,0.84,7,5.0,66.9,12,12,No
+EMP-00723,2024-12,Engineering,Agency,Senior,1.104,9,10.6,74.9,12,12,No
+EMP-00724,2025-01,Engineering,Agency,Mid,0.952,8,12.4,64.6,11,11,No
+EMP-00725,2025-02,Engineering,Agency,Entry,1.001,7,5.6,47.3,1,10,Yes
+EMP-00726,2025-03,Engineering,Agency,Entry,1.061,5,3.1,63.9,4,9,Yes
+EMP-00727,2025-03,Engineering,Agency,Entry,0.872,5,4.4,83.1,9,9,No
+EMP-00728,2025-04,Engineering,Agency,Entry,0.938,3,0.0,62.8,8,8,No
+EMP-00729,2025-04,Engineering,Agency,Mid,1.041,8,7.9,64.8,1,8,Yes
+EMP-00730,2025-04,Engineering,Agency,Entry,1.082,9,5.7,68.2,8,8,No
+EMP-00731,2025-05,Engineering,Agency,Mid,0.972,3,0.0,73.2,7,7,No
+EMP-00732,2025-05,Engineering,Agency,Mid,1.095,13,8.6,53.7,1,7,Yes
+EMP-00733,2025-06,Engineering,Agency,Mid,0.886,10,1.4,68.1,6,6,No
+EMP-00734,2025-06,Engineering,Agency,Entry,0.895,3,2.3,67.9,6,6,No
+EMP-00735,2025-07,Engineering,Agency,Entry,0.901,7,0.0,65.2,5,5,No
+EMP-00736,2025-07,Engineering,Agency,Mid,0.926,11,0.0,34.4,5,5,No
+EMP-00737,2025-08,Engineering,Agency,Entry,0.985,11,0.0,59.0,2,4,Yes
+EMP-00738,2025-09,Engineering,Agency,Entry,1.108,9,1.6,97.2,3,3,No
+EMP-00739,2025-09,Engineering,Agency,Mid,1.044,6,1.8,60.4,3,3,No
+EMP-00740,2025-10,Engineering,Agency,Mid,0.916,5,13.6,53.6,2,2,No
+EMP-00741,2025-10,Engineering,Agency,Entry,1.049,6,10.0,79.0,2,2,No
+EMP-00742,2025-11,Engineering,Agency,Entry,1.058,9,8.7,91.9,1,1,No
+EMP-00743,2025-11,Engineering,Agency,Senior,1.095,11,3.1,82.0,1,1,No
+EMP-00744,2025-12,Engineering,Agency,Entry,0.828,10,0.0,93.4,1,1,No
+EMP-00745,2025-12,Engineering,Agency,Manager,1.012,10,8.1,73.9,1,1,No
+EMP-00746,2024-01,Engineering,Campus,Entry,1.021,3,0.0,73.7,23,23,No
+EMP-00747,2024-02,Engineering,Campus,Mid,0.988,8,14.4,83.7,3,22,Yes
+EMP-00748,2024-03,Engineering,Campus,Mid,1.015,8,4.9,48.2,21,21,No
+EMP-00749,2024-04,Engineering,Campus,Entry,0.908,5,7.4,80.2,20,20,No
+EMP-00750,2024-05,Engineering,Campus,Mid,1.032,7,10.0,45.1,2,19,Yes
+EMP-00751,2024-06,Engineering,Campus,Entry,0.89,6,4.0,40.3,3,18,Yes
+EMP-00752,2024-07,Engineering,Campus,Mid,0.852,3,0.0,77.9,8,17,Yes
+EMP-00753,2024-08,Engineering,Campus,Manager,0.984,3,5.3,49.4,16,16,No
+EMP-00754,2024-09,Engineering,Campus,Entry,1.052,11,3.7,49.3,15,15,No
+EMP-00755,2024-10,Engineering,Campus,Mid,1.169,8,0.0,61.4,14,14,No
+EMP-00756,2024-11,Engineering,Campus,Entry,0.922,10,13.3,37.8,13,13,No
+EMP-00757,2024-12,Engineering,Campus,Manager,1.068,4,3.2,43.7,12,12,No
+EMP-00758,2025-01,Engineering,Campus,Mid,0.919,5,2.3,54.5,11,11,No
+EMP-00759,2025-02,Engineering,Campus,Mid,0.838,8,5.7,59.8,10,10,No
+EMP-00760,2025-02,Engineering,Campus,Mid,0.753,10,0.0,84.9,1,10,Yes
+EMP-00761,2025-03,Engineering,Campus,Senior,1.022,3,7.6,52.3,1,9,Yes
+EMP-00762,2025-04,Engineering,Campus,Entry,0.991,3,0.0,97.4,8,8,No
+EMP-00763,2025-05,Engineering,Campus,Entry,1.091,5,0.0,42.3,2,7,Yes
+EMP-00764,2025-06,Engineering,Campus,Mid,0.932,7,0.0,70.3,4,6,Yes
+EMP-00765,2025-07,Engineering,Campus,Mid,0.909,7,12.4,82.8,5,5,No
+EMP-00766,2025-08,Engineering,Campus,Entry,1.01,3,10.0,70.5,4,4,No
+EMP-00767,2025-09,Engineering,Campus,Entry,1.042,7,5.0,58.9,3,3,No
+EMP-00768,2025-10,Engineering,Campus,Mid,1.02,3,8.6,86.8,2,2,No
+EMP-00769,2025-11,Engineering,Campus,Entry,0.854,6,13.2,70.4,1,1,No
+EMP-00770,2025-12,Engineering,Campus,Entry,0.877,13,12.9,55.9,1,1,No
+EMP-00771,2024-01,Engineering,Internal Transfer,Mid,1.025,3,0.0,67.6,23,23,No
+EMP-00772,2024-01,Engineering,Internal Transfer,Entry,0.835,6,7.0,58.4,23,23,No
+EMP-00773,2024-02,Engineering,Internal Transfer,Entry,0.912,6,3.9,47.4,22,22,Yes
+EMP-00774,2024-02,Engineering,Internal Transfer,Mid,0.97,9,0.0,58.9,22,22,No
+EMP-00775,2024-03,Engineering,Internal Transfer,Mid,0.879,5,0.0,85.6,21,21,No
+EMP-00776,2024-03,Engineering,Internal Transfer,Manager,0.931,6,5.3,71.1,6,21,Yes
+EMP-00777,2024-04,Engineering,Internal Transfer,Entry,1.102,5,8.5,57.2,20,20,No
+EMP-00778,2024-04,Engineering,Internal Transfer,Senior,1.084,6,12.1,63.9,20,20,No
+EMP-00779,2024-04,Engineering,Internal Transfer,Entry,0.969,9,0.0,52.2,20,20,No
+EMP-00780,2024-05,Engineering,Internal Transfer,Manager,0.932,5,0.0,58.7,19,19,No
+EMP-00781,2024-06,Engineering,Internal Transfer,Entry,0.984,11,0.2,44.2,18,18,No
+EMP-00782,2024-06,Engineering,Internal Transfer,Entry,0.901,6,5.2,54.5,18,18,No
+EMP-00783,2024-07,Engineering,Internal Transfer,Senior,1.115,6,0.0,63.8,2,17,Yes
+EMP-00784,2024-07,Engineering,Internal Transfer,Manager,1.025,4,0.8,48.6,17,17,No
+EMP-00785,2024-07,Engineering,Internal Transfer,Mid,1.143,10,1.9,69.9,17,17,No
+EMP-00786,2024-08,Engineering,Internal Transfer,Entry,0.995,8,0.0,59.3,11,16,Yes
+EMP-00787,2024-08,Engineering,Internal Transfer,Entry,0.884,4,18.2,70.7,16,16,No
+EMP-00788,2024-08,Engineering,Internal Transfer,Entry,0.89,5,0.0,65.3,16,16,No
+EMP-00789,2024-09,Engineering,Internal Transfer,Senior,0.954,8,9.8,33.1,15,15,No
+EMP-00790,2024-09,Engineering,Internal Transfer,Entry,0.894,9,0.0,63.0,15,15,No
+EMP-00791,2024-10,Engineering,Internal Transfer,Mid,1.073,9,0.1,51.4,8,14,Yes
+EMP-00792,2024-10,Engineering,Internal Transfer,Entry,0.903,11,8.7,47.9,14,14,No
+EMP-00793,2024-10,Engineering,Internal Transfer,Senior,1.026,6,2.6,79.5,14,14,No
+EMP-00794,2024-10,Engineering,Internal Transfer,Mid,0.93,5,1.9,68.7,14,14,No
+EMP-00795,2024-11,Engineering,Internal Transfer,Mid,1.067,12,9.1,58.6,13,13,No
+EMP-00796,2024-11,Engineering,Internal Transfer,Entry,0.958,3,6.9,43.9,8,13,Yes
+EMP-00797,2024-12,Engineering,Internal Transfer,Mid,0.973,3,9.5,72.7,12,12,No
+EMP-00798,2024-12,Engineering,Internal Transfer,Senior,0.928,6,8.0,97.5,12,12,No
+EMP-00799,2025-01,Engineering,Internal Transfer,Entry,0.919,5,13.2,82.0,11,11,No
+EMP-00800,2025-01,Engineering,Internal Transfer,Entry,0.991,10,8.5,55.7,2,11,Yes
+EMP-00801,2025-02,Engineering,Internal Transfer,Mid,1.024,11,0.0,73.1,10,10,No
+EMP-00802,2025-02,Engineering,Internal Transfer,Entry,1.14,8,4.5,68.2,10,10,No
+EMP-00803,2025-03,Engineering,Internal Transfer,Entry,0.999,8,0.0,60.2,9,9,No
+EMP-00804,2025-03,Engineering,Internal Transfer,Senior,1.017,5,0.0,53.6,9,9,No
+EMP-00805,2025-03,Engineering,Internal Transfer,Mid,0.96,9,2.3,56.7,9,9,No
+EMP-00806,2025-04,Engineering,Internal Transfer,Mid,1.068,3,11.3,79.4,8,8,No
+EMP-00807,2025-04,Engineering,Internal Transfer,Entry,0.849,8,3.7,60.2,8,8,No
+EMP-00808,2025-04,Engineering,Internal Transfer,Entry,0.834,7,9.6,68.8,8,8,No
+EMP-00809,2025-05,Engineering,Internal Transfer,Entry,0.926,7,10.9,46.9,7,7,No
+EMP-00810,2025-06,Engineering,Internal Transfer,Mid,1.013,6,0.0,80.9,6,6,No
+EMP-00811,2025-06,Engineering,Internal Transfer,Entry,0.911,10,0.0,37.7,6,6,No
+EMP-00812,2025-06,Engineering,Internal Transfer,Manager,0.95,7,8.1,53.9,6,6,No
+EMP-00813,2025-07,Engineering,Internal Transfer,Mid,1.045,5,15.6,84.5,5,5,No
+EMP-00814,2025-07,Engineering,Internal Transfer,Senior,0.775,9,3.3,58.3,5,5,No
+EMP-00815,2025-08,Engineering,Internal Transfer,Entry,0.99,3,8.0,66.9,1,4,Yes
+EMP-00816,2025-09,Engineering,Internal Transfer,Mid,1.099,7,6.7,59.0,3,3,No
+EMP-00817,2025-09,Engineering,Internal Transfer,Mid,1.028,9,9.4,61.6,3,3,No
+EMP-00818,2025-10,Engineering,Internal Transfer,Entry,0.952,8,3.4,79.0,2,2,No
+EMP-00819,2025-10,Engineering,Internal Transfer,Entry,0.855,5,3.5,99.0,2,2,No
+EMP-00820,2025-11,Engineering,Internal Transfer,Senior,1.093,5,0.0,58.8,1,1,No
+EMP-00821,2025-11,Engineering,Internal Transfer,Mid,1.034,6,12.6,78.3,1,1,No
+EMP-00822,2025-11,Engineering,Internal Transfer,Entry,1.18,8,3.9,73.3,1,1,No
+EMP-00823,2025-12,Engineering,Internal Transfer,Mid,0.835,5,8.4,68.7,1,1,No
+EMP-00824,2024-01,Finance & Accounting,Job Board,Entry,0.987,12,3.4,62.4,23,23,No
+EMP-00825,2024-01,Finance & Accounting,Job Board,Entry,0.92,14,3.8,63.6,23,23,No
+EMP-00826,2024-02,Finance & Accounting,Job Board,Entry,0.917,11,7.5,60.1,22,22,No
+EMP-00827,2024-02,Finance & Accounting,Job Board,Mid,1.021,8,1.5,60.8,22,22,No
+EMP-00828,2024-02,Finance & Accounting,Job Board,Entry,1.003,5,3.3,74.1,22,22,No
+EMP-00829,2024-03,Finance & Accounting,Job Board,Mid,1.066,7,0.0,52.4,5,21,Yes
+EMP-00830,2024-03,Finance & Accounting,Job Board,Entry,0.926,7,0.0,52.8,21,21,No
+EMP-00831,2024-04,Finance & Accounting,Job Board,Senior,0.958,4,1.0,61.8,1,20,Yes
+EMP-00832,2024-04,Finance & Accounting,Job Board,Mid,0.99,5,8.3,76.3,20,20,No
+EMP-00833,2024-05,Finance & Accounting,Job Board,Mid,1.214,9,5.0,74.3,1,19,Yes
+EMP-00834,2024-05,Finance & Accounting,Job Board,Mid,1.107,6,1.6,67.2,19,19,No
+EMP-00835,2024-06,Finance & Accounting,Job Board,Manager,0.75,6,10.0,33.2,18,18,No
+EMP-00836,2024-06,Finance & Accounting,Job Board,Entry,0.895,8,11.1,64.4,2,18,Yes
+EMP-00837,2024-06,Finance & Accounting,Job Board,Mid,1.023,9,8.0,59.1,18,18,No
+EMP-00838,2024-07,Finance & Accounting,Job Board,Entry,1.127,3,15.3,66.9,17,17,No
+EMP-00839,2024-07,Finance & Accounting,Job Board,Mid,1.043,7,8.2,56.3,3,17,Yes
+EMP-00840,2024-07,Finance & Accounting,Job Board,Senior,0.844,9,0.0,54.0,17,17,No
+EMP-00841,2024-08,Finance & Accounting,Job Board,Mid,1.152,8,0.0,62.5,2,16,Yes
+EMP-00842,2024-08,Finance & Accounting,Job Board,Senior,1.005,11,7.5,61.3,16,16,No
+EMP-00843,2024-09,Finance & Accounting,Job Board,Senior,0.881,6,8.3,68.2,1,15,Yes
+EMP-00844,2024-09,Finance & Accounting,Job Board,Entry,1.034,4,4.0,89.3,14,15,Yes
+EMP-00845,2024-09,Finance & Accounting,Job Board,Entry,0.939,7,0.0,68.0,15,15,No
+EMP-00846,2024-10,Finance & Accounting,Job Board,Entry,0.799,7,0.0,85.8,14,14,No
+EMP-00847,2024-10,Finance & Accounting,Job Board,Entry,0.848,3,16.1,67.0,3,14,Yes
+EMP-00848,2024-10,Finance & Accounting,Job Board,Manager,0.85,7,8.1,59.8,11,14,Yes
+EMP-00849,2024-11,Finance & Accounting,Job Board,Entry,0.968,6,12.5,56.8,2,13,Yes
+EMP-00850,2024-11,Finance & Accounting,Job Board,Entry,0.971,10,8.8,78.2,1,13,Yes
+EMP-00851,2024-12,Finance & Accounting,Job Board,Senior,1.185,3,5.7,46.9,12,12,No
+EMP-00852,2025-01,Finance & Accounting,Job Board,Entry,0.884,3,2.7,71.2,2,11,Yes
+EMP-00853,2025-01,Finance & Accounting,Job Board,Mid,0.804,3,5.2,89.4,5,11,Yes
+EMP-00854,2025-01,Finance & Accounting,Job Board,Mid,0.882,3,1.1,47.5,11,11,No
+EMP-00855,2025-02,Finance & Accounting,Job Board,Mid,1.051,3,3.4,53.7,2,10,Yes
+EMP-00856,2025-02,Finance & Accounting,Job Board,Entry,1.063,7,11.3,65.2,10,10,No
+EMP-00857,2025-02,Finance & Accounting,Job Board,Mid,0.782,3,0.0,52.3,10,10,No
+EMP-00858,2025-03,Finance & Accounting,Job Board,Entry,1.003,7,10.3,58.0,2,9,Yes
+EMP-00859,2025-03,Finance & Accounting,Job Board,Entry,0.874,8,10.4,78.4,9,9,No
+EMP-00860,2025-04,Finance & Accounting,Job Board,Entry,0.987,8,8.9,58.6,8,8,No
+EMP-00861,2025-04,Finance & Accounting,Job Board,Entry,1.024,7,0.1,22.4,8,8,No
+EMP-00862,2025-05,Finance & Accounting,Job Board,Entry,0.955,8,7.9,75.0,1,7,Yes
+EMP-00863,2025-05,Finance & Accounting,Job Board,Entry,0.901,10,16.4,79.3,2,7,Yes
+EMP-00864,2025-06,Finance & Accounting,Job Board,Senior,0.818,9,2.8,48.2,6,6,No
+EMP-00865,2025-06,Finance & Accounting,Job Board,Mid,1.091,8,8.2,96.2,6,6,No
+EMP-00866,2025-07,Finance & Accounting,Job Board,Entry,0.954,8,2.3,72.9,5,5,No
+EMP-00867,2025-07,Finance & Accounting,Job Board,Entry,0.98,8,0.0,41.0,1,5,Yes
+EMP-00868,2025-07,Finance & Accounting,Job Board,Senior,0.837,9,6.7,85.0,5,5,No
+EMP-00869,2025-08,Finance & Accounting,Job Board,Entry,1.035,10,3.1,65.9,4,4,No
+EMP-00870,2025-08,Finance & Accounting,Job Board,Mid,1.082,13,4.6,83.6,4,4,No
+EMP-00871,2025-09,Finance & Accounting,Job Board,Entry,0.863,6,1.0,62.8,3,3,No
+EMP-00872,2025-09,Finance & Accounting,Job Board,Entry,1.004,9,3.5,95.8,3,3,No
+EMP-00873,2025-10,Finance & Accounting,Job Board,Mid,0.837,6,3.2,54.2,2,2,No
+EMP-00874,2025-10,Finance & Accounting,Job Board,Manager,1.036,9,0.0,96.3,2,2,No
+EMP-00875,2025-11,Finance & Accounting,Job Board,Entry,1.009,4,7.8,68.3,1,1,No
+EMP-00876,2025-11,Finance & Accounting,Job Board,Mid,0.982,5,3.6,53.4,1,1,No
+EMP-00877,2025-12,Finance & Accounting,Job Board,Senior,0.995,8,12.4,50.9,1,1,No
+EMP-00878,2024-01,Finance & Accounting,Employee Referral,Entry,0.9,6,5.3,46.9,23,23,No
+EMP-00879,2024-02,Finance & Accounting,Employee Referral,Senior,0.986,6,11.0,57.2,22,22,No
+EMP-00880,2024-02,Finance & Accounting,Employee Referral,Mid,0.998,4,12.5,62.0,22,22,No
+EMP-00881,2024-03,Finance & Accounting,Employee Referral,Entry,0.91,7,6.8,63.9,21,21,No
+EMP-00882,2024-03,Finance & Accounting,Employee Referral,Entry,0.971,7,7.3,45.9,21,21,No
+EMP-00883,2024-04,Finance & Accounting,Employee Referral,Entry,0.91,7,9.6,93.0,1,20,Yes
+EMP-00884,2024-04,Finance & Accounting,Employee Referral,Entry,1.045,6,6.4,72.9,20,20,No
+EMP-00885,2024-05,Finance & Accounting,Employee Referral,Entry,1.052,10,6.3,27.2,17,19,Yes
+EMP-00886,2024-05,Finance & Accounting,Employee Referral,Mid,0.906,7,0.0,72.3,19,19,No
+EMP-00887,2024-05,Finance & Accounting,Employee Referral,Mid,0.919,5,5.0,59.4,19,19,No
+EMP-00888,2024-06,Finance & Accounting,Employee Referral,Senior,1.113,4,12.4,86.1,18,18,No
+EMP-00889,2024-06,Finance & Accounting,Employee Referral,Entry,1.086,3,7.2,40.9,18,18,No
+EMP-00890,2024-06,Finance & Accounting,Employee Referral,Entry,0.94,8,10.4,59.2,5,18,Yes
+EMP-00891,2024-07,Finance & Accounting,Employee Referral,Entry,0.958,8,5.6,66.3,17,17,No
+EMP-00892,2024-07,Finance & Accounting,Employee Referral,Manager,0.954,7,0.0,61.1,17,17,No
+EMP-00893,2024-08,Finance & Accounting,Employee Referral,Mid,1.211,10,0.0,80.6,16,16,No
+EMP-00894,2024-08,Finance & Accounting,Employee Referral,Senior,0.921,9,1.8,56.1,16,16,No
+EMP-00895,2024-08,Finance & Accounting,Employee Referral,Mid,1.161,7,12.8,79.3,16,16,Yes
+EMP-00896,2024-08,Finance & Accounting,Employee Referral,Entry,0.832,5,4.0,58.5,16,16,No
+EMP-00897,2024-08,Finance & Accounting,Employee Referral,Entry,0.892,4,4.6,86.2,16,16,No
+EMP-00898,2024-09,Finance & Accounting,Employee Referral,Mid,1.009,6,7.8,78.1,15,15,No
+EMP-00899,2024-09,Finance & Accounting,Employee Referral,Senior,1.006,9,6.6,66.6,15,15,No
+EMP-00900,2024-09,Finance & Accounting,Employee Referral,Entry,1.02,7,1.7,64.7,15,15,No
+EMP-00901,2024-10,Finance & Accounting,Employee Referral,Mid,1.024,3,10.0,63.0,14,14,No
+EMP-00902,2024-10,Finance & Accounting,Employee Referral,Senior,1.092,9,3.1,44.3,14,14,No
+EMP-00903,2024-10,Finance & Accounting,Employee Referral,Entry,0.911,5,0.0,84.0,14,14,No
+EMP-00904,2024-11,Finance & Accounting,Employee Referral,Entry,1.044,3,3.0,70.3,6,13,Yes
+EMP-00905,2024-11,Finance & Accounting,Employee Referral,Entry,0.925,14,13.7,96.1,13,13,No
+EMP-00906,2024-12,Finance & Accounting,Employee Referral,Mid,1.078,5,10.6,31.3,12,12,No
+EMP-00907,2025-01,Finance & Accounting,Employee Referral,Entry,0.898,3,0.0,80.1,11,11,No
+EMP-00908,2025-02,Finance & Accounting,Employee Referral,Entry,1.053,5,3.9,89.9,10,10,No
+EMP-00909,2025-03,Finance & Accounting,Employee Referral,Entry,1.001,7,16.7,65.3,5,9,Yes
+EMP-00910,2025-03,Finance & Accounting,Employee Referral,Mid,1.003,7,0.0,72.2,9,9,No
+EMP-00911,2025-04,Finance & Accounting,Employee Referral,Manager,0.915,4,7.4,63.1,8,8,No
+EMP-00912,2025-04,Finance & Accounting,Employee Referral,Entry,1.021,9,8.0,71.2,8,8,No
+EMP-00913,2025-05,Finance & Accounting,Employee Referral,Mid,1.038,8,0.0,63.4,7,7,No
+EMP-00914,2025-05,Finance & Accounting,Employee Referral,Entry,1.049,11,0.0,70.9,7,7,No
+EMP-00915,2025-05,Finance & Accounting,Employee Referral,Senior,1.065,7,7.8,60.0,7,7,No
+EMP-00916,2025-06,Finance & Accounting,Employee Referral,Entry,1.069,3,4.6,34.0,6,6,No
+EMP-00917,2025-07,Finance & Accounting,Employee Referral,Mid,0.862,9,12.1,53.4,3,5,Yes
+EMP-00918,2025-08,Finance & Accounting,Employee Referral,Mid,1.033,6,10.8,63.2,4,4,No
+EMP-00919,2025-08,Finance & Accounting,Employee Referral,Entry,0.94,5,4.1,44.3,4,4,No
+EMP-00920,2025-08,Finance & Accounting,Employee Referral,Entry,1.18,3,0.0,53.5,4,4,No
+EMP-00921,2025-09,Finance & Accounting,Employee Referral,Manager,1.13,9,0.0,73.7,3,3,No
+EMP-00922,2025-09,Finance & Accounting,Employee Referral,Manager,0.994,6,3.2,80.5,3,3,No
+EMP-00923,2025-09,Finance & Accounting,Employee Referral,Mid,1.009,3,8.3,65.5,3,3,No
+EMP-00924,2025-10,Finance & Accounting,Employee Referral,Entry,0.958,8,0.0,65.8,2,2,No
+EMP-00925,2025-11,Finance & Accounting,Employee Referral,Senior,1.11,8,8.4,72.4,1,1,No
+EMP-00926,2025-11,Finance & Accounting,Employee Referral,Entry,0.877,4,4.1,55.1,1,1,No
+EMP-00927,2025-12,Finance & Accounting,Employee Referral,Senior,1.021,5,9.8,71.6,1,1,No
+EMP-00928,2025-12,Finance & Accounting,Employee Referral,Manager,0.79,8,15.6,48.8,1,1,No
+EMP-00929,2024-01,Finance & Accounting,Agency,Entry,0.993,5,8.5,28.8,23,23,No
+EMP-00930,2024-02,Finance & Accounting,Agency,Entry,0.947,9,1.1,45.9,22,22,No
+EMP-00931,2024-02,Finance & Accounting,Agency,Mid,0.977,5,5.5,84.6,22,22,No
+EMP-00932,2024-03,Finance & Accounting,Agency,Manager,1.084,6,11.6,82.3,21,21,No
+EMP-00933,2024-03,Finance & Accounting,Agency,Entry,0.868,8,0.0,73.1,2,21,Yes
+EMP-00934,2024-04,Finance & Accounting,Agency,Manager,0.88,5,10.0,64.4,3,20,Yes
+EMP-00935,2024-04,Finance & Accounting,Agency,Entry,1.027,8,0.0,74.3,20,20,No
+EMP-00936,2024-05,Finance & Accounting,Agency,Mid,1.093,5,1.7,18.2,2,19,Yes
+EMP-00937,2024-06,Finance & Accounting,Agency,Mid,0.914,8,11.5,57.5,18,18,No
+EMP-00938,2024-07,Finance & Accounting,Agency,Senior,0.989,6,7.2,61.6,17,17,No
+EMP-00939,2024-07,Finance & Accounting,Agency,Entry,1.058,3,5.4,52.8,4,17,Yes
+EMP-00940,2024-07,Finance & Accounting,Agency,Mid,1.07,8,4.3,39.8,10,17,Yes
+EMP-00941,2024-08,Finance & Accounting,Agency,Mid,0.889,7,1.6,40.6,16,16,No
+EMP-00942,2024-08,Finance & Accounting,Agency,Entry,0.992,13,0.0,90.3,16,16,No
+EMP-00943,2024-09,Finance & Accounting,Agency,Senior,1.055,7,0.5,86.2,15,15,No
+EMP-00944,2024-09,Finance & Accounting,Agency,Senior,0.926,6,0.0,76.4,15,15,No
+EMP-00945,2024-10,Finance & Accounting,Agency,Entry,0.882,8,1.4,88.0,14,14,No
+EMP-00946,2024-10,Finance & Accounting,Agency,Entry,0.855,5,2.9,69.7,14,14,No
+EMP-00947,2024-11,Finance & Accounting,Agency,Mid,1.061,7,3.7,27.5,13,13,No
+EMP-00948,2024-12,Finance & Accounting,Agency,Mid,1.117,4,5.5,54.1,12,12,No
+EMP-00949,2024-12,Finance & Accounting,Agency,Manager,1.043,4,0.0,67.3,12,12,No
+EMP-00950,2025-01,Finance & Accounting,Agency,Entry,0.855,6,4.9,62.0,11,11,No
+EMP-00951,2025-02,Finance & Accounting,Agency,Senior,0.978,5,18.8,41.8,10,10,No
+EMP-00952,2025-03,Finance & Accounting,Agency,Mid,1.056,3,2.2,54.6,9,9,No
+EMP-00953,2025-03,Finance & Accounting,Agency,Mid,0.962,6,0.1,48.2,9,9,No
+EMP-00954,2025-04,Finance & Accounting,Agency,Entry,0.88,5,1.8,59.1,8,8,No
+EMP-00955,2025-04,Finance & Accounting,Agency,Mid,0.962,10,12.6,59.5,8,8,No
+EMP-00956,2025-04,Finance & Accounting,Agency,Senior,1.014,7,0.0,65.7,8,8,No
+EMP-00957,2025-05,Finance & Accounting,Agency,Entry,0.951,8,5.8,58.1,1,7,Yes
+EMP-00958,2025-06,Finance & Accounting,Agency,Entry,0.844,8,10.8,79.0,6,6,No
+EMP-00959,2025-07,Finance & Accounting,Agency,Entry,0.97,4,0.0,77.2,2,5,Yes
+EMP-00960,2025-08,Finance & Accounting,Agency,Entry,0.933,3,10.9,71.7,4,4,No
+EMP-00961,2025-09,Finance & Accounting,Agency,Manager,0.989,6,4.0,59.7,3,3,No
+EMP-00962,2025-09,Finance & Accounting,Agency,Senior,1.028,8,2.0,49.7,3,3,No
+EMP-00963,2025-10,Finance & Accounting,Agency,Senior,0.825,6,8.8,67.0,2,2,No
+EMP-00964,2025-11,Finance & Accounting,Agency,Entry,0.946,8,0.0,63.8,1,1,No
+EMP-00965,2025-12,Finance & Accounting,Agency,Mid,1.04,6,0.0,44.0,1,1,No
+EMP-00966,2024-01,Finance & Accounting,Campus,Entry,1.092,6,11.2,56.1,23,23,No
+EMP-00967,2024-02,Finance & Accounting,Campus,Senior,0.907,8,3.5,80.9,22,22,No
+EMP-00968,2024-04,Finance & Accounting,Campus,Entry,1.143,5,8.2,65.6,1,20,Yes
+EMP-00969,2024-05,Finance & Accounting,Campus,Senior,1.022,5,0.0,92.3,19,19,No
+EMP-00970,2024-06,Finance & Accounting,Campus,Entry,1.131,8,13.5,74.2,18,18,No
+EMP-00971,2024-07,Finance & Accounting,Campus,Mid,0.958,6,2.2,55.3,17,17,No
+EMP-00972,2024-08,Finance & Accounting,Campus,Senior,1.233,9,4.7,48.9,3,16,Yes
+EMP-00973,2024-09,Finance & Accounting,Campus,Entry,0.951,10,2.1,59.3,15,15,No
+EMP-00974,2024-10,Finance & Accounting,Campus,Entry,0.964,9,6.0,77.2,3,14,Yes
+EMP-00975,2024-11,Finance & Accounting,Campus,Mid,1.1,6,12.1,55.7,13,13,No
+EMP-00976,2024-12,Finance & Accounting,Campus,Mid,0.919,10,0.0,51.7,1,12,Yes
+EMP-00977,2025-01,Finance & Accounting,Campus,Entry,1.013,7,10.2,90.7,11,11,No
+EMP-00978,2025-02,Finance & Accounting,Campus,Entry,1.013,7,2.6,71.8,10,10,No
+EMP-00979,2025-03,Finance & Accounting,Campus,Mid,0.859,8,4.0,63.3,9,9,No
+EMP-00980,2025-04,Finance & Accounting,Campus,Senior,1.107,8,0.3,57.2,1,8,Yes
+EMP-00981,2025-05,Finance & Accounting,Campus,Entry,0.953,6,0.0,60.4,7,7,No
+EMP-00982,2025-06,Finance & Accounting,Campus,Manager,0.838,7,2.8,76.3,6,6,No
+EMP-00983,2025-07,Finance & Accounting,Campus,Mid,0.954,8,14.5,59.4,5,5,No
+EMP-00984,2025-08,Finance & Accounting,Campus,Mid,1.007,4,11.9,71.4,4,4,No
+EMP-00985,2025-09,Finance & Accounting,Campus,Mid,1.056,3,0.0,77.6,3,3,No
+EMP-00986,2025-10,Finance & Accounting,Campus,Mid,0.987,11,4.6,74.3,2,2,No
+EMP-00987,2025-11,Finance & Accounting,Campus,Entry,0.967,10,3.7,78.7,1,1,No
+EMP-00988,2025-12,Finance & Accounting,Campus,Entry,0.898,7,13.8,51.6,1,1,No
+EMP-00989,2024-01,Finance & Accounting,Internal Transfer,Mid,1.043,10,1.0,31.6,9,23,Yes
+EMP-00990,2024-02,Finance & Accounting,Internal Transfer,Mid,1.063,7,5.3,76.3,22,22,No
+EMP-00991,2024-05,Finance & Accounting,Internal Transfer,Entry,1.084,7,1.3,71.1,19,19,No
+EMP-00992,2024-05,Finance & Accounting,Internal Transfer,Entry,0.787,5,0.6,68.5,19,19,No
+EMP-00993,2024-06,Finance & Accounting,Internal Transfer,Mid,1.167,6,0.0,50.3,18,18,No
+EMP-00994,2024-06,Finance & Accounting,Internal Transfer,Entry,1.007,8,9.6,66.7,18,18,No
+EMP-00995,2024-07,Finance & Accounting,Internal Transfer,Entry,1.028,6,11.9,80.2,17,17,No
+EMP-00996,2024-08,Finance & Accounting,Internal Transfer,Senior,0.909,7,9.7,67.8,16,16,No
+EMP-00997,2024-08,Finance & Accounting,Internal Transfer,Entry,1.011,6,0.8,74.2,7,16,Yes
+EMP-00998,2024-09,Finance & Accounting,Internal Transfer,Senior,0.967,10,0.0,71.8,2,15,Yes
+EMP-00999,2024-09,Finance & Accounting,Internal Transfer,Entry,0.884,5,8.2,72.0,3,15,Yes
+EMP-01000,2024-10,Finance & Accounting,Internal Transfer,Senior,0.983,4,7.8,75.7,14,14,No
+EMP-01001,2024-10,Finance & Accounting,Internal Transfer,Mid,0.91,8,0.0,87.8,14,14,No
+EMP-01002,2024-11,Finance & Accounting,Internal Transfer,Mid,0.854,7,8.1,40.5,13,13,No
+EMP-01003,2024-11,Finance & Accounting,Internal Transfer,Entry,0.863,4,14.8,64.5,13,13,No
+EMP-01004,2024-12,Finance & Accounting,Internal Transfer,Manager,0.947,7,8.8,51.9,12,12,No
+EMP-01005,2024-12,Finance & Accounting,Internal Transfer,Mid,1.191,6,6.7,87.2,12,12,No
+EMP-01006,2025-01,Finance & Accounting,Internal Transfer,Mid,0.958,8,0.0,86.1,11,11,No
+EMP-01007,2025-02,Finance & Accounting,Internal Transfer,Senior,1.015,11,9.6,94.5,10,10,No
+EMP-01008,2025-02,Finance & Accounting,Internal Transfer,Mid,0.919,6,5.5,98.6,10,10,No
+EMP-01009,2025-03,Finance & Accounting,Internal Transfer,Mid,1.022,10,0.0,57.5,9,9,No
+EMP-01010,2025-03,Finance & Accounting,Internal Transfer,Senior,0.941,6,15.3,59.5,9,9,No
+EMP-01011,2025-04,Finance & Accounting,Internal Transfer,Mid,0.805,6,9.3,82.2,1,8,Yes
+EMP-01012,2025-04,Finance & Accounting,Internal Transfer,Entry,1.171,3,5.9,80.8,8,8,No
+EMP-01013,2025-05,Finance & Accounting,Internal Transfer,Manager,0.958,5,2.3,76.0,7,7,No
+EMP-01014,2025-05,Finance & Accounting,Internal Transfer,Mid,1.141,9,5.0,69.7,7,7,No
+EMP-01015,2025-06,Finance & Accounting,Internal Transfer,Manager,0.994,6,4.9,69.6,6,6,No
+EMP-01016,2025-06,Finance & Accounting,Internal Transfer,Mid,1.065,7,0.0,43.1,6,6,No
+EMP-01017,2025-07,Finance & Accounting,Internal Transfer,Mid,0.951,11,4.1,68.4,5,5,No
+EMP-01018,2025-08,Finance & Accounting,Internal Transfer,Entry,0.998,4,0.0,52.1,4,4,No
+EMP-01019,2025-09,Finance & Accounting,Internal Transfer,Entry,0.92,6,0.0,57.2,3,3,No
+EMP-01020,2025-10,Finance & Accounting,Internal Transfer,Entry,0.875,6,10.9,77.1,2,2,No
+EMP-01021,2025-10,Finance & Accounting,Internal Transfer,Entry,1.184,5,2.4,56.5,2,2,No
+EMP-01022,2025-11,Finance & Accounting,Internal Transfer,Entry,0.994,10,1.6,56.9,1,1,No
+EMP-01023,2025-11,Finance & Accounting,Internal Transfer,Entry,0.75,5,6.8,63.6,1,1,No
+EMP-01024,2025-11,Finance & Accounting,Internal Transfer,Entry,0.926,3,12.3,50.4,1,1,No
+EMP-01025,2025-11,Finance & Accounting,Internal Transfer,Mid,0.957,7,9.9,50.9,1,1,No
+EMP-01026,2025-12,Finance & Accounting,Internal Transfer,Entry,0.89,7,11.1,84.0,1,1,No
+EMP-01027,2025-12,Finance & Accounting,Internal Transfer,Mid,0.847,8,23.3,80.7,1,1,No
+EMP-01028,2025-12,Finance & Accounting,Internal Transfer,Mid,1.095,9,9.9,81.9,1,1,No
+EMP-01029,2024-01,Marketing,Job Board,Manager,1.04,7,10.7,68.7,23,23,No
+EMP-01030,2024-01,Marketing,Job Board,Entry,0.971,4,1.3,81.4,21,23,Yes
+EMP-01031,2024-02,Marketing,Job Board,Mid,0.996,6,7.8,96.2,10,22,Yes
+EMP-01032,2024-02,Marketing,Job Board,Entry,1.021,8,0.0,81.5,22,22,No
+EMP-01033,2024-03,Marketing,Job Board,Senior,0.908,12,5.5,50.0,1,21,Yes
+EMP-01034,2024-04,Marketing,Job Board,Entry,0.958,9,3.3,73.4,3,20,Yes
+EMP-01035,2024-04,Marketing,Job Board,Mid,1.009,6,0.0,79.6,9,20,Yes
+EMP-01036,2024-05,Marketing,Job Board,Mid,0.886,8,7.3,75.2,19,19,No
+EMP-01037,2024-05,Marketing,Job Board,Mid,1.09,3,6.4,77.6,12,19,Yes
+EMP-01038,2024-05,Marketing,Job Board,Mid,0.986,3,0.0,56.4,2,19,Yes
+EMP-01039,2024-06,Marketing,Job Board,Entry,1.081,3,0.0,97.2,1,18,Yes
+EMP-01040,2024-06,Marketing,Job Board,Entry,0.944,9,9.0,39.4,1,18,Yes
+EMP-01041,2024-07,Marketing,Job Board,Entry,0.961,7,9.7,48.5,17,17,No
+EMP-01042,2024-07,Marketing,Job Board,Senior,0.832,3,7.2,88.2,1,17,Yes
+EMP-01043,2024-07,Marketing,Job Board,Entry,0.861,8,4.9,88.8,17,17,No
+EMP-01044,2024-08,Marketing,Job Board,Mid,1.081,3,3.1,61.3,16,16,No
+EMP-01045,2024-08,Marketing,Job Board,Senior,0.839,7,3.0,85.0,2,16,Yes
+EMP-01046,2024-09,Marketing,Job Board,Senior,1.053,3,0.0,88.3,1,15,Yes
+EMP-01047,2024-10,Marketing,Job Board,Entry,0.89,5,19.9,59.8,14,14,No
+EMP-01048,2024-10,Marketing,Job Board,Entry,1.104,3,0.0,64.0,14,14,No
+EMP-01049,2024-11,Marketing,Job Board,Entry,1.075,9,5.4,36.2,13,13,No
+EMP-01050,2024-12,Marketing,Job Board,Mid,0.947,5,9.6,100.0,2,12,Yes
+EMP-01051,2024-12,Marketing,Job Board,Senior,0.867,8,7.5,62.1,9,12,Yes
+EMP-01052,2025-01,Marketing,Job Board,Mid,0.943,6,14.3,64.6,11,11,No
+EMP-01053,2025-01,Marketing,Job Board,Senior,0.911,9,4.4,41.3,1,11,Yes
+EMP-01054,2025-02,Marketing,Job Board,Mid,0.996,7,8.5,83.6,10,10,No
+EMP-01055,2025-02,Marketing,Job Board,Entry,1.01,10,13.7,42.8,3,10,Yes
+EMP-01056,2025-02,Marketing,Job Board,Entry,1.066,13,6.4,53.0,1,10,Yes
+EMP-01057,2025-02,Marketing,Job Board,Mid,1.035,9,13.1,73.9,10,10,No
+EMP-01058,2025-03,Marketing,Job Board,Senior,1.063,10,14.4,68.1,9,9,No
+EMP-01059,2025-03,Marketing,Job Board,Manager,0.75,6,0.1,49.6,6,9,Yes
+EMP-01060,2025-04,Marketing,Job Board,Entry,1.045,7,0.0,65.2,3,8,Yes
+EMP-01061,2025-04,Marketing,Job Board,Mid,1.053,7,6.9,55.6,8,8,No
+EMP-01062,2025-05,Marketing,Job Board,Entry,0.87,6,6.5,92.8,7,7,No
+EMP-01063,2025-06,Marketing,Job Board,Senior,0.886,12,0.5,73.6,6,6,No
+EMP-01064,2025-06,Marketing,Job Board,Senior,0.956,5,4.5,71.6,6,6,No
+EMP-01065,2025-07,Marketing,Job Board,Senior,0.978,4,7.4,99.3,3,5,Yes
+EMP-01066,2025-07,Marketing,Job Board,Entry,0.867,9,7.8,36.8,5,5,No
+EMP-01067,2025-08,Marketing,Job Board,Entry,1.027,4,2.1,66.7,4,4,No
+EMP-01068,2025-08,Marketing,Job Board,Senior,0.973,10,0.0,56.3,1,4,Yes
+EMP-01069,2025-09,Marketing,Job Board,Manager,1.06,5,10.6,76.8,3,3,No
+EMP-01070,2025-09,Marketing,Job Board,Entry,1.021,3,0.0,88.8,3,3,No
+EMP-01071,2025-10,Marketing,Job Board,Senior,0.827,9,0.0,60.9,2,2,No
+EMP-01072,2025-10,Marketing,Job Board,Entry,0.974,6,11.5,70.5,2,2,No
+EMP-01073,2025-11,Marketing,Job Board,Senior,1.029,5,5.3,95.9,1,1,No
+EMP-01074,2025-11,Marketing,Job Board,Entry,1.143,8,6.5,90.2,1,1,No
+EMP-01075,2025-12,Marketing,Job Board,Mid,1.007,6,0.0,41.2,1,1,No
+EMP-01076,2025-12,Marketing,Job Board,Manager,1.112,9,0.0,100.0,1,1,No
+EMP-01077,2024-01,Marketing,Employee Referral,Entry,1.156,5,16.6,52.6,23,23,No
+EMP-01078,2024-01,Marketing,Employee Referral,Entry,1.057,8,7.7,52.4,21,23,Yes
+EMP-01079,2024-02,Marketing,Employee Referral,Entry,0.933,8,8.7,76.6,8,22,Yes
+EMP-01080,2024-03,Marketing,Employee Referral,Entry,0.844,4,2.9,62.2,21,21,No
+EMP-01081,2024-03,Marketing,Employee Referral,Entry,0.906,3,0.0,76.4,21,21,No
+EMP-01082,2024-04,Marketing,Employee Referral,Mid,0.999,9,8.6,69.4,20,20,No
+EMP-01083,2024-04,Marketing,Employee Referral,Senior,0.963,9,2.8,63.0,20,20,No
+EMP-01084,2024-05,Marketing,Employee Referral,Mid,1.046,10,0.0,84.0,19,19,No
+EMP-01085,2024-05,Marketing,Employee Referral,Senior,0.858,8,7.3,44.1,19,19,No
+EMP-01086,2024-06,Marketing,Employee Referral,Entry,0.84,14,0.0,80.9,11,18,Yes
+EMP-01087,2024-06,Marketing,Employee Referral,Mid,0.917,5,2.0,55.2,18,18,No
+EMP-01088,2024-07,Marketing,Employee Referral,Entry,0.839,4,1.0,88.8,2,17,Yes
+EMP-01089,2024-07,Marketing,Employee Referral,Mid,1.115,8,4.4,45.7,17,17,No
+EMP-01090,2024-08,Marketing,Employee Referral,Entry,0.977,7,0.5,52.3,16,16,No
+EMP-01091,2024-08,Marketing,Employee Referral,Senior,0.938,9,0.0,82.8,16,16,Yes
+EMP-01092,2024-08,Marketing,Employee Referral,Senior,1.101,9,2.7,35.9,16,16,No
+EMP-01093,2024-09,Marketing,Employee Referral,Mid,0.947,8,0.0,94.5,15,15,No
+EMP-01094,2024-09,Marketing,Employee Referral,Entry,1.025,7,5.6,42.6,2,15,Yes
+EMP-01095,2024-09,Marketing,Employee Referral,Entry,0.855,8,8.8,41.3,15,15,No
+EMP-01096,2024-10,Marketing,Employee Referral,Mid,1.027,5,0.0,46.2,14,14,No
+EMP-01097,2024-10,Marketing,Employee Referral,Entry,0.75,6,0.0,81.4,13,14,Yes
+EMP-01098,2024-11,Marketing,Employee Referral,Senior,1.033,4,6.7,74.1,13,13,No
+EMP-01099,2024-11,Marketing,Employee Referral,Entry,0.991,11,6.1,61.5,13,13,No
+EMP-01100,2024-11,Marketing,Employee Referral,Senior,1.029,5,2.2,82.3,13,13,No
+EMP-01101,2024-12,Marketing,Employee Referral,Entry,0.938,4,0.8,67.7,12,12,No
+EMP-01102,2025-01,Marketing,Employee Referral,Mid,0.813,9,3.2,54.3,11,11,No
+EMP-01103,2025-01,Marketing,Employee Referral,Entry,0.826,8,1.1,45.3,11,11,No
+EMP-01104,2025-02,Marketing,Employee Referral,Entry,0.977,7,2.8,60.4,10,10,No
+EMP-01105,2025-03,Marketing,Employee Referral,Entry,1.047,5,3.0,80.1,9,9,No
+EMP-01106,2025-03,Marketing,Employee Referral,Senior,0.929,7,2.4,96.3,9,9,No
+EMP-01107,2025-03,Marketing,Employee Referral,Entry,0.901,3,2.4,88.1,9,9,No
+EMP-01108,2025-04,Marketing,Employee Referral,Entry,1.005,3,5.2,65.8,8,8,No
+EMP-01109,2025-05,Marketing,Employee Referral,Mid,1.045,10,2.8,58.4,7,7,No
+EMP-01110,2025-05,Marketing,Employee Referral,Entry,0.938,9,2.5,73.8,7,7,No
+EMP-01111,2025-06,Marketing,Employee Referral,Mid,0.921,8,1.0,71.1,6,6,No
+EMP-01112,2025-06,Marketing,Employee Referral,Manager,0.938,3,6.4,96.3,5,6,Yes
+EMP-01113,2025-06,Marketing,Employee Referral,Senior,0.862,8,3.8,75.8,6,6,No
+EMP-01114,2025-07,Marketing,Employee Referral,Senior,1.073,9,0.0,70.5,5,5,No
+EMP-01115,2025-07,Marketing,Employee Referral,Entry,1.105,3,0.0,59.0,5,5,No
+EMP-01116,2025-07,Marketing,Employee Referral,Mid,0.924,9,12.5,33.2,5,5,No
+EMP-01117,2025-08,Marketing,Employee Referral,Senior,0.94,10,12.9,49.9,4,4,No
+EMP-01118,2025-09,Marketing,Employee Referral,Entry,1.004,8,0.2,49.1,3,3,No
+EMP-01119,2025-09,Marketing,Employee Referral,Entry,0.983,6,3.2,59.4,3,3,No
+EMP-01120,2025-09,Marketing,Employee Referral,Entry,0.897,6,12.3,84.0,3,3,No
+EMP-01121,2025-09,Marketing,Employee Referral,Entry,1.059,7,1.9,100.0,3,3,No
+EMP-01122,2025-10,Marketing,Employee Referral,Entry,1.073,9,14.0,48.0,2,2,No
+EMP-01123,2025-10,Marketing,Employee Referral,Entry,0.947,4,4.8,58.1,2,2,No
+EMP-01124,2025-11,Marketing,Employee Referral,Entry,0.897,12,3.1,79.8,1,1,No
+EMP-01125,2025-11,Marketing,Employee Referral,Senior,0.958,3,0.0,57.7,1,1,No
+EMP-01126,2025-12,Marketing,Employee Referral,Entry,0.848,9,12.5,44.3,1,1,No
+EMP-01127,2025-12,Marketing,Employee Referral,Entry,1.103,9,0.0,58.3,1,1,No
+EMP-01128,2025-12,Marketing,Employee Referral,Mid,1.062,10,0.0,100.0,1,1,No
+EMP-01129,2024-01,Marketing,Agency,Mid,0.945,3,0.0,65.7,1,23,Yes
+EMP-01130,2024-01,Marketing,Agency,Entry,0.854,6,0.0,70.4,23,23,No
+EMP-01131,2024-02,Marketing,Agency,Entry,0.942,6,13.2,50.3,22,22,No
+EMP-01132,2024-03,Marketing,Agency,Manager,0.78,8,9.0,61.0,21,21,No
+EMP-01133,2024-03,Marketing,Agency,Mid,0.833,8,0.2,87.7,21,21,No
+EMP-01134,2024-04,Marketing,Agency,Senior,0.928,8,0.0,44.4,4,20,Yes
+EMP-01135,2024-04,Marketing,Agency,Entry,0.872,7,3.7,89.8,20,20,No
+EMP-01136,2024-05,Marketing,Agency,Senior,0.963,9,19.1,29.3,19,19,No
+EMP-01137,2024-05,Marketing,Agency,Entry,0.75,8,1.0,58.1,19,19,No
+EMP-01138,2024-05,Marketing,Agency,Entry,1.146,5,0.0,90.4,19,19,No
+EMP-01139,2024-06,Marketing,Agency,Mid,1.028,9,0.0,30.9,18,18,No
+EMP-01140,2024-06,Marketing,Agency,Entry,0.835,11,8.4,59.7,18,18,No
+EMP-01141,2024-07,Marketing,Agency,Mid,0.946,7,8.4,90.1,17,17,No
+EMP-01142,2024-08,Marketing,Agency,Senior,0.914,3,0.0,76.5,16,16,No
+EMP-01143,2024-09,Marketing,Agency,Mid,0.797,5,4.1,63.5,4,15,Yes
+EMP-01144,2024-09,Marketing,Agency,Mid,0.943,9,5.3,73.6,15,15,No
+EMP-01145,2024-10,Marketing,Agency,Mid,0.951,9,2.4,53.7,14,14,No
+EMP-01146,2024-10,Marketing,Agency,Entry,1.021,3,2.2,78.1,14,14,No
+EMP-01147,2024-11,Marketing,Agency,Mid,0.959,6,4.3,89.5,13,13,No
+EMP-01148,2024-11,Marketing,Agency,Mid,0.831,3,8.2,41.9,1,13,Yes
+EMP-01149,2024-12,Marketing,Agency,Entry,0.938,6,9.2,76.2,12,12,No
+EMP-01150,2024-12,Marketing,Agency,Entry,0.866,3,0.0,84.6,12,12,No
+EMP-01151,2025-01,Marketing,Agency,Entry,0.868,6,7.8,66.7,11,11,No
+EMP-01152,2025-02,Marketing,Agency,Mid,0.79,6,10.1,91.2,10,10,No
+EMP-01153,2025-02,Marketing,Agency,Manager,0.848,4,13.3,86.2,3,10,Yes
+EMP-01154,2025-03,Marketing,Agency,Senior,0.966,5,0.0,45.2,9,9,No
+EMP-01155,2025-03,Marketing,Agency,Mid,0.998,5,9.4,70.6,9,9,No
+EMP-01156,2025-04,Marketing,Agency,Entry,0.96,6,13.5,87.4,6,8,Yes
+EMP-01157,2025-04,Marketing,Agency,Entry,0.803,3,2.6,78.8,8,8,No
+EMP-01158,2025-05,Marketing,Agency,Entry,0.874,7,0.0,56.7,7,7,No
+EMP-01159,2025-06,Marketing,Agency,Manager,0.991,4,8.2,46.2,6,6,No
+EMP-01160,2025-06,Marketing,Agency,Entry,1.0,8,4.2,53.3,6,6,No
+EMP-01161,2025-06,Marketing,Agency,Entry,0.847,9,8.5,79.7,6,6,No
+EMP-01162,2025-07,Marketing,Agency,Mid,1.16,3,2.8,44.1,5,5,No
+EMP-01163,2025-07,Marketing,Agency,Mid,1.097,3,12.9,74.9,3,5,Yes
+EMP-01164,2025-08,Marketing,Agency,Entry,0.856,9,8.7,35.7,4,4,No
+EMP-01165,2025-09,Marketing,Agency,Mid,0.972,7,0.0,82.3,2,3,Yes
+EMP-01166,2025-10,Marketing,Agency,Entry,0.834,5,3.2,73.8,2,2,No
+EMP-01167,2025-10,Marketing,Agency,Senior,0.85,8,8.7,61.0,2,2,No
+EMP-01168,2025-11,Marketing,Agency,Senior,1.203,3,9.5,85.4,1,1,No
+EMP-01169,2025-11,Marketing,Agency,Entry,0.914,6,6.9,50.1,1,1,No
+EMP-01170,2025-12,Marketing,Agency,Entry,0.97,6,0.0,59.0,1,1,No
+EMP-01171,2024-01,Marketing,Campus,Senior,0.813,8,2.3,97.8,23,23,No
+EMP-01172,2024-02,Marketing,Campus,Entry,0.954,8,8.9,64.4,19,22,Yes
+EMP-01173,2024-03,Marketing,Campus,Mid,1.059,7,9.6,64.1,20,21,Yes
+EMP-01174,2024-04,Marketing,Campus,Mid,0.99,6,0.0,50.2,20,20,No
+EMP-01175,2024-05,Marketing,Campus,Entry,1.018,4,6.0,88.5,19,19,No
+EMP-01176,2024-06,Marketing,Campus,Mid,0.964,8,9.1,48.9,1,18,Yes
+EMP-01177,2024-07,Marketing,Campus,Entry,0.918,6,15.9,78.1,17,17,No
+EMP-01178,2024-08,Marketing,Campus,Entry,1.036,3,14.0,81.4,7,16,Yes
+EMP-01179,2024-09,Marketing,Campus,Mid,0.945,4,0.0,64.9,15,15,No
+EMP-01180,2024-10,Marketing,Campus,Mid,1.196,8,20.0,65.1,14,14,No
+EMP-01181,2024-11,Marketing,Campus,Mid,1.014,6,3.9,52.4,3,13,Yes
+EMP-01182,2024-12,Marketing,Campus,Entry,1.015,8,5.9,65.0,8,12,Yes
+EMP-01183,2025-01,Marketing,Campus,Entry,1.1,5,0.2,82.1,11,11,No
+EMP-01184,2025-02,Marketing,Campus,Entry,0.927,6,2.9,74.1,5,10,Yes
+EMP-01185,2025-03,Marketing,Campus,Mid,0.979,7,11.0,30.6,9,9,No
+EMP-01186,2025-04,Marketing,Campus,Mid,1.049,3,4.6,64.5,8,8,No
+EMP-01187,2025-05,Marketing,Campus,Manager,0.963,6,4.1,71.9,7,7,No
+EMP-01188,2025-06,Marketing,Campus,Entry,0.799,4,5.6,65.1,2,6,Yes
+EMP-01189,2025-07,Marketing,Campus,Entry,0.906,4,5.9,78.1,5,5,No
+EMP-01190,2025-08,Marketing,Campus,Entry,0.949,7,8.3,56.5,4,4,Yes
+EMP-01191,2025-09,Marketing,Campus,Entry,0.919,4,1.8,75.5,3,3,No
+EMP-01192,2025-10,Marketing,Campus,Senior,1.184,9,6.7,58.5,2,2,No
+EMP-01193,2025-11,Marketing,Campus,Entry,1.031,5,3.7,49.3,1,1,No
+EMP-01194,2025-12,Marketing,Campus,Mid,0.981,6,3.7,55.8,1,1,No
+EMP-01195,2024-01,Marketing,Internal Transfer,Senior,1.044,3,0.0,24.0,23,23,No
+EMP-01196,2024-01,Marketing,Internal Transfer,Entry,1.024,6,5.8,63.7,23,23,No
+EMP-01197,2024-02,Marketing,Internal Transfer,Mid,1.056,9,6.0,76.6,5,22,Yes
+EMP-01198,2024-03,Marketing,Internal Transfer,Entry,1.102,3,0.0,70.1,1,21,Yes
+EMP-01199,2024-03,Marketing,Internal Transfer,Entry,0.855,8,9.8,44.7,2,21,Yes
+EMP-01200,2024-03,Marketing,Internal Transfer,Entry,0.889,7,5.4,90.4,21,21,No
+EMP-01201,2024-04,Marketing,Internal Transfer,Entry,1.041,9,2.3,86.8,20,20,No
+EMP-01202,2024-04,Marketing,Internal Transfer,Mid,0.929,8,0.0,69.8,20,20,No
+EMP-01203,2024-05,Marketing,Internal Transfer,Senior,1.057,6,0.0,56.5,6,19,Yes
+EMP-01204,2024-06,Marketing,Internal Transfer,Mid,0.819,11,0.5,58.9,8,18,Yes
+EMP-01205,2024-07,Marketing,Internal Transfer,Entry,1.053,5,5.1,70.3,4,17,Yes
+EMP-01206,2024-07,Marketing,Internal Transfer,Senior,0.898,6,0.0,51.0,10,17,Yes
+EMP-01207,2024-08,Marketing,Internal Transfer,Senior,0.883,5,13.2,77.1,16,16,No
+EMP-01208,2024-08,Marketing,Internal Transfer,Entry,0.95,8,12.8,53.4,15,16,Yes
+EMP-01209,2024-09,Marketing,Internal Transfer,Mid,1.014,8,3.0,91.1,4,15,Yes
+EMP-01210,2024-10,Marketing,Internal Transfer,Entry,0.911,10,20.9,33.9,4,14,Yes
+EMP-01211,2024-10,Marketing,Internal Transfer,Entry,0.966,8,10.2,65.8,14,14,No
+EMP-01212,2024-12,Marketing,Internal Transfer,Entry,0.96,7,8.0,98.5,3,12,Yes
+EMP-01213,2024-12,Marketing,Internal Transfer,Senior,1.022,3,5.3,80.0,12,12,No
+EMP-01214,2025-01,Marketing,Internal Transfer,Mid,1.068,3,7.9,47.0,11,11,No
+EMP-01215,2025-03,Marketing,Internal Transfer,Mid,0.985,7,4.0,72.8,9,9,No
+EMP-01216,2025-03,Marketing,Internal Transfer,Entry,0.981,3,8.4,92.6,9,9,No
+EMP-01217,2025-04,Marketing,Internal Transfer,Senior,0.915,6,7.4,88.4,8,8,No
+EMP-01218,2025-04,Marketing,Internal Transfer,Entry,0.898,5,4.4,51.3,8,8,No
+EMP-01219,2025-05,Marketing,Internal Transfer,Manager,1.061,4,5.2,74.8,7,7,No
+EMP-01220,2025-06,Marketing,Internal Transfer,Mid,1.185,6,11.5,71.3,6,6,No
+EMP-01221,2025-07,Marketing,Internal Transfer,Entry,0.981,8,0.0,56.1,5,5,No
+EMP-01222,2025-07,Marketing,Internal Transfer,Senior,1.075,7,13.6,61.0,5,5,No
+EMP-01223,2025-08,Marketing,Internal Transfer,Entry,1.005,9,2.7,58.4,4,4,No
+EMP-01224,2025-08,Marketing,Internal Transfer,Entry,0.971,6,5.6,56.2,4,4,No
+EMP-01225,2025-09,Marketing,Internal Transfer,Mid,1.072,7,0.5,43.0,3,3,No
+EMP-01226,2025-10,Marketing,Internal Transfer,Entry,1.007,6,0.0,68.7,2,2,No
+EMP-01227,2025-11,Marketing,Internal Transfer,Entry,1.072,11,2.5,72.7,1,1,No
+EMP-01228,2025-11,Marketing,Internal Transfer,Mid,0.798,9,3.0,74.0,1,1,No
+EMP-01229,2025-12,Marketing,Internal Transfer,Mid,0.925,7,7.2,48.1,1,1,No
+EMP-01230,2025-12,Marketing,Internal Transfer,Manager,1.001,8,10.5,59.4,1,1,No

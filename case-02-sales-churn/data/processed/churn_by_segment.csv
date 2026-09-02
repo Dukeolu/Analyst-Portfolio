@@ -1,0 +1,12 @@
+segment_dimension,segment_value,customers,churned_customers,churn_rate_pct,active_mrr
+contract_type,Month-to-month,3300,1766,53.52,64139.59
+contract_type,One year,1791,351,19.6,62235.57
+contract_type,Two year,909,82,9.02,34622.41
+region,Northeast,1490,556,37.32,39907.88
+region,South,1532,565,36.88,41469.78
+region,Midwest,1518,550,36.23,40978.88
+region,West,1460,528,36.16,38641.03
+signup_channel,Referral,1175,443,37.7,31444.48
+signup_channel,Paid Search,1834,678,36.97,48250.24
+signup_channel,Organic,2100,759,36.14,57284.09
+signup_channel,Sales-Assisted,891,319,35.8,24018.76

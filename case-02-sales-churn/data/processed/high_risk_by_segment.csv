@@ -1,0 +1,5 @@
+contract_type,signup_channel,customers,avg_churn_probability,monthly_revenue_at_risk
+Month-to-month,Paid Search,268,0.5793984587002818,11965.2
+Month-to-month,Referral,208,0.5845662106077358,9802.11
+Month-to-month,Organic,201,0.5677588291191114,9258.44
+Month-to-month,Sales-Assisted,84,0.5638545982840899,3920.79

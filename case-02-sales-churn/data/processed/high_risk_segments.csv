@@ -1,0 +1,9 @@
+contract_type,ticket_bucket,customers,churn_rate_pct,avg_engagement_score,active_mrr
+Month-to-month,1-2 tickets,648,54.32,52.9,12511.41
+Month-to-month,0 tickets,2623,53.34,68.4,51052.74
+Month-to-month,3+ tickets,29,51.72,39.0,575.44
+One year,1-2 tickets,400,21.0,51.8,13801.63
+One year,0 tickets,1370,19.42,67.6,47728.94
+Two year,1-2 tickets,190,13.68,51.9,6815.51
+Two year,0 tickets,704,7.53,69.4,27299.31
+One year,3+ tickets,21,4.76,36.6,705.0

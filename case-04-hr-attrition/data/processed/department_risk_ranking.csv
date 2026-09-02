@@ -1,0 +1,7 @@
+department,employees,voluntary_terms,term_rate_pct,avg_overtime_hours,avg_manager_span,avg_comp_ratio,risk_rank
+Marketing,202,57,28.22,5.3,6.6,0.966,1
+Warehouse & Ops,153,43,28.1,14.0,8.7,0.977,2
+Engineering,235,57,24.26,5.3,6.7,0.978,3
+Sales,210,46,21.9,6.1,6.5,0.99,4
+Finance & Accounting,205,43,20.98,5.6,6.8,0.981,5
+Customer Support,225,44,19.56,5.6,6.7,0.982,6

@@ -1,0 +1,721 @@
+month,department,channel,applied,screened,interviewed,offered,hired
+2024-01,Sales,Job Board,17,6,4,2,1
+2024-02,Sales,Job Board,21,7,4,3,2
+2024-03,Sales,Job Board,32,12,6,4,3
+2024-04,Sales,Job Board,28,11,6,3,2
+2024-05,Sales,Job Board,19,7,4,2,2
+2024-06,Sales,Job Board,24,8,4,2,1
+2024-07,Sales,Job Board,24,9,5,3,2
+2024-08,Sales,Job Board,13,5,2,1,1
+2024-09,Sales,Job Board,22,9,5,3,2
+2024-10,Sales,Job Board,25,11,6,4,3
+2024-11,Sales,Job Board,26,10,6,4,3
+2024-12,Sales,Job Board,17,6,3,2,2
+2025-01,Sales,Job Board,26,10,5,3,2
+2025-02,Sales,Job Board,26,9,4,3,2
+2025-03,Sales,Job Board,19,7,4,2,1
+2025-04,Sales,Job Board,27,8,5,3,2
+2025-05,Sales,Job Board,20,7,4,2,2
+2025-06,Sales,Job Board,22,7,4,2,2
+2025-07,Sales,Job Board,18,6,4,2,1
+2025-08,Sales,Job Board,16,5,3,2,2
+2025-09,Sales,Job Board,26,11,5,3,2
+2025-10,Sales,Job Board,20,8,5,3,2
+2025-11,Sales,Job Board,20,9,5,3,2
+2025-12,Sales,Job Board,28,11,6,4,3
+2024-01,Sales,Employee Referral,6,4,3,2,2
+2024-02,Sales,Employee Referral,10,7,5,3,3
+2024-03,Sales,Employee Referral,6,5,4,3,3
+2024-04,Sales,Employee Referral,4,3,2,1,1
+2024-05,Sales,Employee Referral,0,0,0,0,0
+2024-06,Sales,Employee Referral,8,6,5,4,4
+2024-07,Sales,Employee Referral,7,5,4,3,3
+2024-08,Sales,Employee Referral,5,3,2,1,1
+2024-09,Sales,Employee Referral,6,4,3,2,2
+2024-10,Sales,Employee Referral,4,3,2,1,1
+2024-11,Sales,Employee Referral,5,4,3,2,2
+2024-12,Sales,Employee Referral,3,2,1,1,1
+2025-01,Sales,Employee Referral,4,3,2,1,1
+2025-02,Sales,Employee Referral,6,4,3,2,2
+2025-03,Sales,Employee Referral,7,5,4,3,3
+2025-04,Sales,Employee Referral,3,2,2,1,1
+2025-05,Sales,Employee Referral,8,6,5,4,3
+2025-06,Sales,Employee Referral,3,2,2,1,1
+2025-07,Sales,Employee Referral,4,3,3,2,2
+2025-08,Sales,Employee Referral,8,6,4,3,3
+2025-09,Sales,Employee Referral,9,7,5,4,4
+2025-10,Sales,Employee Referral,7,5,4,3,3
+2025-11,Sales,Employee Referral,7,5,4,3,3
+2025-12,Sales,Employee Referral,10,7,5,4,4
+2024-01,Sales,Agency,6,4,2,1,1
+2024-02,Sales,Agency,12,8,5,3,3
+2024-03,Sales,Agency,6,4,3,2,2
+2024-04,Sales,Agency,10,6,3,2,2
+2024-05,Sales,Agency,6,4,3,2,2
+2024-06,Sales,Agency,7,5,3,2,2
+2024-07,Sales,Agency,2,1,1,1,1
+2024-08,Sales,Agency,8,5,3,2,2
+2024-09,Sales,Agency,2,1,1,1,1
+2024-10,Sales,Agency,5,3,2,1,1
+2024-11,Sales,Agency,9,6,4,3,2
+2024-12,Sales,Agency,11,7,5,3,2
+2025-01,Sales,Agency,5,3,2,2,2
+2025-02,Sales,Agency,8,4,3,2,2
+2025-03,Sales,Agency,8,5,3,2,2
+2025-04,Sales,Agency,11,8,5,3,2
+2025-05,Sales,Agency,7,4,2,1,1
+2025-06,Sales,Agency,9,6,4,3,3
+2025-07,Sales,Agency,5,3,2,1,1
+2025-08,Sales,Agency,9,6,3,2,2
+2025-09,Sales,Agency,9,6,3,2,2
+2025-10,Sales,Agency,6,4,3,2,2
+2025-11,Sales,Agency,7,5,3,2,2
+2025-12,Sales,Agency,5,3,2,1,1
+2024-01,Sales,Campus,2,1,1,1,1
+2024-02,Sales,Campus,7,4,2,1,1
+2024-03,Sales,Campus,8,5,3,2,1
+2024-04,Sales,Campus,6,4,2,1,1
+2024-05,Sales,Campus,5,3,2,1,1
+2024-06,Sales,Campus,4,2,1,1,1
+2024-07,Sales,Campus,4,2,1,1,1
+2024-08,Sales,Campus,2,1,1,1,1
+2024-09,Sales,Campus,3,2,1,1,1
+2024-10,Sales,Campus,0,0,0,0,0
+2024-11,Sales,Campus,6,3,2,1,1
+2024-12,Sales,Campus,6,3,2,1,1
+2025-01,Sales,Campus,4,2,1,1,1
+2025-02,Sales,Campus,4,2,1,1,1
+2025-03,Sales,Campus,2,1,1,1,1
+2025-04,Sales,Campus,5,3,2,1,1
+2025-05,Sales,Campus,2,1,1,1,1
+2025-06,Sales,Campus,5,3,2,1,1
+2025-07,Sales,Campus,4,2,1,1,1
+2025-08,Sales,Campus,3,2,1,0,0
+2025-09,Sales,Campus,4,2,1,1,1
+2025-10,Sales,Campus,3,2,1,1,1
+2025-11,Sales,Campus,2,1,1,0,0
+2025-12,Sales,Campus,8,5,3,2,2
+2024-01,Sales,Internal Transfer,2,2,2,1,1
+2024-02,Sales,Internal Transfer,5,4,3,2,2
+2024-03,Sales,Internal Transfer,2,2,2,2,2
+2024-04,Sales,Internal Transfer,6,5,4,3,3
+2024-05,Sales,Internal Transfer,4,4,3,2,2
+2024-06,Sales,Internal Transfer,3,3,3,2,2
+2024-07,Sales,Internal Transfer,2,2,2,2,2
+2024-08,Sales,Internal Transfer,3,3,2,1,1
+2024-09,Sales,Internal Transfer,4,4,3,2,2
+2024-10,Sales,Internal Transfer,2,2,2,2,2
+2024-11,Sales,Internal Transfer,5,5,4,3,3
+2024-12,Sales,Internal Transfer,1,1,1,1,1
+2025-01,Sales,Internal Transfer,2,2,2,2,2
+2025-02,Sales,Internal Transfer,3,3,3,3,3
+2025-03,Sales,Internal Transfer,4,3,3,3,3
+2025-04,Sales,Internal Transfer,1,1,1,1,1
+2025-05,Sales,Internal Transfer,4,3,2,2,2
+2025-06,Sales,Internal Transfer,3,3,2,2,2
+2025-07,Sales,Internal Transfer,2,2,2,2,2
+2025-08,Sales,Internal Transfer,4,4,3,2,2
+2025-09,Sales,Internal Transfer,6,5,4,3,2
+2025-10,Sales,Internal Transfer,0,0,0,0,0
+2025-11,Sales,Internal Transfer,2,2,2,1,1
+2025-12,Sales,Internal Transfer,3,3,3,2,2
+2024-01,Customer Support,Job Board,23,8,4,2,2
+2024-02,Customer Support,Job Board,27,10,7,5,4
+2024-03,Customer Support,Job Board,17,7,3,2,2
+2024-04,Customer Support,Job Board,21,7,4,2,2
+2024-05,Customer Support,Job Board,17,7,4,3,2
+2024-06,Customer Support,Job Board,23,8,4,2,1
+2024-07,Customer Support,Job Board,27,10,5,3,2
+2024-08,Customer Support,Job Board,20,8,4,3,2
+2024-09,Customer Support,Job Board,19,7,4,2,2
+2024-10,Customer Support,Job Board,24,10,5,3,2
+2024-11,Customer Support,Job Board,23,9,5,3,2
+2024-12,Customer Support,Job Board,25,10,5,3,2
+2025-01,Customer Support,Job Board,26,10,4,2,1
+2025-02,Customer Support,Job Board,28,11,6,4,3
+2025-03,Customer Support,Job Board,20,7,4,2,2
+2025-04,Customer Support,Job Board,25,9,5,3,3
+2025-05,Customer Support,Job Board,27,9,5,3,2
+2025-06,Customer Support,Job Board,28,9,5,3,2
+2025-07,Customer Support,Job Board,17,6,3,2,2
+2025-08,Customer Support,Job Board,29,9,5,3,3
+2025-09,Customer Support,Job Board,23,9,5,3,2
+2025-10,Customer Support,Job Board,30,12,7,4,3
+2025-11,Customer Support,Job Board,26,10,6,4,3
+2025-12,Customer Support,Job Board,22,9,4,3,2
+2024-01,Customer Support,Employee Referral,7,5,4,3,2
+2024-02,Customer Support,Employee Referral,6,4,3,2,2
+2024-03,Customer Support,Employee Referral,6,4,3,2,2
+2024-04,Customer Support,Employee Referral,7,6,4,3,3
+2024-05,Customer Support,Employee Referral,5,4,3,2,2
+2024-06,Customer Support,Employee Referral,5,4,3,2,2
+2024-07,Customer Support,Employee Referral,10,8,6,4,4
+2024-08,Customer Support,Employee Referral,3,2,2,2,2
+2024-09,Customer Support,Employee Referral,6,4,3,2,2
+2024-10,Customer Support,Employee Referral,5,4,3,2,2
+2024-11,Customer Support,Employee Referral,5,4,3,2,2
+2024-12,Customer Support,Employee Referral,8,6,4,3,3
+2025-01,Customer Support,Employee Referral,9,7,5,4,3
+2025-02,Customer Support,Employee Referral,5,4,3,2,2
+2025-03,Customer Support,Employee Referral,6,5,4,3,3
+2025-04,Customer Support,Employee Referral,9,6,4,3,3
+2025-05,Customer Support,Employee Referral,6,4,3,2,2
+2025-06,Customer Support,Employee Referral,12,9,7,5,5
+2025-07,Customer Support,Employee Referral,2,1,1,1,1
+2025-08,Customer Support,Employee Referral,8,6,5,4,4
+2025-09,Customer Support,Employee Referral,5,4,3,2,2
+2025-10,Customer Support,Employee Referral,7,5,3,2,2
+2025-11,Customer Support,Employee Referral,9,7,6,5,5
+2025-12,Customer Support,Employee Referral,6,5,4,3,3
+2024-01,Customer Support,Agency,13,8,5,3,3
+2024-02,Customer Support,Agency,7,5,3,2,2
+2024-03,Customer Support,Agency,9,6,4,3,2
+2024-04,Customer Support,Agency,11,7,4,3,3
+2024-05,Customer Support,Agency,3,2,1,1,1
+2024-06,Customer Support,Agency,8,6,3,2,2
+2024-07,Customer Support,Agency,9,7,4,3,3
+2024-08,Customer Support,Agency,1,1,1,1,1
+2024-09,Customer Support,Agency,6,4,2,1,1
+2024-10,Customer Support,Agency,10,7,4,3,2
+2024-11,Customer Support,Agency,5,3,2,1,1
+2024-12,Customer Support,Agency,9,6,3,2,2
+2025-01,Customer Support,Agency,8,5,3,2,2
+2025-02,Customer Support,Agency,13,9,5,4,4
+2025-03,Customer Support,Agency,5,3,2,1,1
+2025-04,Customer Support,Agency,9,6,3,2,2
+2025-05,Customer Support,Agency,9,6,4,3,2
+2025-06,Customer Support,Agency,7,5,3,2,2
+2025-07,Customer Support,Agency,6,4,2,1,1
+2025-08,Customer Support,Agency,8,5,3,2,2
+2025-09,Customer Support,Agency,7,5,3,2,2
+2025-10,Customer Support,Agency,4,3,2,1,1
+2025-11,Customer Support,Agency,12,8,4,3,2
+2025-12,Customer Support,Agency,4,3,2,1,1
+2024-01,Customer Support,Campus,3,2,1,1,1
+2024-02,Customer Support,Campus,4,2,1,1,1
+2024-03,Customer Support,Campus,4,2,1,1,1
+2024-04,Customer Support,Campus,2,1,1,1,1
+2024-05,Customer Support,Campus,2,1,1,1,1
+2024-06,Customer Support,Campus,1,1,1,1,1
+2024-07,Customer Support,Campus,3,2,1,1,1
+2024-08,Customer Support,Campus,6,4,2,1,1
+2024-09,Customer Support,Campus,2,1,1,1,1
+2024-10,Customer Support,Campus,4,2,1,0,0
+2024-11,Customer Support,Campus,6,3,2,1,1
+2024-12,Customer Support,Campus,5,3,2,1,1
+2025-01,Customer Support,Campus,3,2,1,1,1
+2025-02,Customer Support,Campus,4,2,1,1,1
+2025-03,Customer Support,Campus,7,4,2,1,1
+2025-04,Customer Support,Campus,3,2,1,1,1
+2025-05,Customer Support,Campus,2,1,1,1,1
+2025-06,Customer Support,Campus,6,3,2,1,1
+2025-07,Customer Support,Campus,2,1,1,1,1
+2025-08,Customer Support,Campus,6,3,2,1,1
+2025-09,Customer Support,Campus,6,4,2,1,1
+2025-10,Customer Support,Campus,3,2,1,1,1
+2025-11,Customer Support,Campus,2,1,1,1,1
+2025-12,Customer Support,Campus,2,1,1,1,1
+2024-01,Customer Support,Internal Transfer,2,2,2,2,2
+2024-02,Customer Support,Internal Transfer,2,2,2,2,2
+2024-03,Customer Support,Internal Transfer,5,5,4,3,2
+2024-04,Customer Support,Internal Transfer,1,1,1,1,1
+2024-05,Customer Support,Internal Transfer,2,2,2,2,2
+2024-06,Customer Support,Internal Transfer,5,4,3,2,2
+2024-07,Customer Support,Internal Transfer,0,0,0,0,0
+2024-08,Customer Support,Internal Transfer,2,2,2,2,2
+2024-09,Customer Support,Internal Transfer,3,3,2,2,2
+2024-10,Customer Support,Internal Transfer,4,4,3,2,2
+2024-11,Customer Support,Internal Transfer,4,4,3,2,2
+2024-12,Customer Support,Internal Transfer,3,3,3,2,2
+2025-01,Customer Support,Internal Transfer,4,3,3,2,2
+2025-02,Customer Support,Internal Transfer,3,3,2,2,2
+2025-03,Customer Support,Internal Transfer,3,3,3,3,3
+2025-04,Customer Support,Internal Transfer,3,3,2,1,1
+2025-05,Customer Support,Internal Transfer,3,2,2,2,2
+2025-06,Customer Support,Internal Transfer,0,0,0,0,0
+2025-07,Customer Support,Internal Transfer,6,5,4,3,3
+2025-08,Customer Support,Internal Transfer,3,3,3,2,2
+2025-09,Customer Support,Internal Transfer,4,3,2,2,2
+2025-10,Customer Support,Internal Transfer,1,1,1,1,1
+2025-11,Customer Support,Internal Transfer,1,1,1,1,1
+2025-12,Customer Support,Internal Transfer,1,1,1,1,1
+2024-01,Warehouse & Ops,Job Board,47,18,5,3,2
+2024-02,Warehouse & Ops,Job Board,37,16,5,3,2
+2024-03,Warehouse & Ops,Job Board,38,16,5,3,2
+2024-04,Warehouse & Ops,Job Board,44,19,6,4,3
+2024-05,Warehouse & Ops,Job Board,32,13,4,2,1
+2024-06,Warehouse & Ops,Job Board,43,16,5,3,2
+2024-07,Warehouse & Ops,Job Board,50,17,5,3,2
+2024-08,Warehouse & Ops,Job Board,49,16,5,3,2
+2024-09,Warehouse & Ops,Job Board,46,16,5,3,2
+2024-10,Warehouse & Ops,Job Board,33,13,4,2,2
+2024-11,Warehouse & Ops,Job Board,49,18,5,3,3
+2024-12,Warehouse & Ops,Job Board,32,13,4,2,2
+2025-01,Warehouse & Ops,Job Board,51,23,7,4,3
+2025-02,Warehouse & Ops,Job Board,39,13,4,3,2
+2025-03,Warehouse & Ops,Job Board,48,19,6,3,3
+2025-04,Warehouse & Ops,Job Board,42,16,4,2,2
+2025-05,Warehouse & Ops,Job Board,37,14,4,2,1
+2025-06,Warehouse & Ops,Job Board,49,20,7,4,3
+2025-07,Warehouse & Ops,Job Board,42,16,4,2,2
+2025-08,Warehouse & Ops,Job Board,40,16,6,3,2
+2025-09,Warehouse & Ops,Job Board,50,16,4,2,1
+2025-10,Warehouse & Ops,Job Board,44,19,5,3,2
+2025-11,Warehouse & Ops,Job Board,48,17,6,3,2
+2025-12,Warehouse & Ops,Job Board,32,12,3,2,2
+2024-01,Warehouse & Ops,Employee Referral,4,3,2,2,2
+2024-02,Warehouse & Ops,Employee Referral,3,2,1,1,1
+2024-03,Warehouse & Ops,Employee Referral,3,2,2,1,1
+2024-04,Warehouse & Ops,Employee Referral,5,4,3,2,2
+2024-05,Warehouse & Ops,Employee Referral,3,2,2,1,1
+2024-06,Warehouse & Ops,Employee Referral,4,3,2,2,2
+2024-07,Warehouse & Ops,Employee Referral,6,4,3,2,2
+2024-08,Warehouse & Ops,Employee Referral,3,2,1,1,1
+2024-09,Warehouse & Ops,Employee Referral,2,2,1,1,1
+2024-10,Warehouse & Ops,Employee Referral,5,4,3,2,2
+2024-11,Warehouse & Ops,Employee Referral,2,1,1,1,1
+2024-12,Warehouse & Ops,Employee Referral,3,2,1,1,1
+2025-01,Warehouse & Ops,Employee Referral,4,3,2,1,1
+2025-02,Warehouse & Ops,Employee Referral,3,2,1,1,1
+2025-03,Warehouse & Ops,Employee Referral,1,1,1,1,1
+2025-04,Warehouse & Ops,Employee Referral,6,4,3,2,2
+2025-05,Warehouse & Ops,Employee Referral,3,2,1,1,1
+2025-06,Warehouse & Ops,Employee Referral,4,3,2,1,1
+2025-07,Warehouse & Ops,Employee Referral,6,4,3,2,2
+2025-08,Warehouse & Ops,Employee Referral,6,5,4,3,3
+2025-09,Warehouse & Ops,Employee Referral,3,2,2,2,2
+2025-10,Warehouse & Ops,Employee Referral,3,2,2,1,1
+2025-11,Warehouse & Ops,Employee Referral,6,4,3,2,2
+2025-12,Warehouse & Ops,Employee Referral,1,1,1,1,1
+2024-01,Warehouse & Ops,Agency,7,5,3,2,2
+2024-02,Warehouse & Ops,Agency,6,4,2,1,1
+2024-03,Warehouse & Ops,Agency,5,3,2,1,1
+2024-04,Warehouse & Ops,Agency,8,5,3,2,2
+2024-05,Warehouse & Ops,Agency,5,3,2,1,1
+2024-06,Warehouse & Ops,Agency,11,7,4,2,2
+2024-07,Warehouse & Ops,Agency,5,3,2,1,1
+2024-08,Warehouse & Ops,Agency,4,3,2,1,1
+2024-09,Warehouse & Ops,Agency,7,4,3,2,2
+2024-10,Warehouse & Ops,Agency,8,6,3,2,1
+2024-11,Warehouse & Ops,Agency,3,2,1,1,1
+2024-12,Warehouse & Ops,Agency,7,4,3,2,2
+2025-01,Warehouse & Ops,Agency,10,6,3,2,2
+2025-02,Warehouse & Ops,Agency,9,5,3,2,2
+2025-03,Warehouse & Ops,Agency,3,2,1,1,1
+2025-04,Warehouse & Ops,Agency,6,4,3,2,2
+2025-05,Warehouse & Ops,Agency,6,4,2,1,1
+2025-06,Warehouse & Ops,Agency,3,2,1,1,1
+2025-07,Warehouse & Ops,Agency,3,2,1,1,1
+2025-08,Warehouse & Ops,Agency,7,4,3,2,2
+2025-09,Warehouse & Ops,Agency,6,4,3,2,2
+2025-10,Warehouse & Ops,Agency,6,4,2,1,1
+2025-11,Warehouse & Ops,Agency,2,1,1,1,1
+2025-12,Warehouse & Ops,Agency,6,3,2,1,1
+2024-01,Warehouse & Ops,Campus,6,4,2,1,1
+2024-02,Warehouse & Ops,Campus,2,1,1,1,1
+2024-03,Warehouse & Ops,Campus,2,1,1,1,1
+2024-04,Warehouse & Ops,Campus,0,0,0,0,0
+2024-05,Warehouse & Ops,Campus,3,1,1,1,1
+2024-06,Warehouse & Ops,Campus,0,0,0,0,0
+2024-07,Warehouse & Ops,Campus,4,2,1,1,1
+2024-08,Warehouse & Ops,Campus,0,0,0,0,0
+2024-09,Warehouse & Ops,Campus,0,0,0,0,0
+2024-10,Warehouse & Ops,Campus,1,1,1,1,1
+2024-11,Warehouse & Ops,Campus,1,1,1,1,1
+2024-12,Warehouse & Ops,Campus,3,2,1,1,1
+2025-01,Warehouse & Ops,Campus,3,2,1,1,1
+2025-02,Warehouse & Ops,Campus,1,1,1,1,1
+2025-03,Warehouse & Ops,Campus,1,1,1,1,1
+2025-04,Warehouse & Ops,Campus,6,3,2,1,1
+2025-05,Warehouse & Ops,Campus,0,0,0,0,0
+2025-06,Warehouse & Ops,Campus,1,0,0,0,0
+2025-07,Warehouse & Ops,Campus,1,1,1,1,1
+2025-08,Warehouse & Ops,Campus,1,1,1,1,1
+2025-09,Warehouse & Ops,Campus,1,1,1,1,1
+2025-10,Warehouse & Ops,Campus,4,2,1,0,0
+2025-11,Warehouse & Ops,Campus,1,1,1,1,1
+2025-12,Warehouse & Ops,Campus,0,0,0,0,0
+2024-01,Warehouse & Ops,Internal Transfer,2,2,2,2,2
+2024-02,Warehouse & Ops,Internal Transfer,0,0,0,0,0
+2024-03,Warehouse & Ops,Internal Transfer,1,1,1,1,1
+2024-04,Warehouse & Ops,Internal Transfer,0,0,0,0,0
+2024-05,Warehouse & Ops,Internal Transfer,0,0,0,0,0
+2024-06,Warehouse & Ops,Internal Transfer,2,2,2,1,1
+2024-07,Warehouse & Ops,Internal Transfer,2,2,2,2,2
+2024-08,Warehouse & Ops,Internal Transfer,0,0,0,0,0
+2024-09,Warehouse & Ops,Internal Transfer,0,0,0,0,0
+2024-10,Warehouse & Ops,Internal Transfer,0,0,0,0,0
+2024-11,Warehouse & Ops,Internal Transfer,3,3,2,2,2
+2024-12,Warehouse & Ops,Internal Transfer,1,1,1,1,1
+2025-01,Warehouse & Ops,Internal Transfer,1,1,1,1,1
+2025-02,Warehouse & Ops,Internal Transfer,0,0,0,0,0
+2025-03,Warehouse & Ops,Internal Transfer,0,0,0,0,0
+2025-04,Warehouse & Ops,Internal Transfer,0,0,0,0,0
+2025-05,Warehouse & Ops,Internal Transfer,2,2,2,2,2
+2025-06,Warehouse & Ops,Internal Transfer,2,2,2,2,2
+2025-07,Warehouse & Ops,Internal Transfer,0,0,0,0,0
+2025-08,Warehouse & Ops,Internal Transfer,0,0,0,0,0
+2025-09,Warehouse & Ops,Internal Transfer,1,1,1,1,1
+2025-10,Warehouse & Ops,Internal Transfer,1,1,1,1,1
+2025-11,Warehouse & Ops,Internal Transfer,1,1,1,1,1
+2025-12,Warehouse & Ops,Internal Transfer,2,2,2,1,1
+2024-01,Engineering,Job Board,24,10,5,3,2
+2024-02,Engineering,Job Board,29,12,6,4,3
+2024-03,Engineering,Job Board,21,7,4,3,3
+2024-04,Engineering,Job Board,22,8,4,2,2
+2024-05,Engineering,Job Board,25,11,6,4,3
+2024-06,Engineering,Job Board,24,9,4,2,2
+2024-07,Engineering,Job Board,25,11,5,3,2
+2024-08,Engineering,Job Board,26,11,6,4,3
+2024-09,Engineering,Job Board,26,10,5,4,3
+2024-10,Engineering,Job Board,27,11,7,4,3
+2024-11,Engineering,Job Board,21,7,4,2,1
+2024-12,Engineering,Job Board,36,16,9,6,4
+2025-01,Engineering,Job Board,21,8,4,2,2
+2025-02,Engineering,Job Board,28,10,5,3,3
+2025-03,Engineering,Job Board,24,9,5,3,2
+2025-04,Engineering,Job Board,17,8,4,2,2
+2025-05,Engineering,Job Board,23,9,5,3,2
+2025-06,Engineering,Job Board,30,11,5,3,2
+2025-07,Engineering,Job Board,17,8,4,2,2
+2025-08,Engineering,Job Board,20,7,4,2,2
+2025-09,Engineering,Job Board,22,8,5,3,2
+2025-10,Engineering,Job Board,28,13,7,4,3
+2025-11,Engineering,Job Board,18,8,4,2,2
+2025-12,Engineering,Job Board,30,11,6,4,3
+2024-01,Engineering,Employee Referral,3,2,2,1,1
+2024-02,Engineering,Employee Referral,8,6,4,3,3
+2024-03,Engineering,Employee Referral,4,3,2,1,1
+2024-04,Engineering,Employee Referral,9,7,5,4,3
+2024-05,Engineering,Employee Referral,7,5,4,3,3
+2024-06,Engineering,Employee Referral,5,3,2,1,1
+2024-07,Engineering,Employee Referral,4,3,2,1,1
+2024-08,Engineering,Employee Referral,3,2,2,2,2
+2024-09,Engineering,Employee Referral,2,1,1,1,1
+2024-10,Engineering,Employee Referral,8,5,4,3,3
+2024-11,Engineering,Employee Referral,7,5,4,3,3
+2024-12,Engineering,Employee Referral,6,5,4,3,3
+2025-01,Engineering,Employee Referral,10,7,5,4,4
+2025-02,Engineering,Employee Referral,4,3,2,1,1
+2025-03,Engineering,Employee Referral,5,3,2,2,2
+2025-04,Engineering,Employee Referral,6,4,3,2,2
+2025-05,Engineering,Employee Referral,4,3,2,1,1
+2025-06,Engineering,Employee Referral,8,6,4,3,3
+2025-07,Engineering,Employee Referral,3,2,2,2,2
+2025-08,Engineering,Employee Referral,2,1,1,1,1
+2025-09,Engineering,Employee Referral,8,6,4,3,3
+2025-10,Engineering,Employee Referral,4,3,2,2,2
+2025-11,Engineering,Employee Referral,6,5,4,3,3
+2025-12,Engineering,Employee Referral,11,9,7,5,5
+2024-01,Engineering,Agency,7,5,3,2,2
+2024-02,Engineering,Agency,12,8,5,3,2
+2024-03,Engineering,Agency,7,5,3,2,2
+2024-04,Engineering,Agency,8,5,3,2,2
+2024-05,Engineering,Agency,8,5,3,2,2
+2024-06,Engineering,Agency,9,6,4,3,2
+2024-07,Engineering,Agency,5,3,2,1,1
+2024-08,Engineering,Agency,7,4,3,2,2
+2024-09,Engineering,Agency,11,7,4,3,3
+2024-10,Engineering,Agency,5,3,2,1,1
+2024-11,Engineering,Agency,11,7,4,3,2
+2024-12,Engineering,Agency,6,4,3,2,2
+2025-01,Engineering,Agency,5,3,2,1,1
+2025-02,Engineering,Agency,4,3,2,1,1
+2025-03,Engineering,Agency,8,5,3,2,2
+2025-04,Engineering,Agency,11,7,5,3,3
+2025-05,Engineering,Agency,7,5,3,2,2
+2025-06,Engineering,Agency,8,5,3,2,2
+2025-07,Engineering,Agency,10,6,3,2,2
+2025-08,Engineering,Agency,8,5,3,2,1
+2025-09,Engineering,Agency,11,8,5,3,2
+2025-10,Engineering,Agency,9,6,3,2,2
+2025-11,Engineering,Agency,9,6,4,3,2
+2025-12,Engineering,Agency,6,4,3,2,2
+2024-01,Engineering,Campus,1,1,1,1,1
+2024-02,Engineering,Campus,3,2,1,1,1
+2024-03,Engineering,Campus,3,2,1,1,1
+2024-04,Engineering,Campus,7,4,2,1,1
+2024-05,Engineering,Campus,3,2,1,1,1
+2024-06,Engineering,Campus,1,1,1,1,1
+2024-07,Engineering,Campus,3,2,1,1,1
+2024-08,Engineering,Campus,3,2,1,1,1
+2024-09,Engineering,Campus,3,2,1,1,1
+2024-10,Engineering,Campus,3,1,1,1,1
+2024-11,Engineering,Campus,5,3,2,1,1
+2024-12,Engineering,Campus,6,4,2,1,1
+2025-01,Engineering,Campus,6,3,2,1,1
+2025-02,Engineering,Campus,8,5,3,2,2
+2025-03,Engineering,Campus,9,5,3,2,1
+2025-04,Engineering,Campus,3,2,1,1,1
+2025-05,Engineering,Campus,4,2,1,1,1
+2025-06,Engineering,Campus,2,1,1,1,1
+2025-07,Engineering,Campus,3,2,1,1,1
+2025-08,Engineering,Campus,5,3,2,1,1
+2025-09,Engineering,Campus,7,4,2,1,1
+2025-10,Engineering,Campus,5,3,2,1,1
+2025-11,Engineering,Campus,3,2,1,1,1
+2025-12,Engineering,Campus,5,3,2,1,1
+2024-01,Engineering,Internal Transfer,2,2,2,2,2
+2024-02,Engineering,Internal Transfer,2,2,2,2,2
+2024-03,Engineering,Internal Transfer,2,2,2,2,2
+2024-04,Engineering,Internal Transfer,5,5,4,3,3
+2024-05,Engineering,Internal Transfer,1,1,1,1,1
+2024-06,Engineering,Internal Transfer,2,2,2,2,2
+2024-07,Engineering,Internal Transfer,6,6,5,4,3
+2024-08,Engineering,Internal Transfer,5,4,4,3,3
+2024-09,Engineering,Internal Transfer,2,2,2,2,2
+2024-10,Engineering,Internal Transfer,6,6,5,4,4
+2024-11,Engineering,Internal Transfer,3,3,3,2,2
+2024-12,Engineering,Internal Transfer,2,2,2,2,2
+2025-01,Engineering,Internal Transfer,3,3,3,3,2
+2025-02,Engineering,Internal Transfer,3,3,3,2,2
+2025-03,Engineering,Internal Transfer,5,5,4,3,3
+2025-04,Engineering,Internal Transfer,5,5,4,3,3
+2025-05,Engineering,Internal Transfer,1,1,1,1,1
+2025-06,Engineering,Internal Transfer,4,4,4,3,3
+2025-07,Engineering,Internal Transfer,3,3,2,2,2
+2025-08,Engineering,Internal Transfer,1,1,1,1,1
+2025-09,Engineering,Internal Transfer,4,4,3,2,2
+2025-10,Engineering,Internal Transfer,2,2,2,2,2
+2025-11,Engineering,Internal Transfer,5,4,3,3,3
+2025-12,Engineering,Internal Transfer,1,1,1,1,1
+2024-01,Finance & Accounting,Job Board,20,8,5,3,2
+2024-02,Finance & Accounting,Job Board,30,10,5,3,3
+2024-03,Finance & Accounting,Job Board,13,5,3,2,2
+2024-04,Finance & Accounting,Job Board,23,9,5,3,2
+2024-05,Finance & Accounting,Job Board,25,8,4,2,2
+2024-06,Finance & Accounting,Job Board,26,10,6,4,3
+2024-07,Finance & Accounting,Job Board,33,12,6,4,3
+2024-08,Finance & Accounting,Job Board,27,9,5,3,2
+2024-09,Finance & Accounting,Job Board,25,10,6,4,3
+2024-10,Finance & Accounting,Job Board,27,11,6,4,3
+2024-11,Finance & Accounting,Job Board,30,9,5,3,2
+2024-12,Finance & Accounting,Job Board,11,4,2,1,1
+2025-01,Finance & Accounting,Job Board,25,10,6,4,3
+2025-02,Finance & Accounting,Job Board,23,11,7,4,3
+2025-03,Finance & Accounting,Job Board,23,9,5,3,2
+2025-04,Finance & Accounting,Job Board,24,9,5,3,2
+2025-05,Finance & Accounting,Job Board,23,9,5,3,2
+2025-06,Finance & Accounting,Job Board,23,9,5,3,2
+2025-07,Finance & Accounting,Job Board,28,10,6,4,3
+2025-08,Finance & Accounting,Job Board,16,6,3,2,2
+2025-09,Finance & Accounting,Job Board,28,11,5,3,2
+2025-10,Finance & Accounting,Job Board,25,10,5,3,2
+2025-11,Finance & Accounting,Job Board,26,9,5,3,2
+2025-12,Finance & Accounting,Job Board,20,7,4,2,1
+2024-01,Finance & Accounting,Employee Referral,3,2,1,1,1
+2024-02,Finance & Accounting,Employee Referral,4,3,2,2,2
+2024-03,Finance & Accounting,Employee Referral,6,4,3,2,2
+2024-04,Finance & Accounting,Employee Referral,5,3,3,2,2
+2024-05,Finance & Accounting,Employee Referral,8,6,5,4,3
+2024-06,Finance & Accounting,Employee Referral,8,6,5,3,3
+2024-07,Finance & Accounting,Employee Referral,6,5,3,2,2
+2024-08,Finance & Accounting,Employee Referral,12,9,7,5,5
+2024-09,Finance & Accounting,Employee Referral,8,6,4,3,3
+2024-10,Finance & Accounting,Employee Referral,10,8,6,4,3
+2024-11,Finance & Accounting,Employee Referral,5,4,3,2,2
+2024-12,Finance & Accounting,Employee Referral,3,2,1,1,1
+2025-01,Finance & Accounting,Employee Referral,2,1,1,1,1
+2025-02,Finance & Accounting,Employee Referral,3,2,1,1,1
+2025-03,Finance & Accounting,Employee Referral,5,4,3,2,2
+2025-04,Finance & Accounting,Employee Referral,6,4,3,2,2
+2025-05,Finance & Accounting,Employee Referral,7,5,4,3,3
+2025-06,Finance & Accounting,Employee Referral,4,3,2,1,1
+2025-07,Finance & Accounting,Employee Referral,3,2,1,1,1
+2025-08,Finance & Accounting,Employee Referral,8,6,4,3,3
+2025-09,Finance & Accounting,Employee Referral,9,7,5,3,3
+2025-10,Finance & Accounting,Employee Referral,4,3,2,1,1
+2025-11,Finance & Accounting,Employee Referral,5,4,3,2,2
+2025-12,Finance & Accounting,Employee Referral,5,4,3,2,2
+2024-01,Finance & Accounting,Agency,3,2,1,1,1
+2024-02,Finance & Accounting,Agency,13,8,4,3,2
+2024-03,Finance & Accounting,Agency,8,5,3,2,2
+2024-04,Finance & Accounting,Agency,10,6,3,2,2
+2024-05,Finance & Accounting,Agency,6,4,2,1,1
+2024-06,Finance & Accounting,Agency,2,1,1,1,1
+2024-07,Finance & Accounting,Agency,13,9,6,4,3
+2024-08,Finance & Accounting,Agency,6,4,3,2,2
+2024-09,Finance & Accounting,Agency,6,4,2,2,2
+2024-10,Finance & Accounting,Agency,8,5,3,2,2
+2024-11,Finance & Accounting,Agency,1,1,1,1,1
+2024-12,Finance & Accounting,Agency,7,5,3,2,2
+2025-01,Finance & Accounting,Agency,7,4,2,1,1
+2025-02,Finance & Accounting,Agency,4,3,2,1,1
+2025-03,Finance & Accounting,Agency,8,5,3,2,2
+2025-04,Finance & Accounting,Agency,10,7,4,3,3
+2025-05,Finance & Accounting,Agency,5,3,2,1,1
+2025-06,Finance & Accounting,Agency,5,3,2,1,1
+2025-07,Finance & Accounting,Agency,5,3,2,1,1
+2025-08,Finance & Accounting,Agency,4,3,2,1,1
+2025-09,Finance & Accounting,Agency,10,7,4,3,2
+2025-10,Finance & Accounting,Agency,4,2,1,1,1
+2025-11,Finance & Accounting,Agency,6,4,2,1,1
+2025-12,Finance & Accounting,Agency,5,3,2,1,1
+2024-01,Finance & Accounting,Campus,2,1,1,1,1
+2024-02,Finance & Accounting,Campus,5,3,2,1,1
+2024-03,Finance & Accounting,Campus,2,1,1,0,0
+2024-04,Finance & Accounting,Campus,2,1,1,1,1
+2024-05,Finance & Accounting,Campus,2,1,1,1,1
+2024-06,Finance & Accounting,Campus,5,3,2,1,1
+2024-07,Finance & Accounting,Campus,1,1,1,1,1
+2024-08,Finance & Accounting,Campus,5,3,2,1,1
+2024-09,Finance & Accounting,Campus,5,3,2,1,1
+2024-10,Finance & Accounting,Campus,3,2,1,1,1
+2024-11,Finance & Accounting,Campus,4,2,1,1,1
+2024-12,Finance & Accounting,Campus,8,4,2,1,1
+2025-01,Finance & Accounting,Campus,3,2,1,1,1
+2025-02,Finance & Accounting,Campus,5,3,2,1,1
+2025-03,Finance & Accounting,Campus,3,2,1,1,1
+2025-04,Finance & Accounting,Campus,2,1,1,1,1
+2025-05,Finance & Accounting,Campus,7,4,3,2,1
+2025-06,Finance & Accounting,Campus,5,3,2,1,1
+2025-07,Finance & Accounting,Campus,2,1,1,1,1
+2025-08,Finance & Accounting,Campus,2,1,1,1,1
+2025-09,Finance & Accounting,Campus,6,4,2,1,1
+2025-10,Finance & Accounting,Campus,6,3,2,1,1
+2025-11,Finance & Accounting,Campus,3,2,1,1,1
+2025-12,Finance & Accounting,Campus,6,3,2,1,1
+2024-01,Finance & Accounting,Internal Transfer,3,3,2,1,1
+2024-02,Finance & Accounting,Internal Transfer,1,1,1,1,1
+2024-03,Finance & Accounting,Internal Transfer,0,0,0,0,0
+2024-04,Finance & Accounting,Internal Transfer,0,0,0,0,0
+2024-05,Finance & Accounting,Internal Transfer,4,4,3,3,2
+2024-06,Finance & Accounting,Internal Transfer,2,2,2,2,2
+2024-07,Finance & Accounting,Internal Transfer,1,1,1,1,1
+2024-08,Finance & Accounting,Internal Transfer,3,3,3,3,2
+2024-09,Finance & Accounting,Internal Transfer,5,4,4,3,2
+2024-10,Finance & Accounting,Internal Transfer,3,3,3,2,2
+2024-11,Finance & Accounting,Internal Transfer,4,3,3,2,2
+2024-12,Finance & Accounting,Internal Transfer,2,2,2,2,2
+2025-01,Finance & Accounting,Internal Transfer,1,1,1,1,1
+2025-02,Finance & Accounting,Internal Transfer,3,3,3,2,2
+2025-03,Finance & Accounting,Internal Transfer,2,2,2,2,2
+2025-04,Finance & Accounting,Internal Transfer,3,3,3,2,2
+2025-05,Finance & Accounting,Internal Transfer,2,2,2,2,2
+2025-06,Finance & Accounting,Internal Transfer,3,3,3,2,2
+2025-07,Finance & Accounting,Internal Transfer,1,1,1,1,1
+2025-08,Finance & Accounting,Internal Transfer,2,2,2,1,1
+2025-09,Finance & Accounting,Internal Transfer,1,1,1,1,1
+2025-10,Finance & Accounting,Internal Transfer,3,3,3,2,2
+2025-11,Finance & Accounting,Internal Transfer,7,7,6,5,4
+2025-12,Finance & Accounting,Internal Transfer,3,3,3,3,3
+2024-01,Marketing,Job Board,31,11,6,3,2
+2024-02,Marketing,Job Board,22,8,4,2,2
+2024-03,Marketing,Job Board,28,9,4,2,1
+2024-04,Marketing,Job Board,27,11,6,3,2
+2024-05,Marketing,Job Board,21,9,6,4,3
+2024-06,Marketing,Job Board,17,5,3,2,2
+2024-07,Marketing,Job Board,29,12,6,4,3
+2024-08,Marketing,Job Board,29,11,6,3,2
+2024-09,Marketing,Job Board,14,6,3,2,1
+2024-10,Marketing,Job Board,25,9,5,3,2
+2024-11,Marketing,Job Board,18,7,4,2,1
+2024-12,Marketing,Job Board,20,9,4,2,2
+2025-01,Marketing,Job Board,23,8,5,3,2
+2025-02,Marketing,Job Board,34,14,8,5,4
+2025-03,Marketing,Job Board,18,7,4,2,2
+2025-04,Marketing,Job Board,26,9,4,2,2
+2025-05,Marketing,Job Board,17,7,4,2,1
+2025-06,Marketing,Job Board,21,9,5,3,2
+2025-07,Marketing,Job Board,20,6,3,2,2
+2025-08,Marketing,Job Board,20,9,5,3,2
+2025-09,Marketing,Job Board,26,9,5,3,2
+2025-10,Marketing,Job Board,22,9,5,3,2
+2025-11,Marketing,Job Board,17,6,4,2,2
+2025-12,Marketing,Job Board,19,7,4,2,2
+2024-01,Marketing,Employee Referral,5,4,3,2,2
+2024-02,Marketing,Employee Referral,4,3,2,1,1
+2024-03,Marketing,Employee Referral,5,3,2,2,2
+2024-04,Marketing,Employee Referral,6,4,3,2,2
+2024-05,Marketing,Employee Referral,5,4,3,2,2
+2024-06,Marketing,Employee Referral,5,4,3,2,2
+2024-07,Marketing,Employee Referral,3,2,2,2,2
+2024-08,Marketing,Employee Referral,6,5,4,3,3
+2024-09,Marketing,Employee Referral,7,5,4,3,3
+2024-10,Marketing,Employee Referral,3,2,2,2,2
+2024-11,Marketing,Employee Referral,7,5,4,3,3
+2024-12,Marketing,Employee Referral,4,3,2,1,1
+2025-01,Marketing,Employee Referral,6,4,3,2,2
+2025-02,Marketing,Employee Referral,5,3,2,1,1
+2025-03,Marketing,Employee Referral,7,5,4,3,3
+2025-04,Marketing,Employee Referral,3,2,2,1,1
+2025-05,Marketing,Employee Referral,6,4,3,2,2
+2025-06,Marketing,Employee Referral,7,5,4,3,3
+2025-07,Marketing,Employee Referral,10,7,5,4,3
+2025-08,Marketing,Employee Referral,3,2,1,1,1
+2025-09,Marketing,Employee Referral,8,6,5,4,4
+2025-10,Marketing,Employee Referral,6,4,3,2,2
+2025-11,Marketing,Employee Referral,6,4,3,2,2
+2025-12,Marketing,Employee Referral,6,5,4,3,3
+2024-01,Marketing,Agency,11,7,4,3,2
+2024-02,Marketing,Agency,3,2,1,1,1
+2024-03,Marketing,Agency,8,5,3,2,2
+2024-04,Marketing,Agency,10,6,3,2,2
+2024-05,Marketing,Agency,9,6,4,3,3
+2024-06,Marketing,Agency,7,4,3,2,2
+2024-07,Marketing,Agency,6,4,2,1,1
+2024-08,Marketing,Agency,4,2,1,1,1
+2024-09,Marketing,Agency,10,7,4,3,2
+2024-10,Marketing,Agency,8,5,3,2,2
+2024-11,Marketing,Agency,7,5,3,2,2
+2024-12,Marketing,Agency,10,6,3,2,2
+2025-01,Marketing,Agency,6,4,2,1,1
+2025-02,Marketing,Agency,8,6,4,2,2
+2025-03,Marketing,Agency,7,5,3,2,2
+2025-04,Marketing,Agency,7,4,3,2,2
+2025-05,Marketing,Agency,5,3,2,1,1
+2025-06,Marketing,Agency,12,7,4,3,3
+2025-07,Marketing,Agency,8,6,3,2,2
+2025-08,Marketing,Agency,6,4,2,1,1
+2025-09,Marketing,Agency,6,4,2,1,1
+2025-10,Marketing,Agency,9,6,4,3,2
+2025-11,Marketing,Agency,8,5,3,2,2
+2025-12,Marketing,Agency,6,4,2,1,1
+2024-01,Marketing,Campus,4,2,1,1,1
+2024-02,Marketing,Campus,4,2,1,1,1
+2024-03,Marketing,Campus,3,2,1,1,1
+2024-04,Marketing,Campus,3,2,1,1,1
+2024-05,Marketing,Campus,6,3,2,1,1
+2024-06,Marketing,Campus,6,3,2,1,1
+2024-07,Marketing,Campus,7,4,2,1,1
+2024-08,Marketing,Campus,6,4,3,2,1
+2024-09,Marketing,Campus,5,3,2,1,1
+2024-10,Marketing,Campus,6,3,2,1,1
+2024-11,Marketing,Campus,3,1,1,1,1
+2024-12,Marketing,Campus,5,3,2,1,1
+2025-01,Marketing,Campus,6,3,2,1,1
+2025-02,Marketing,Campus,3,2,1,1,1
+2025-03,Marketing,Campus,5,3,2,1,1
+2025-04,Marketing,Campus,6,4,2,1,1
+2025-05,Marketing,Campus,3,2,1,1,1
+2025-06,Marketing,Campus,2,1,1,1,1
+2025-07,Marketing,Campus,7,4,2,1,1
+2025-08,Marketing,Campus,5,3,2,1,1
+2025-09,Marketing,Campus,1,1,1,1,1
+2025-10,Marketing,Campus,3,2,1,1,1
+2025-11,Marketing,Campus,4,2,1,1,1
+2025-12,Marketing,Campus,3,2,1,1,1
+2024-01,Marketing,Internal Transfer,4,3,3,2,2
+2024-02,Marketing,Internal Transfer,1,1,1,1,1
+2024-03,Marketing,Internal Transfer,6,5,4,3,3
+2024-04,Marketing,Internal Transfer,4,4,3,2,2
+2024-05,Marketing,Internal Transfer,1,1,1,1,1
+2024-06,Marketing,Internal Transfer,2,2,2,1,1
+2024-07,Marketing,Internal Transfer,2,2,2,2,2
+2024-08,Marketing,Internal Transfer,2,2,2,2,2
+2024-09,Marketing,Internal Transfer,1,1,1,1,1
+2024-10,Marketing,Internal Transfer,2,2,2,2,2
+2024-11,Marketing,Internal Transfer,0,0,0,0,0
+2024-12,Marketing,Internal Transfer,4,4,3,2,2
+2025-01,Marketing,Internal Transfer,1,1,1,1,1
+2025-02,Marketing,Internal Transfer,0,0,0,0,0
+2025-03,Marketing,Internal Transfer,3,3,3,2,2
+2025-04,Marketing,Internal Transfer,3,2,2,2,2
+2025-05,Marketing,Internal Transfer,1,1,1,1,1
+2025-06,Marketing,Internal Transfer,2,2,2,1,1
+2025-07,Marketing,Internal Transfer,2,2,2,2,2
+2025-08,Marketing,Internal Transfer,2,2,2,2,2
+2025-09,Marketing,Internal Transfer,1,1,1,1,1
+2025-10,Marketing,Internal Transfer,1,1,1,1,1
+2025-11,Marketing,Internal Transfer,5,4,3,2,2
+2025-12,Marketing,Internal Transfer,2,2,2,2,2

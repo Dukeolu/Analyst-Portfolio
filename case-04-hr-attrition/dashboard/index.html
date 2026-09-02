@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Case 04 &middot; HR &amp; People Operations Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --paper:#F3F5F4; --paper-raised:#FBFCFB; --ink:#0b0b0b; --ink-soft:#52514e; --ink-faint:#898781;
+  --line:#D6DCDA; --line-strong:#B9C2C0; --accent:#5C7A52; --accent-ink:#44603B; --accent-wash:#E4EBE1;
+  --good:#0ca30c;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#12161C; --paper-raised:#181D25; --ink:#ffffff; --ink-soft:#c3c2b7; --ink-faint:#6E7885;
+    --line:#2A3038; --line-strong:#3A414B; --accent:#A2C295; --accent-ink:#C3DDB9; --accent-wash:#212B1E;
+    --good:#0ca30c;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#12161C; --paper-raised:#181D25; --ink:#ffffff; --ink-soft:#c3c2b7; --ink-faint:#6E7885;
+  --line:#2A3038; --line-strong:#3A414B; --accent:#A2C295; --accent-ink:#C3DDB9; --accent-wash:#212B1E;
+  --good:#0ca30c;
+}
+*{box-sizing:border-box;}
+body{margin:0; background:var(--paper); color:var(--ink); font-family:"IBM Plex Sans",sans-serif; -webkit-font-smoothing:antialiased;}
+h1,h2{font-family:"Spectral",Georgia,serif; font-weight:600; margin:0; text-wrap:balance;}
+.mono{font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums;}
+.shell{max-width:1080px; margin:0 auto; padding:40px 28px 72px;}
+header{padding-bottom:24px; border-bottom:1px solid var(--line); margin-bottom:28px;}
+.eyebrow{font-family:"IBM Plex Mono",monospace; font-size:12px; letter-spacing:.1em; text-transform:uppercase; color:var(--accent-ink); display:flex; align-items:center; gap:8px; margin-bottom:10px;}
+.eyebrow::before{content:""; width:6px; height:6px; border-radius:50%; background:var(--accent);}
+header h1{font-size:clamp(24px,3.4vw,32px);}
+header p{color:var(--ink-soft); font-size:14.5px; max-width:66ch; margin-top:10px; line-height:1.6;}
+
+.kpis{display:grid; grid-template-columns:repeat(4,1fr); gap:16px; margin-bottom:32px;}
+@media (max-width:820px){.kpis{grid-template-columns:1fr 1fr;}}
+.kpi{background:var(--paper-raised); border:1px solid var(--line); border-radius:10px; padding:18px 18px 16px;}
+.kpi .k{font-family:"IBM Plex Mono",monospace; font-size:11px; text-transform:uppercase; letter-spacing:.05em; color:var(--ink-faint);}
+.kpi .v{font-family:"IBM Plex Mono",monospace; font-size:25px; margin-top:8px;}
+.kpi .delta{font-size:12.5px; color:var(--ink-soft); margin-top:4px;}
+
+section{margin-bottom:36px;}
+section h2{font-size:17px; margin-bottom:4px;}
+section .sub{color:var(--ink-faint); font-size:13px; margin-bottom:14px;}
+.panel{background:var(--paper-raised); border:1px solid var(--line); border-radius:10px; padding:18px 18px 8px; overflow-x:auto;}
+
+.chart-svg .grid{stroke:var(--line); stroke-width:1;}
+.chart-svg .baseline{stroke:var(--line-strong); stroke-width:1;}
+.chart-svg .axis-label{fill:var(--ink-faint); font-size:11px; font-family:"IBM Plex Mono",monospace;}
+.chart-svg .sku-label{fill:var(--ink-soft); font-family:"IBM Plex Sans",sans-serif;}
+.chart-svg .bar-label-h{fill:var(--ink); font-size:12px; font-family:"IBM Plex Mono",monospace; font-weight:500;}
+
+.legend{display:flex; gap:18px; font-size:12.5px; color:var(--ink-soft); margin-bottom:10px; flex-wrap:wrap;}
+.legend span{display:inline-flex; align-items:center; gap:6px;}
+.swatch{width:10px; height:10px; border-radius:3px; display:inline-block;}
+
+.roi-grid{display:grid; grid-template-columns:repeat(3,1fr); gap:16px;}
+@media (max-width:760px){.roi-grid{grid-template-columns:1fr;}}
+.roi-card{background:var(--paper-raised); border:1px solid var(--line); border-radius:10px; padding:18px;}
+.roi-card .k{font-family:"IBM Plex Mono",monospace; font-size:11px; text-transform:uppercase; letter-spacing:.05em; color:var(--ink-faint);}
+.roi-card .v{font-family:"IBM Plex Mono",monospace; font-size:22px; margin:8px 0 2px;}
+.roi-card.net{border-color:var(--accent); background:var(--accent-wash);}
+
+.callout{background:var(--accent-wash); border:1px solid var(--line); border-radius:10px; padding:16px 18px; font-size:13.5px; color:var(--ink); line-height:1.6; margin-top:14px;}
+.callout b{color:var(--accent-ink);}
+
+table.seg-table{width:100%; border-collapse:collapse; font-size:13px;}
+table.seg-table th{text-align:left; font-family:"IBM Plex Mono",monospace; font-size:10.5px; text-transform:uppercase; letter-spacing:.04em; color:var(--ink-faint); padding:8px 10px; border-bottom:1px solid var(--line-strong);}
+table.seg-table td{padding:8px 10px; border-bottom:1px solid var(--line); color:var(--ink-soft);}
+table.seg-table td.num{font-family:"IBM Plex Mono",monospace; color:var(--ink); text-align:right;}
+
+footer{border-top:1px solid var(--line); padding-top:18px; font-size:12px; color:var(--ink-faint);}
+</style>
+</head>
+<body>
+<div class="shell">
+  <header>
+    <div class="eyebrow">Case 04 &middot; HR &amp; People Operations</div>
+    <h1>Where the hiring funnel &mdash; and headcount &mdash; leaks</h1>
+    <p>Overall voluntary attrition is 23.6%. It traces back to the same root cause as a recruiting-funnel bottleneck: Job Board hires cost the least to source but leave at more than 3x the rate of Employee Referral hires in their first 90 days &mdash; and Warehouse &amp; Ops' Job Board pipeline has its own screening backlog on top of that.</p>
+  </header>
+
+  <div class="kpis">
+    <div class="kpi">
+      <div class="k">Overall attrition rate</div>
+      <div class="v">23.6%</div>
+      <div class="delta">across 1,230 hires observed</div>
+    </div>
+    <div class="kpi">
+      <div class="k">Job Board early attrition</div>
+      <div class="v">21.3%</div>
+      <div class="delta">vs. 6.8% for Referral</div>
+    </div>
+    <div class="kpi">
+      <div class="k">Warehouse &amp; Ops x Job Board</div>
+      <div class="v">30%</div>
+      <div class="delta">screen&rarr;interview vs 48% network-wide</div>
+    </div>
+    <div class="kpi">
+      <div class="k">Annual savings available</div>
+      <div class="v">$201,886</div>
+      <div class="delta">from sourcing-mix shift alone</div>
+    </div>
+  </div>
+
+  <section>
+    <h2>The funnel bottleneck</h2>
+    <div class="sub">Share of applicants remaining at each stage. Screening rates match &mdash; the gap opens specifically at screen&rarr;interview.</div>
+    <div class="panel">
+      <div class="legend">
+        <span><span class="swatch" style="background:#2a78d6"></span>Job Board, all departments</span>
+        <span><span class="swatch" style="background:#eb6834"></span>Job Board, Warehouse &amp; Ops only</span>
+      </div>
+      <svg viewBox="0 0 660 300" width="100%" height="300" role="img" class="chart-svg"><line x1="44" x2="644" y1="268.0" y2="268.0" class="grid"/><text x="36" y="272.0" class="axis-label" text-anchor="end">0%</text><line x1="44" x2="644" y1="205.0" y2="205.0" class="grid"/><text x="36" y="209.0" class="axis-label" text-anchor="end">25%</text><line x1="44" x2="644" y1="142.0" y2="142.0" class="grid"/><text x="36" y="146.0" class="axis-label" text-anchor="end">50%</text><line x1="44" x2="644" y1="79.0" y2="79.0" class="grid"/><text x="36" y="83.0" class="axis-label" text-anchor="end">75%</text><line x1="44" x2="644" y1="16.0" y2="16.0" class="grid"/><text x="36" y="20.0" class="axis-label" text-anchor="end">100%</text><text x="44.0" y="292" class="axis-label" text-anchor="middle">Applied</text><text x="194.0" y="292" class="axis-label" text-anchor="middle">Screened</text><text x="344.0" y="292" class="axis-label" text-anchor="middle">Interviewed</text><text x="494.0" y="292" class="axis-label" text-anchor="middle">Offered</text><text x="644.0" y="292" class="axis-label" text-anchor="middle">Hired</text><polyline points="44.0,16.0 194.0,172.1 344.0,222.2 494.0,240.9 644.0,247.6" fill="none" stroke="#2a78d6" stroke-width="2.5" class="series-line"/><circle cx="44.0" cy="16.0" r="4" fill="#2a78d6"><title>Applied: 100.0% of applicants remaining</title></circle><circle cx="194.0" cy="172.1" r="4" fill="#2a78d6"><title>Screened: 38.1% of applicants remaining</title></circle><circle cx="344.0" cy="222.2" r="4" fill="#2a78d6"><title>Interviewed: 18.2% of applicants remaining</title></circle><circle cx="494.0" cy="240.9" r="4" fill="#2a78d6"><title>Offered: 10.8% of applicants remaining</title></circle><circle cx="644.0" cy="247.6" r="4" fill="#2a78d6"><title>Hired: 8.1% of applicants remaining</title></circle><polyline points="44.0,16.0 194.0,171.3 344.0,238.9 494.0,251.5 644.0,255.7" fill="none" stroke="#eb6834" stroke-width="2.5" class="series-line"/><circle cx="44.0" cy="16.0" r="4" fill="#eb6834"><title>Applied: 100.0% of applicants remaining</title></circle><circle cx="194.0" cy="171.3" r="4" fill="#eb6834"><title>Screened: 38.4% of applicants remaining</title></circle><circle cx="344.0" cy="238.9" r="4" fill="#eb6834"><title>Interviewed: 11.5% of applicants remaining</title></circle><circle cx="494.0" cy="251.5" r="4" fill="#eb6834"><title>Offered: 6.6% of applicants remaining</title></circle><circle cx="644.0" cy="255.7" r="4" fill="#eb6834"><title>Hired: 4.9% of applicants remaining</title></circle></svg>
+    </div>
+  </section>
+
+  <section>
+    <h2>Early (&le;3 month) attrition by hiring channel</h2>
+    <div class="sub">Job Board hires leave in their first 90 days at more than 3x the rate of Employee Referral hires.</div>
+    <div class="panel"><svg viewBox="0 0 660 260" width="100%" height="260" role="img" class="chart-svg"><rect x="150" y="25.0" width="400.0" height="22" rx="5" fill="#e34948"><title>Job Board: 21.3% early attrition (66 of 310 hires)</title></rect><text x="140" y="40.0" class="axis-label sku-label" text-anchor="end">Job Board</text><text x="558.0" y="40.0" class="bar-label-h" text-anchor="start">21.3%</text><rect x="150" y="65.0" width="367.3" height="22" rx="5" fill="#8792A0"><title>Campus: 19.5% early attrition (26 of 133 hires)</title></rect><text x="140" y="80.0" class="axis-label sku-label" text-anchor="end">Campus</text><text x="525.3" y="80.0" class="bar-label-h" text-anchor="start">19.5%</text><rect x="150" y="105.0" width="282.6" height="22" rx="5" fill="#8792A0"><title>Agency: 15.0% early attrition (37 of 246 hires)</title></rect><text x="140" y="120.0" class="axis-label sku-label" text-anchor="end">Agency</text><text x="440.6" y="120.0" class="bar-label-h" text-anchor="start">15.0%</text><rect x="150" y="145.0" width="137.1" height="22" rx="5" fill="#8792A0"><title>Internal Transfer: 7.3% early attrition (17 of 233 hires)</title></rect><text x="140" y="160.0" class="axis-label sku-label" text-anchor="end">Internal Transfer</text><text x="295.1" y="160.0" class="bar-label-h" text-anchor="start">7.3%</text><rect x="150" y="185.0" width="128.1" height="22" rx="5" fill="#0ca30c"><title>Employee Referral: 6.8% early attrition (21 of 308 hires)</title></rect><text x="140" y="200.0" class="axis-label sku-label" text-anchor="end">Employee Referral</text><text x="286.1" y="200.0" class="bar-label-h" text-anchor="start">6.8%</text></svg></div>
+  </section>
+
+  <section>
+    <h2>What actually predicts attrition</h2>
+    <div class="sub">Standardized logistic regression coefficients (test AUC 0.59) &mdash; tenure itself is excluded as a feature since it's mechanically tied to the outcome. Orange raises risk, blue lowers it, holding the other features constant.</div>
+    <div class="panel"><svg viewBox="0 0 660 302" width="100%" height="302" role="img" class="chart-svg"><line x1="400.0" x2="400.0" y1="0" y2="282" class="baseline"/><rect x="400.0" y="11.0" width="150.0" height="18" rx="4" fill="#eb6834"><title>Dept: Marketing: raises attrition risk (+0.25)</title></rect><text x="185" y="24.0" class="axis-label sku-label" text-anchor="end">Dept: Marketing</text><text x="556.0" y="24.0" class="bar-label-h" text-anchor="start">+0.25</text><rect x="284.7" y="45.0" width="115.3" height="18" rx="4" fill="#2a78d6"><title>Channel: Referral: lowers attrition risk (-0.19)</title></rect><text x="185" y="58.0" class="axis-label sku-label" text-anchor="end">Channel: Referral</text><text x="278.7" y="58.0" class="bar-label-h" text-anchor="end">-0.19</text><rect x="400.0" y="79.0" width="99.3" height="18" rx="4" fill="#eb6834"><title>Dept: Engineering: raises attrition risk (+0.17)</title></rect><text x="185" y="92.0" class="axis-label sku-label" text-anchor="end">Dept: Engineering</text><text x="505.3" y="92.0" class="bar-label-h" text-anchor="start">+0.17</text><rect x="400.0" y="113.0" width="90.4" height="18" rx="4" fill="#eb6834"><title>Channel: Job Board: raises attrition risk (+0.15)</title></rect><text x="185" y="126.0" class="axis-label sku-label" text-anchor="end">Channel: Job Board</text><text x="496.4" y="126.0" class="bar-label-h" text-anchor="start">+0.15</text><rect x="400.0" y="147.0" width="84.8" height="18" rx="4" fill="#eb6834"><title>Dept: Warehouse & Ops: raises attrition risk (+0.14)</title></rect><text x="185" y="160.0" class="axis-label sku-label" text-anchor="end">Dept: Warehouse & Ops</text><text x="490.8" y="160.0" class="bar-label-h" text-anchor="start">+0.14</text><rect x="400.0" y="181.0" width="77.7" height="18" rx="4" fill="#eb6834"><title>Dept: Finance: raises attrition risk (+0.13)</title></rect><text x="185" y="194.0" class="axis-label sku-label" text-anchor="end">Dept: Finance</text><text x="483.7" y="194.0" class="bar-label-h" text-anchor="start">+0.13</text><rect x="325.2" y="215.0" width="74.8" height="18" rx="4" fill="#2a78d6"><title>Channel: Internal Transfer: lowers attrition risk (-0.12)</title></rect><text x="185" y="228.0" class="axis-label sku-label" text-anchor="end">Channel: Internal Transfer</text><text x="319.2" y="228.0" class="bar-label-h" text-anchor="end">-0.12</text><rect x="327.1" y="249.0" width="72.9" height="18" rx="4" fill="#2a78d6"><title>Engagement score: lowers attrition risk (-0.12)</title></rect><text x="185" y="262.0" class="axis-label sku-label" text-anchor="end">Engagement score</text><text x="321.1" y="262.0" class="bar-label-h" text-anchor="end">-0.12</text></svg></div>
+    <div class="callout">
+      <b>Read the AUC honestly:</b> 0.59 is modest, not impressive &mdash; and that's expected once tenure (the dominant, but circular, signal) is removed. What's left corroborates the SQL and Excel findings independently: channel and department carry real signal; manager span, despite being built into the simulation as a mild risk factor, doesn't come through reliably in this sample size and should be read as noise here, not a finding.
+    </div>
+  </section>
+
+  <section>
+    <h2>The recommendation</h2>
+    <div class="sub">Two fixes, both traced to the same channel: shift sourcing mix away from Job Board where better alternatives exist, and clear the Warehouse &amp; Ops screening backlog.</div>
+    <div class="roi-grid">
+      <div class="roi-card">
+        <div class="k">Departures avoided (24mo)</div>
+        <div class="v">45</div>
+      </div>
+      <div class="roi-card">
+        <div class="k">Missed interviews/yr (WH&amp;Ops backlog)</div>
+        <div class="v">34</div>
+      </div>
+      <div class="roi-card net">
+        <div class="k">Net annual savings</div>
+        <div class="v">$201,886</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Attrition rate by department</h2>
+    <div class="sub">Warehouse &amp; Ops and Marketing run highest; Customer Support lowest. Warehouse &amp; Ops' elevated rate lines up with above-average overtime load and its funnel bottleneck &mdash; Marketing's does not have an obvious structural driver in this data and would need more digging.</div>
+    <div class="panel">
+      <table class="seg-table">
+        <thead><tr><th>Department</th><th>Employees</th><th>Attrition rate</th><th>Avg. overtime hrs/mo</th><th>Avg. manager span</th></tr></thead>
+        <tbody>
+        <tr><td>Marketing</td><td class='num'>202</td><td class='num'>28.2%</td><td class='num'>5.3</td><td class='num'>6.6</td></tr><tr><td>Warehouse & Ops</td><td class='num'>153</td><td class='num'>28.1%</td><td class='num'>14.0</td><td class='num'>8.7</td></tr><tr><td>Engineering</td><td class='num'>235</td><td class='num'>24.3%</td><td class='num'>5.3</td><td class='num'>6.7</td></tr><tr><td>Sales</td><td class='num'>210</td><td class='num'>21.9%</td><td class='num'>6.1</td><td class='num'>6.5</td></tr><tr><td>Finance & Accounting</td><td class='num'>205</td><td class='num'>21.0%</td><td class='num'>5.6</td><td class='num'>6.8</td></tr><tr><td>Customer Support</td><td class='num'>225</td><td class='num'>19.6%</td><td class='num'>5.6</td><td class='num'>6.7</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer>
+    Data is simulated (see README for methodology) &middot; built from <span class="mono">data/processed/*.csv</span> by <span class="mono">scripts/05_build_dashboard.py</span> &middot; Case 04 of the Data Analytics Portfolio &middot; see also <span class="mono">excel/case04_hr_analysis.xlsx</span>
+  </footer>
+</div>
+</body>
+</html>

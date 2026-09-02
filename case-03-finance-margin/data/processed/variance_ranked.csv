@@ -1,0 +1,25 @@
+variance_rank,category,region,budget_profit,actual_profit,variance,variance_pct,cumulative_pct_of_total_leak
+1,Electronics Accessories,West,2167251.0,1963995.0,-203256.0,-9.38,42.5
+2,Electronics Accessories,Northeast,1621647.0,1513849.0,-107798.0,-6.65,65.1
+3,Outdoor & Sporting,South,990016.0,930817.0,-59199.0,-5.98,77.4
+4,Outdoor & Sporting,Midwest,900125.0,869339.0,-30786.0,-3.42,83.9
+5,Home & Kitchen,Midwest,1336444.0,1317665.0,-18779.0,-1.41,87.8
+6,Personal Care,South,1811836.0,1796192.0,-15644.0,-0.86,91.1
+7,Office Supplies,West,1846654.0,1832904.0,-13750.0,-0.74,94.0
+8,Home & Kitchen,Northeast,1727361.0,1715966.0,-11395.0,-0.66,96.3
+9,Outdoor & Sporting,Northeast,879087.0,870974.0,-8113.0,-0.92,98.0
+10,Home & Kitchen,South,1723221.0,1717158.0,-6063.0,-0.35,99.3
+11,Pet Supplies,Northeast,1016892.0,1013554.0,-3338.0,-0.33,100.0
+12,Pet Supplies,South,993189.0,993641.0,452.0,0.05,100.0
+13,Outdoor & Sporting,West,1171243.0,1173435.0,2192.0,0.19,100.0
+14,Electronics Accessories,Midwest,1995639.0,2000365.0,4726.0,0.24,100.0
+15,Pet Supplies,West,1490964.0,1495901.0,4938.0,0.33,100.0
+16,Pet Supplies,Midwest,1090148.0,1096080.0,5932.0,0.54,100.0
+17,Office Supplies,South,1556228.0,1562237.0,6009.0,0.39,100.0
+18,Personal Care,West,1846587.0,1854043.0,7455.0,0.4,100.0
+19,Personal Care,Northeast,1128450.0,1136420.0,7970.0,0.71,100.0
+20,Electronics Accessories,South,2557952.0,2570412.0,12460.0,0.49,100.0
+21,Office Supplies,Midwest,1148097.0,1168842.0,20744.0,1.81,100.0
+22,Personal Care,Midwest,1410794.0,1433692.0,22898.0,1.62,100.0
+23,Home & Kitchen,West,1860870.0,1884926.0,24056.0,1.29,100.0
+24,Office Supplies,Northeast,1232718.0,1258349.0,25631.0,2.08,100.0

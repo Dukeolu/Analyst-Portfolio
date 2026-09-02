@@ -1,0 +1,14 @@
+feature,standardized_coefficient,direction
+contract_type_Two year,-0.8923623069003296,lowers churn risk
+contract_type_One year,-0.7565854057739659,lowers churn risk
+avg_engagement_score,-0.16046267195834535,lowers churn risk
+region_West,-0.06575938409290899,lowers churn risk
+signup_channel_Referral,0.06369295357567173,raises churn risk
+signup_channel_Paid Search,0.04860764121182493,raises churn risk
+region_South,-0.04325414159789743,lowers churn risk
+monthly_charge,0.04090683014798758,raises churn risk
+autopay_flag,-0.021549833544172413,lowers churn risk
+signup_channel_Sales-Assisted,-0.016390932795367893,lowers churn risk
+addon_count,-0.012539885300062593,lowers churn risk
+support_tickets_90d,0.007834953747831051,raises churn risk
+region_Northeast,0.0008289939308113719,raises churn risk

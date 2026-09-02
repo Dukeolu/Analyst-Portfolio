@@ -1,0 +1,17 @@
+feature,standardized_coefficient,direction
+department_Marketing,0.2504656029861993,raises attrition risk
+channel_Employee Referral,-0.19256454410343,lowers attrition risk
+department_Engineering,0.1658246716174865,raises attrition risk
+channel_Job Board,0.15101053763336925,raises attrition risk
+department_Warehouse & Ops,0.14167233476961658,raises attrition risk
+department_Finance & Accounting,0.12969655912938963,raises attrition risk
+channel_Internal Transfer,-0.12490726435746626,lowers attrition risk
+avg_engagement_score,-0.12169593680205934,lowers attrition risk
+overtime_hours_monthly,0.12136194714077042,raises attrition risk
+level_Senior,-0.10162968338776848,lowers attrition risk
+comp_ratio,-0.08023635730501041,lowers attrition risk
+manager_span,-0.07767008302985505,lowers attrition risk
+level_Manager,0.05831767075698466,raises attrition risk
+department_Sales,0.02828661835053113,raises attrition risk
+channel_Campus,0.019808518833196617,raises attrition risk
+level_Mid,-0.00678528545907379,lowers attrition risk
