@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olusegun Olu.</h1>
-<h3 align="center">A Data/Information technology Enthusiast curious about finding out how our world works the way it does using technology.</h3>
+<h3 align="center">A Data/Information technology Enthusiast curious about finding out how real world/business problems can be solved using data.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
