@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-- 📝 Take a look at my **Linkedin** : [Linkedin](www.linkedin.com/in/olusegunolugbogi)
+- 📝 Take a look at my **Linkedin** : [Linkedin]( www.linkedin.com/in/olusegunolugbogi )
 
 - 📫 Email me at: **dukeolu.e@gmail.com**
 
