@@ -23,6 +23,7 @@ Using data and business judgment to find what's actually wrong, figuring out the
 | 02 | [Finding the customers about to churn — and why](case-02-sales-churn/) | Sales & Customer Analytics | SQL, Python, Dashboard | ✅ Built |
 | 03 | [Finding where margin is quietly leaking](case-03-finance-margin/) | Finance & Budgeting | Excel, SQL, Python, Dashboard | ✅ Built |
 | 04 | [Where the hiring funnel — and headcount — leaks](case-04-hr-attrition/) | HR & People Operations | Excel, SQL, Python, Dashboard | ✅ Built |
+| 05 | [Where would battery storage pay off?](energy-battery-storage-investment/) | Energy & Investment Analytics | SQL, Python, Forecasting, Dashboard | ✅ Built |
 
 ## GitHub-only extensions
 

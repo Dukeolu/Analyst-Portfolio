@@ -1,0 +1,6 @@
+site_id,site_name,technology,region,capacity_mw,base_capacity_factor
+SOLAR-01,Solent Solar Park,Solar,South Coast,45,0.115
+SOLAR-02,Fenland Solar Array,Solar,East,38,0.108
+SOLAR-03,Dee Solar Farm,Solar,West,30,0.095
+WIND-01,Pennine Wind Farm,Wind,North,60,0.305
+WIND-02,Cambria Wind Farm,Wind,Wales,52,0.275
