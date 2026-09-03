@@ -1,8 +1,8 @@
 # Data Analytics & Business Analyst Portfolio
 
-Using data — and business judgment — to find what's actually wrong, and ship the fix, not just the chart. Two linked tracks live in this repo: a **data analytics** portfolio (SQL, Python, Excel, dashboards) built around business operations, and a **business analyst** portfolio (process maps, requirements documents, stakeholder analysis, business cases) built around the kinds of problems a data analyst typically doesn't touch.
+Using data and business judgment to find what's actually wrong, figuring out the fix, and implementing. Two linked tracks live in this repo: a **data analytics** portfolio (SQL, Python, Excel, dashboards) built around business operations, and a **business analyst** portfolio (process maps, requirements documents, stakeholder analysis, business cases) built around the kinds of problems a data analyst typically does not venture into.
 
-**Website:** [dukeolu.github.io](https://dukeolu.github.io/) — both tracks, presented for a hiring manager to skim in a few minutes each. This repo is the full archive behind them.
+**Website:** [dukeolu.github.io](https://dukeolu.github.io/) — both tracks, presented to skim through in a few minutes each. This repo is the full archive behind them.
 
 
 ## Flagship case studies
@@ -34,4 +34,4 @@ Each flagship case follows the same structure: `data/` → `sql/` → `scripts/`
 | 03 | [Integrating two warehouse teams without it reading as a takeover](business-analyst/case-03-change-management/) | Change management / stakeholder alignment | ✅ Built |
 | 04 | [Automate or keep hiring? A business case for order entry](business-analyst/case-04-business-case/) | Business case & cost-benefit | ✅ Built |
 
-Full track overview in [`business-analyst/README.md`](business-analyst/README.md). Each case ships the actual BA artifacts a hiring manager would expect (a BRD, a RACI matrix, a business case with NPV/payback) plus a formula-driven Excel workbook behind every numeric claim, verified with zero formula errors.
+Full track overview in [`business-analyst/README.md`](business-analyst/README.md). Each case shows the  BA work a hiring manager would expect (a BRD, a RACI matrix, a business case with NPV/payback) plus a formula-driven Excel workbook behind every numeric claim, verified with zero formula errors.
