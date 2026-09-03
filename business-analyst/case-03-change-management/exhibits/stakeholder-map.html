@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Exhibit — Stakeholder Power/Interest Map</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --paper:#F3F5F4; --paper-raised:#FBFCFB; --ink:#0b0b0b; --ink-soft:#52514e; --ink-faint:#898781;
+  --line:#D6DCDA; --line-strong:#B9C2C0; --accent:#5C7A52; --accent-ink:#44603B; --accent-wash:#E4EBE1;
+  --blue:#2a78d6; --orange:#eb6834; --aqua:#1baf7a;
+  --q1:#E4EBE1; --q2:#FCEFD9; --q3:#DCEAF7; --q4:#F1F1F1;
+  --radius:10px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#12161C; --paper-raised:#181D25; --ink:#ffffff; --ink-soft:#c3c2b7; --ink-faint:#6E7885;
+    --line:#2A3038; --line-strong:#3A414B; --accent:#A2C295; --accent-ink:#C3DDB9; --accent-wash:#212B1E;
+    --blue:#3987e5; --orange:#d95926; --aqua:#199e70;
+    --q1:#1c2419; --q2:#2b2214; --q3:#161f29; --q4:#1c1e21;
+  }
+}
+*{box-sizing:border-box;}
+body{margin:0; background:var(--paper); color:var(--ink); font-family:"IBM Plex Sans",-apple-system,sans-serif; line-height:1.6;}
+h1,h2,h3{font-family:"Spectral",Georgia,serif; font-weight:600; margin:0;}
+.mono{font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums;}
+.shell{max-width:1080px; margin:0 auto; padding:36px 28px 80px;}
+.eyebrow{font-family:"IBM Plex Mono",monospace; font-size:12px; letter-spacing:.1em; text-transform:uppercase; color:var(--accent-ink); margin-bottom:10px;}
+h1{font-size:clamp(22px,3vw,30px); margin-bottom:8px;}
+.sub{color:var(--ink-soft); font-size:14.5px; max-width:74ch; margin-bottom:32px;}
+
+.grid-wrap{background:var(--paper-raised); border:1px solid var(--line); border-radius:var(--radius); padding:22px; margin-bottom:28px;}
+.dot{fill:var(--accent); stroke:var(--paper-raised); stroke-width:2;}
+.dot-num{font-family:"IBM Plex Mono",monospace; font-size:11px; font-weight:600; fill:#fff; text-anchor:middle; dominant-baseline:central;}
+.axis-label{font-family:"IBM Plex Mono",monospace; font-size:11px; fill:var(--ink-faint); text-transform:uppercase; letter-spacing:.04em;}
+.quad-label{font-family:"IBM Plex Mono",monospace; font-size:11px; fill:var(--ink-faint); text-transform:uppercase; letter-spacing:.04em;}
+
+table{width:100%; border-collapse:collapse; background:var(--paper-raised); border:1px solid var(--line); border-radius:var(--radius); overflow:hidden; margin-bottom:16px;}
+th,td{padding:11px 14px; text-align:left; font-size:13px; border-bottom:1px solid var(--line); vertical-align:top;}
+th{font-family:"IBM Plex Mono",monospace; font-size:10.5px; text-transform:uppercase; letter-spacing:.04em; color:var(--ink-faint); font-weight:500;}
+tr:last-child td{border-bottom:none;}
+td.quad{font-family:"IBM Plex Mono",monospace; font-size:11px; white-space:nowrap;}
+
+footer{color:var(--ink-faint); font-size:12px; border-top:1px solid var(--line); padding-top:20px; margin-top:20px;}
+footer a{color:var(--ink-faint);}
+</style>
+</head>
+<body>
+<div class="shell">
+<div class="eyebrow">Exhibit &middot; BA Case 03 &middot; Change Management</div>
+<h1>Stakeholder power / interest map</h1>
+<p class="sub">Brightpath Distribution acquiring and integrating Colton Regional Supply's warehouse operations (simulated). Twelve stakeholders plotted by power to influence the integration and interest in its outcome — the map drives who gets managed closely versus simply kept informed.</p>
+
+<div class="grid-wrap">
+<svg viewBox="0 0 720 560" width="100%" style="max-width:720px; display:block; margin:0 auto;">
+  <!-- quadrant backgrounds -->
+  <rect x="60" y="20" width="300" height="250" fill="var(--q3)"></rect>
+  <rect x="360" y="20" width="300" height="250" fill="var(--q1)"></rect>
+  <rect x="60" y="270" width="300" height="250" fill="var(--q4)"></rect>
+  <rect x="360" y="270" width="300" height="250" fill="var(--q2)"></rect>
+
+  <!-- axes -->
+  <line x1="60" y1="20" x2="60" y2="520" stroke="var(--line-strong)" stroke-width="1.5"></line>
+  <line x1="60" y1="520" x2="660" y2="520" stroke="var(--line-strong)" stroke-width="1.5"></line>
+
+  <text x="650" y="45" class="quad-label" text-anchor="end">Manage Closely</text>
+  <text x="70" y="45" class="quad-label" text-anchor="start">Keep Informed</text>
+  <text x="650" y="500" class="quad-label" text-anchor="end">Keep Satisfied</text>
+  <text x="70" y="500" class="quad-label" text-anchor="start">Monitor</text>
+
+  <text x="360" y="548" class="axis-label" text-anchor="middle">POWER →</text>
+  <text x="30" y="270" class="axis-label" text-anchor="middle" transform="rotate(-90 30 270)">INTEREST →</text>
+
+  <!-- numbered points: x = 60 + (power-1)/4*600 ; y = 520 - (interest-1)/4*500, nudged off exact boundary where power or interest = 3 -->
+  <!-- 1 COO/Sponsor P5 I5 -->
+  <circle class="dot" cx="660" cy="20" r="11"></circle><text class="dot-num" x="660" y="21">1</text>
+  <!-- 2 VP Ops (Brightpath) P4 I5 -->
+  <circle class="dot" cx="495" cy="24" r="11"></circle><text class="dot-num" x="495" y="25">2</text>
+  <!-- 3 Colton GM P4 I5 -->
+  <circle class="dot" cx="525" cy="24" r="11" fill="var(--blue)"></circle><text class="dot-num" x="525" y="25">3</text>
+  <!-- 4 HR Director P4 I4 -->
+  <circle class="dot" cx="510" cy="145" r="11"></circle><text class="dot-num" x="510" y="146">4</text>
+  <!-- 5 CEO P5 I2 -->
+  <circle class="dot" cx="660" cy="395" r="11"></circle><text class="dot-num" x="660" y="396">5</text>
+  <!-- 6 BP Warehouse Ops Managers P3 I4 -->
+  <circle class="dot" cx="345" cy="145" r="11" fill="var(--orange)"></circle><text class="dot-num" x="345" y="146">6</text>
+  <!-- 7 Colton Warehouse Ops Managers P3 I5 -->
+  <circle class="dot" cx="345" cy="20" r="11" fill="var(--blue)"></circle><text class="dot-num" x="345" y="21">7</text>
+  <!-- 8 BP Warehouse Staff P2 I4 -->
+  <circle class="dot" cx="210" cy="145" r="11" fill="var(--orange)"></circle><text class="dot-num" x="210" y="146">8</text>
+  <!-- 9 Colton Warehouse Staff P2 I5 -->
+  <circle class="dot" cx="210" cy="20" r="11" fill="var(--blue)"></circle><text class="dot-num" x="210" y="21">9</text>
+  <!-- 10 IT Integration Lead P3 I3 -->
+  <circle class="dot" cx="330" cy="278" r="11"></circle><text class="dot-num" x="330" y="279">10</text>
+  <!-- 11 Finance / Payroll P3 I3 -->
+  <circle class="dot" cx="330" cy="308" r="11" fill="var(--aqua)"></circle><text class="dot-num" x="330" y="309">11</text>
+  <!-- 12 Key Colton-region customers P3 I2 -->
+  <circle class="dot" cx="345" cy="395" r="11" fill="var(--aqua)"></circle><text class="dot-num" x="345" y="396">12</text>
+</svg>
+</div>
+
+<table>
+  <thead><tr><th>#</th><th>Stakeholder</th><th>Power</th><th>Interest</th><th>Quadrant</th></tr></thead>
+  <tbody>
+    <tr><td class="mono">1</td><td>COO / Integration Sponsor</td><td class="mono">5</td><td class="mono">5</td><td class="quad">Manage Closely</td></tr>
+    <tr><td class="mono">2</td><td>VP Operations (Brightpath)</td><td class="mono">4</td><td class="mono">5</td><td class="quad">Manage Closely</td></tr>
+    <tr><td class="mono">3</td><td>Colton Regional GM</td><td class="mono">4</td><td class="mono">5</td><td class="quad">Manage Closely</td></tr>
+    <tr><td class="mono">4</td><td>HR Director</td><td class="mono">4</td><td class="mono">4</td><td class="quad">Manage Closely</td></tr>
+    <tr><td class="mono">5</td><td>CEO (Brightpath)</td><td class="mono">5</td><td class="mono">2</td><td class="quad">Keep Satisfied</td></tr>
+    <tr><td class="mono">6</td><td>Brightpath Warehouse Ops Managers</td><td class="mono">3</td><td class="mono">4</td><td class="quad">Keep Informed</td></tr>
+    <tr><td class="mono">7</td><td>Colton Warehouse Ops Managers</td><td class="mono">3</td><td class="mono">5</td><td class="quad">Keep Informed</td></tr>
+    <tr><td class="mono">8</td><td>Brightpath Warehouse Staff</td><td class="mono">2</td><td class="mono">4</td><td class="quad">Keep Informed</td></tr>
+    <tr><td class="mono">9</td><td>Colton Warehouse Staff</td><td class="mono">2</td><td class="mono">5</td><td class="quad">Keep Informed</td></tr>
+    <tr><td class="mono">10</td><td>IT / Systems Integration Lead</td><td class="mono">3</td><td class="mono">3</td><td class="quad">Monitor</td></tr>
+    <tr><td class="mono">11</td><td>Finance / Payroll</td><td class="mono">3</td><td class="mono">3</td><td class="quad">Monitor</td></tr>
+    <tr><td class="mono">12</td><td>Key Colton-region customers</td><td class="mono">3</td><td class="mono">2</td><td class="quad">Monitor</td></tr>
+  </tbody>
+</table>
+
+<footer>
+  Simulated case study &middot; ratings and quadrant logic in <span class="mono">stakeholder_analysis.xlsx</span> &middot;
+  <a href="../artifacts/stakeholder_analysis.xlsx">workbook</a> &middot;
+  <a href="../artifacts/change_management_plan.docx">change management plan</a> &middot;
+  <a href="../">case files</a>
+</footer>
+</div>
+</body>
+</html>

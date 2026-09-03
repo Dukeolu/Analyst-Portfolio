@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Exhibit — Order-Entry Automation Business Case</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --paper:#F3F5F4; --paper-raised:#FBFCFB; --ink:#0b0b0b; --ink-soft:#52514e; --ink-faint:#898781;
+  --line:#D6DCDA; --line-strong:#B9C2C0; --accent:#5C7A52; --accent-ink:#44603B; --accent-wash:#E4EBE1;
+  --blue:#2a78d6; --orange:#eb6834; --bad:#c0392b;
+  --radius:10px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#12161C; --paper-raised:#181D25; --ink:#ffffff; --ink-soft:#c3c2b7; --ink-faint:#6E7885;
+    --line:#2A3038; --line-strong:#3A414B; --accent:#A2C295; --accent-ink:#C3DDB9; --accent-wash:#212B1E;
+    --blue:#3987e5; --orange:#d95926; --bad:#e0584a;
+  }
+}
+*{box-sizing:border-box;}
+body{margin:0; background:var(--paper); color:var(--ink); font-family:"IBM Plex Sans",-apple-system,sans-serif; line-height:1.6;}
+h1,h2,h3{font-family:"Spectral",Georgia,serif; font-weight:600; margin:0;}
+.mono{font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums;}
+.shell{max-width:1080px; margin:0 auto; padding:36px 28px 80px;}
+.eyebrow{font-family:"IBM Plex Mono",monospace; font-size:12px; letter-spacing:.1em; text-transform:uppercase; color:var(--accent-ink); margin-bottom:10px;}
+h1{font-size:clamp(22px,3vw,30px); margin-bottom:8px;}
+.sub{color:var(--ink-soft); font-size:14.5px; max-width:74ch; margin-bottom:28px;}
+
+.kpi-row{display:grid; grid-template-columns:repeat(4,1fr); gap:14px; margin-bottom:36px;}
+@media (max-width:760px){.kpi-row{grid-template-columns:1fr 1fr;}}
+.kpi{background:var(--paper-raised); border:1px solid var(--line); border-radius:var(--radius); padding:14px 16px;}
+.kpi .k{font-family:"IBM Plex Mono",monospace; font-size:10.5px; text-transform:uppercase; letter-spacing:.05em; color:var(--ink-faint);}
+.kpi .v{font-family:"IBM Plex Mono",monospace; font-size:20px; margin-top:6px;}
+
+.panel{background:var(--paper-raised); border:1px solid var(--line); border-radius:var(--radius); padding:22px; margin-bottom:28px;}
+.panel h2{font-size:16px; margin-bottom:4px;}
+.panel .note{color:var(--ink-faint); font-size:12.5px; margin-top:10px;}
+
+table{width:100%; border-collapse:collapse; margin-top:6px;}
+th,td{padding:10px 12px; text-align:left; font-size:13px; border-bottom:1px solid var(--line);}
+th{font-family:"IBM Plex Mono",monospace; font-size:10.5px; text-transform:uppercase; letter-spacing:.04em; color:var(--ink-faint); font-weight:500;}
+tr:last-child td{border-bottom:none;}
+td.num{font-family:"IBM Plex Mono",monospace; text-align:right;}
+
+footer{color:var(--ink-faint); font-size:12px; border-top:1px solid var(--line); padding-top:20px; margin-top:8px;}
+footer a{color:var(--ink-faint);}
+</style>
+</head>
+<body>
+<div class="shell">
+<div class="eyebrow">Exhibit &middot; BA Case 04 &middot; Business Case &amp; Cost-Benefit</div>
+<h1>Automate vs. hire: order-entry business case</h1>
+<p class="sub">Brightpath Distribution (simulated). Comparing 3 years of hiring to keep pace with order-volume growth against investing in OCR/RPA automation.</p>
+
+<div class="kpi-row">
+  <div class="kpi"><div class="k">3-yr cost — hire</div><div class="v">$1.59M</div></div>
+  <div class="kpi"><div class="k">3-yr cost — automate</div><div class="v">$1.51M</div></div>
+  <div class="kpi"><div class="k">3-yr NPV</div><div class="v">$165K</div></div>
+  <div class="kpi"><div class="k">Payback</div><div class="v">1.6 yrs</div></div>
+</div>
+
+<div class="panel">
+  <h2>Cumulative net benefit of automating vs. hiring</h2>
+  <svg viewBox="0 0 720 300" width="100%" style="max-width:720px; display:block; margin:12px auto 0;">
+    <!-- axes: x = year 0..3 mapped to 60..660 ; y = value mapped, zero line at y=180, range -100k..220k -->
+    <line x1="60" y1="20" x2="60" y2="260" stroke="var(--line-strong)" stroke-width="1.5"></line>
+    <line x1="60" y1="260" x2="660" y2="260" stroke="var(--line-strong)" stroke-width="1.5"></line>
+    <!-- zero line: value=0 -> y = 260 - (0-(-100000))/(220000-(-100000))*240 = 260-75=185 -->
+    <line x1="60" y1="185" x2="660" y2="185" stroke="var(--line)" stroke-width="1" stroke-dasharray="3,3"></line>
+    <text x="665" y="189" class="mono" font-size="10" fill="var(--ink-faint)">$0</text>
+
+    <!-- points: (0,0) (1,-66944) (2,40920) (3,210725) -->
+    <!-- x: 60 + year/3*600 ; y: 260 - (v+100000)/320000*240 -->
+    <polyline points="60,185 260,235 460,154 660,27" fill="none" stroke="var(--accent)" stroke-width="2.5"></polyline>
+    <circle cx="60" cy="185" r="5" fill="var(--accent)"></circle>
+    <circle cx="260" cy="235" r="5" fill="var(--bad)"></circle>
+    <circle cx="460" cy="154" r="5" fill="var(--accent)"></circle>
+    <circle cx="660" cy="27" r="5" fill="var(--accent)"></circle>
+
+    <text x="60" y="278" text-anchor="middle" class="mono" font-size="11" fill="var(--ink-faint)">Start</text>
+    <text x="260" y="278" text-anchor="middle" class="mono" font-size="11" fill="var(--ink-faint)">Year 1</text>
+    <text x="460" y="278" text-anchor="middle" class="mono" font-size="11" fill="var(--ink-faint)">Year 2</text>
+    <text x="660" y="278" text-anchor="middle" class="mono" font-size="11" fill="var(--ink-faint)">Year 3</text>
+
+    <text x="260" y="251" text-anchor="middle" class="mono" font-size="11" fill="var(--bad)">-$66.9K</text>
+    <text x="460" y="141" text-anchor="middle" class="mono" font-size="11" fill="var(--accent-ink)">$40.9K</text>
+    <text x="660" y="15" text-anchor="middle" class="mono" font-size="11" fill="var(--accent-ink)">$210.7K</text>
+
+    <!-- payback marker at year 1.62 -->
+    <line x1="384" y1="20" x2="384" y2="260" stroke="var(--orange)" stroke-width="1.5" stroke-dasharray="4,3"></line>
+    <text x="384" y="14" text-anchor="middle" class="mono" font-size="10.5" fill="var(--orange)">Payback: 1.62 yrs</text>
+  </svg>
+  <div class="note">Year 1 is a net cost — the $120,000 one-time implementation charge outweighs Year 1's savings before automation is fully ramped. The investment pays itself back roughly 7 months into Year 2.</div>
+</div>
+
+<div class="panel">
+  <h2>Year-by-year cost</h2>
+  <table>
+    <thead><tr><th></th><th style="text-align:right;">Option B — Hire</th><th style="text-align:right;">Option C — Automate</th></tr></thead>
+    <tbody>
+      <tr><td>Year 1</td><td class="num">$484,000</td><td class="num">$584,000</td></tr>
+      <tr><td>Year 2</td><td class="num">$528,000</td><td class="num">$464,000</td></tr>
+      <tr><td>Year 3</td><td class="num">$580,000</td><td class="num">$464,000</td></tr>
+      <tr><td><b>3-year total</b></td><td class="num"><b>$1,592,000</b></td><td class="num"><b>$1,512,000</b></td></tr>
+      <tr><td>Headcount, end of Year 3</td><td class="num">11 clerks</td><td class="num">7 clerks</td></tr>
+    </tbody>
+  </table>
+  <div class="note">Cost avoidance alone is a modest $80,000 over 3 years. Order-entry error-cost avoidance (lower error rate on OCR-processed orders) adds another $130,725, for the combined $210,725 net benefit above.</div>
+</div>
+
+<footer>
+  Simulated case study &middot; figures computed from <span class="mono">cost_benefit_analysis.xlsx</span> &middot;
+  <a href="../artifacts/cost_benefit_analysis.xlsx">workbook</a> &middot;
+  <a href="../artifacts/business_case.docx">business case</a> &middot;
+  <a href="../">case files</a>
+</footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Exhibit — CRM Vendor Scorecard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --paper:#F3F5F4; --paper-raised:#FBFCFB; --ink:#0b0b0b; --ink-soft:#52514e; --ink-faint:#898781;
+  --line:#D6DCDA; --line-strong:#B9C2C0; --accent:#5C7A52; --accent-ink:#44603B; --accent-wash:#E4EBE1;
+  --blue:#2a78d6; --orange:#eb6834; --aqua:#1baf7a;
+  --radius:10px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#12161C; --paper-raised:#181D25; --ink:#ffffff; --ink-soft:#c3c2b7; --ink-faint:#6E7885;
+    --line:#2A3038; --line-strong:#3A414B; --accent:#A2C295; --accent-ink:#C3DDB9; --accent-wash:#212B1E;
+    --blue:#3987e5; --orange:#d95926; --aqua:#199e70;
+  }
+}
+*{box-sizing:border-box;}
+body{margin:0; background:var(--paper); color:var(--ink); font-family:"IBM Plex Sans",-apple-system,sans-serif; line-height:1.6;}
+h1,h2,h3{font-family:"Spectral",Georgia,serif; font-weight:600; margin:0;}
+.mono{font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums;}
+.shell{max-width:1080px; margin:0 auto; padding:36px 28px 80px;}
+.eyebrow{font-family:"IBM Plex Mono",monospace; font-size:12px; letter-spacing:.1em; text-transform:uppercase; color:var(--accent-ink); margin-bottom:10px;}
+h1{font-size:clamp(22px,3vw,30px); margin-bottom:8px;}
+.sub{color:var(--ink-soft); font-size:14.5px; max-width:74ch; margin-bottom:32px;}
+
+.winner-strip{display:flex; gap:16px; margin-bottom:40px; flex-wrap:wrap;}
+.vcard{flex:1; min-width:220px; background:var(--paper-raised); border:1px solid var(--line); border-radius:var(--radius); padding:18px 20px;}
+.vcard.win{border-color:var(--accent); background:var(--accent-wash);}
+.vcard .name{font-weight:600; font-size:15px; margin-bottom:6px;}
+.vcard .score{font-family:"IBM Plex Mono",monospace; font-size:26px;}
+.vcard .badge{font-family:"IBM Plex Mono",monospace; font-size:10.5px; text-transform:uppercase; letter-spacing:.05em; color:var(--accent-ink); margin-top:4px; display:block;}
+
+table{width:100%; border-collapse:collapse; background:var(--paper-raised); border:1px solid var(--line); border-radius:var(--radius); overflow:hidden; margin-bottom:16px;}
+th,td{padding:12px 14px; text-align:left; font-size:13.5px; border-bottom:1px solid var(--line);}
+th{font-family:"IBM Plex Mono",monospace; font-size:11px; text-transform:uppercase; letter-spacing:.04em; color:var(--ink-faint); font-weight:500;}
+td.num{font-family:"IBM Plex Mono",monospace; text-align:center;}
+tr:last-child td{border-bottom:none;}
+.bar-cell{display:flex; align-items:center; gap:8px;}
+.bar-track{flex:1; height:8px; background:var(--line); border-radius:4px; overflow:hidden;}
+.bar-fill{height:100%; border-radius:4px; background:var(--accent);}
+.bar-fill.alt{background:var(--blue);}
+.bar-fill.alt2{background:var(--orange);}
+.total-row td{font-weight:600; background:var(--accent-wash);}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .total-row td{background:#1c2419;}}
+
+.note{color:var(--ink-faint); font-size:12.5px; margin-top:8px;}
+footer{color:var(--ink-faint); font-size:12px; border-top:1px solid var(--line); padding-top:20px; margin-top:32px;}
+footer a{color:var(--ink-faint);}
+</style>
+</head>
+<body>
+<div class="shell">
+<div class="eyebrow">Exhibit &middot; BA Case 02 &middot; Requirements &amp; Systems Selection</div>
+<h1>CRM vendor scorecard</h1>
+<p class="sub">Brightpath Distribution (simulated). Three vendors scored against seven weighted criteria drawn directly from stakeholder interviews. Vendor names are fictional. Full detail and formulas in <span class="mono">vendor_evaluation_matrix.xlsx</span>.</p>
+
+<div class="winner-strip">
+  <div class="vcard win"><div class="name">Northstar CRM</div><div class="score">4.22</div><span class="badge">Recommended</span></div>
+  <div class="vcard"><div class="name">Vertex Sales Suite</div><div class="score">4.01</div><span class="badge" style="color:var(--ink-faint);">Runner-up</span></div>
+  <div class="vcard"><div class="name">Pinnacle Sales Cloud</div><div class="score">3.57</div><span class="badge" style="color:var(--ink-faint);">Third</span></div>
+</div>
+
+<table>
+  <thead><tr><th>Criterion</th><th>Weight</th><th style="text-align:center;">Pinnacle</th><th style="text-align:center;">Northstar</th><th style="text-align:center;">Vertex</th></tr></thead>
+  <tbody>
+    <tr><td>Pipeline &amp; opportunity management</td><td class="mono">20%</td><td class="num">4</td><td class="num">5</td><td class="num">3</td></tr>
+    <tr><td>Reporting &amp; forecasting</td><td class="mono">18%</td><td class="num">5</td><td class="num">4</td><td class="num">3</td></tr>
+    <tr><td>Mobile usability</td><td class="mono">15%</td><td class="num">3</td><td class="num">5</td><td class="num">4</td></tr>
+    <tr><td>Integration (ERP, email/calendar, marketing)</td><td class="mono">15%</td><td class="num">4</td><td class="num">3</td><td class="num">5</td></tr>
+    <tr><td>Data migration &amp; onboarding effort</td><td class="mono">10%</td><td class="num">3</td><td class="num">4</td><td class="num">5</td></tr>
+    <tr><td>Total cost of ownership (3-yr)</td><td class="mono">12%</td><td class="num">1.00</td><td class="num">5.00</td><td class="num">4.36</td></tr>
+    <tr><td>Vendor support &amp; SLA</td><td class="mono">10%</td><td class="num">4</td><td class="num">3</td><td class="num">5</td></tr>
+    <tr class="total-row"><td>Weighted total</td><td></td><td class="num">3.57</td><td class="num">4.22</td><td class="num">4.01</td></tr>
+  </tbody>
+</table>
+
+<table>
+  <thead><tr><th>3-year TCO (40 seats)</th><th style="text-align:right;">Total</th></tr></thead>
+  <tbody>
+    <tr><td class="bar-cell">Pinnacle Sales Cloud<div class="bar-track" style="max-width:280px;"><div class="bar-fill alt2" style="width:100%;"></div></div></td><td class="num">$288,800</td></tr>
+    <tr><td class="bar-cell">Northstar CRM<div class="bar-track" style="max-width:280px;"><div class="bar-fill" style="width:71.5%;"></div></div></td><td class="num">$206,560</td></tr>
+    <tr><td class="bar-cell">Vertex Sales Suite<div class="bar-track" style="max-width:280px;"><div class="bar-fill alt" style="width:76.1%;"></div></div></td><td class="num">$219,800</td></tr>
+  </tbody>
+</table>
+<div class="note">Bar width scaled to Pinnacle's total (the most expensive option).</div>
+
+<footer>
+  Simulated case study &middot; figures computed from <span class="mono">vendor_evaluation_matrix.xlsx</span> &middot;
+  <a href="../artifacts/vendor_evaluation_matrix.xlsx">workbook</a> &middot;
+  <a href="../artifacts/business_requirements_document.docx">BRD</a> &middot;
+  <a href="../">case files</a>
+</footer>
+</div>
+</body>
+</html>

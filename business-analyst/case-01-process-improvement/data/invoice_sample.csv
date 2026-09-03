@@ -1,0 +1,121 @@
+Invoice ID,Vendor,Vendor Type,Department,Amount,Payment Terms,Days: Data Entry,Days: Dept Mgr Approval,Days: Finance Mgr Approval,Days: Controller Approval,Days: Payment Processing
+INV-2031,Cascade Freight Partners,Recurring,Sales & Marketing,13377.69,Net 30,1.3,6.3,5.1,4.6,1.4
+INV-2032,Meridian Cleaning Supply,Recurring,Fleet & Logistics,9287.72,Net 30,0.7,5.1,3.5,1.6,0.7
+INV-2033,Blackstone Facility Repair,One-off,Warehouse Ops,29465.85,Net 30,1.7,2.5,0.6,4.4,0.8
+INV-2034,Norwood Uniform Services,Recurring,Facilities,705.29,Net 30,1.3,3.8,2.2,1.3,0.9
+INV-2035,Delmar Industrial Supply,Recurring,Sales & Marketing,384.61,Net 30,1.5,3.3,0.0,0.0,0.6
+INV-2036,Cascade Freight Partners,Recurring,Sales & Marketing,75964.56,Net 30,1.5,2.7,5.2,4.6,1.0
+INV-2037,Overton Safety Gear,Recurring,Finance,16584.15,2/10 Net 30,0.8,2.1,4.1,6.5,1.0
+INV-2038,Blackstone Facility Repair,One-off,Sales & Marketing,22636.85,Net 30,1.5,5.9,4.4,6.5,1.1
+INV-2039,Juniper Equipment Rental,One-off,Fleet & Logistics,131.44,Net 30,1.5,3.5,0.0,0.0,1.4
+INV-2040,Blackstone Facility Repair,One-off,Fleet & Logistics,3447.76,Net 30,1.5,4.1,3.6,4.5,1.4
+INV-2041,Ashford Packaging Co.,Recurring,IT,1657.29,Net 30,0.9,2.1,2.5,3.5,1.3
+INV-2042,Meridian Cleaning Supply,Recurring,Warehouse Ops,14950.03,Net 30,1.0,3.6,5.3,4.9,1.4
+INV-2043,Overton Safety Gear,Recurring,Finance,736.14,Net 30,1.3,2.4,3.9,4.4,1.8
+INV-2044,Delmar Industrial Supply,Recurring,Finance,42173.63,Net 30,1.0,4.6,5.6,2.8,0.8
+INV-2045,Harlow Fasteners Inc.,Recurring,Sales & Marketing,6256.54,Net 30,2.0,3.3,2.5,3.8,0.5
+INV-2046,Junction Fleet Fuel,Recurring,Fleet & Logistics,2748.06,Net 30,1.8,8.7,2.0,3.4,1.1
+INV-2047,Driftwood Signage Co.,One-off,Fleet & Logistics,1866.64,Net 30,1.8,3.5,3.6,1.8,0.9
+INV-2048,Delmar Industrial Supply,Recurring,Fleet & Logistics,102.37,Net 30,1.6,4.3,0.0,0.0,1.1
+INV-2049,Lattice Warehouse Equip.,Recurring,Finance,44044.41,2/10 Net 30,1.2,7.4,6.2,4.6,0.8
+INV-2050,Overton Safety Gear,Recurring,Sales & Marketing,1465.78,Net 30,1.3,4.9,1.2,5.5,1.1
+INV-2051,Driftwood Signage Co.,One-off,IT,41178.32,Net 30,1.5,3.9,3.4,4.2,1.4
+INV-2052,Meridian Cleaning Supply,Recurring,Facilities,6575.21,2/10 Net 30,1.1,1.3,4.3,6.8,0.5
+INV-2053,Lattice Warehouse Equip.,Recurring,Fleet & Logistics,76562.49,Net 30,1.1,6.2,4.7,6.8,1.4
+INV-2054,Overton Safety Gear,Recurring,Finance,36102.84,Net 30,1.1,4.2,2.8,5.6,0.6
+INV-2055,Junction Fleet Fuel,Recurring,Finance,15283.98,Net 30,1.5,7.0,4.9,1.5,1.0
+INV-2056,Compass IT Contractors,One-off,IT,6139.39,Net 30,1.4,2.5,3.8,2.1,0.8
+INV-2057,Delmar Industrial Supply,Recurring,Fleet & Logistics,5866.47,Net 30,0.4,4.6,3.9,4.7,1.5
+INV-2058,Cascade Freight Partners,Recurring,Finance,130.17,2/10 Net 30,1.7,4.7,0.0,0.0,1.3
+INV-2059,Compass IT Contractors,One-off,IT,219.79,Net 30,1.7,4.5,0.0,0.0,0.7
+INV-2060,Fenwick Paper Group,Recurring,Warehouse Ops,1903.79,Net 30,0.8,3.9,6.0,2.8,0.8
+INV-2061,Granite Fleet Maintenance,One-off,Facilities,25054.0,Net 30,1.9,5.4,4.6,7.7,0.9
+INV-2062,Ironclad Pallet Systems,Recurring,Sales & Marketing,98026.75,2/10 Net 30,1.7,1.5,1.9,1.4,0.8
+INV-2063,Junction Fleet Fuel,Recurring,Finance,7921.51,2/10 Net 30,0.4,4.2,3.1,4.7,1.2
+INV-2064,Blackstone Facility Repair,One-off,Sales & Marketing,6675.54,2/10 Net 30,1.7,4.9,2.7,3.7,1.1
+INV-2065,Ashford Packaging Co.,Recurring,Finance,6733.9,2/10 Net 30,1.2,5.4,0.8,1.9,0.6
+INV-2066,Compass IT Contractors,One-off,Warehouse Ops,8108.36,Net 30,1.7,5.8,5.8,3.9,1.4
+INV-2067,Cascade Freight Partners,Recurring,Finance,145.03,Net 30,0.9,3.5,0.0,0.0,1.2
+INV-2068,Hawthorne Legal Services,One-off,Sales & Marketing,1017.7,Net 30,1.8,3.9,1.1,5.5,0.8
+INV-2069,Harlow Fasteners Inc.,Recurring,Finance,4855.87,Net 30,1.1,4.6,4.3,6.1,0.9
+INV-2070,Junction Fleet Fuel,Recurring,IT,6667.07,Net 30,1.3,3.9,4.3,7.1,1.6
+INV-2071,Overton Safety Gear,Recurring,Fleet & Logistics,3394.39,Net 30,1.3,4.1,4.3,2.7,0.5
+INV-2072,Kestrel Office Solutions,Recurring,Fleet & Logistics,11442.36,Net 30,1.9,5.9,2.4,4.6,0.9
+INV-2073,Kestrel Office Solutions,Recurring,Sales & Marketing,3503.72,Net 30,1.6,2.3,3.8,8.2,1.1
+INV-2074,Junction Fleet Fuel,Recurring,Finance,9249.12,Net 30,1.1,2.9,4.4,2.6,1.2
+INV-2075,Ivyview Marketing Agency,One-off,Warehouse Ops,21224.18,2/10 Net 30,1.5,5.6,1.1,3.5,0.4
+INV-2076,Elmhurst Consulting Group,One-off,Facilities,16144.36,Net 30,1.1,0.2,3.0,7.9,1.1
+INV-2077,Meridian Cleaning Supply,Recurring,IT,7200.66,2/10 Net 30,1.2,4.0,5.0,4.6,1.2
+INV-2078,Ironclad Pallet Systems,Recurring,Finance,9895.77,Net 30,0.9,6.2,3.5,6.2,0.9
+INV-2079,Norwood Uniform Services,Recurring,IT,4620.47,Net 30,1.1,2.6,3.1,4.7,0.5
+INV-2080,Delmar Industrial Supply,Recurring,Facilities,325.72,Net 30,0.9,1.4,0.0,0.0,0.8
+INV-2081,Junction Fleet Fuel,Recurring,Sales & Marketing,6866.26,Net 30,1.3,2.5,4.9,5.1,1.1
+INV-2082,Junction Fleet Fuel,Recurring,IT,436.99,Net 30,1.1,2.9,0.0,0.0,0.7
+INV-2083,Junction Fleet Fuel,Recurring,Facilities,31255.91,2/10 Net 30,1.2,4.6,3.9,2.8,1.3
+INV-2084,Fenwick Paper Group,Recurring,Warehouse Ops,9309.95,Net 30,1.3,1.8,3.7,4.4,0.7
+INV-2085,Lattice Warehouse Equip.,Recurring,Finance,6392.78,Net 30,1.1,4.7,0.2,2.1,0.9
+INV-2086,Blackstone Facility Repair,One-off,Warehouse Ops,39295.81,Net 30,1.3,4.5,6.2,2.0,1.1
+INV-2087,Overton Safety Gear,Recurring,IT,3791.34,2/10 Net 30,0.8,3.4,3.0,5.3,1.1
+INV-2088,Compass IT Contractors,One-off,Facilities,8039.19,2/10 Net 30,1.4,3.1,4.6,5.2,1.1
+INV-2089,Overton Safety Gear,Recurring,Warehouse Ops,125.79,Net 30,0.7,4.8,0.0,0.0,0.8
+INV-2090,Harlow Fasteners Inc.,Recurring,IT,100.52,2/10 Net 30,1.7,3.4,0.0,0.0,1.0
+INV-2091,Fenwick Paper Group,Recurring,IT,781.24,Net 30,1.1,6.3,2.2,0.2,1.5
+INV-2092,Juniper Equipment Rental,One-off,Fleet & Logistics,6107.45,2/10 Net 30,1.5,3.8,2.1,4.9,1.2
+INV-2093,Ironclad Pallet Systems,Recurring,IT,9987.06,2/10 Net 30,1.1,3.9,4.7,1.2,1.0
+INV-2094,Compass IT Contractors,One-off,Facilities,15374.54,2/10 Net 30,1.2,5.0,4.3,2.6,1.1
+INV-2095,Ironclad Pallet Systems,Recurring,Facilities,9611.53,Net 30,0.9,3.6,3.7,1.3,0.5
+INV-2096,Driftwood Signage Co.,One-off,Sales & Marketing,7551.28,Net 30,1.7,3.0,1.8,5.3,1.1
+INV-2097,Blackstone Facility Repair,One-off,Fleet & Logistics,5833.59,Net 30,1.5,5.4,4.7,6.0,0.8
+INV-2098,Hawthorne Legal Services,One-off,Finance,7981.32,2/10 Net 30,1.9,6.5,3.1,3.3,1.1
+INV-2099,Cascade Freight Partners,Recurring,Warehouse Ops,482.15,2/10 Net 30,0.9,0.4,0.0,0.0,0.7
+INV-2100,Fenwick Paper Group,Recurring,Sales & Marketing,3469.1,2/10 Net 30,0.8,4.0,5.4,2.4,0.7
+INV-2101,Ironclad Pallet Systems,Recurring,Facilities,4457.37,2/10 Net 30,1.4,2.4,3.8,3.7,0.6
+INV-2102,Harlow Fasteners Inc.,Recurring,Facilities,7914.74,Net 30,1.2,5.9,0.4,1.6,0.7
+INV-2103,Lattice Warehouse Equip.,Recurring,Fleet & Logistics,47214.45,2/10 Net 30,0.8,4.8,3.9,4.9,0.9
+INV-2104,Blackstone Facility Repair,One-off,Warehouse Ops,2288.87,2/10 Net 30,1.0,0.5,5.3,5.9,0.7
+INV-2105,Elmhurst Consulting Group,One-off,Warehouse Ops,437.56,Net 30,1.8,3.5,0.0,0.0,0.7
+INV-2106,Delmar Industrial Supply,Recurring,Finance,4816.89,Net 30,1.8,5.9,2.4,5.4,1.2
+INV-2107,Fenwick Paper Group,Recurring,Fleet & Logistics,4432.83,2/10 Net 30,1.4,4.6,1.1,4.1,0.8
+INV-2108,Norwood Uniform Services,Recurring,IT,7515.78,2/10 Net 30,1.3,6.3,3.8,4.3,0.7
+INV-2109,Meridian Cleaning Supply,Recurring,Sales & Marketing,9920.87,2/10 Net 30,1.2,7.0,5.1,4.0,1.1
+INV-2110,Elmhurst Consulting Group,One-off,Sales & Marketing,34871.06,2/10 Net 30,1.3,2.1,4.6,4.6,0.5
+INV-2111,Ashford Packaging Co.,Recurring,Sales & Marketing,2696.93,Net 30,1.2,2.7,2.2,4.6,1.1
+INV-2112,Meridian Cleaning Supply,Recurring,Sales & Marketing,7704.25,Net 30,1.1,4.4,3.5,3.1,1.1
+INV-2113,Overton Safety Gear,Recurring,Warehouse Ops,45585.37,2/10 Net 30,1.3,4.5,2.1,3.2,1.4
+INV-2114,Juniper Equipment Rental,One-off,Finance,168.89,Net 30,0.9,4.1,0.0,0.0,1.0
+INV-2115,Cascade Freight Partners,Recurring,IT,386.35,Net 30,1.7,2.3,0.0,0.0,0.9
+INV-2116,Ivyview Marketing Agency,One-off,IT,121.84,2/10 Net 30,2.2,3.6,0.0,0.0,1.6
+INV-2117,Meridian Cleaning Supply,Recurring,IT,8931.04,2/10 Net 30,1.3,9.2,5.1,2.9,1.3
+INV-2118,Granite Fleet Maintenance,One-off,Facilities,2368.85,2/10 Net 30,1.7,4.1,4.3,4.7,0.4
+INV-2119,Hawthorne Legal Services,One-off,Fleet & Logistics,121.45,Net 30,1.6,3.0,0.0,0.0,1.2
+INV-2120,Ironclad Pallet Systems,Recurring,Sales & Marketing,4949.49,2/10 Net 30,1.3,2.5,4.9,4.1,0.4
+INV-2121,Delmar Industrial Supply,Recurring,Fleet & Logistics,203.51,Net 30,1.2,4.5,0.0,0.0,1.3
+INV-2122,Driftwood Signage Co.,One-off,Finance,1182.24,2/10 Net 30,2.0,3.4,0.2,1.3,0.8
+INV-2123,Junction Fleet Fuel,Recurring,Warehouse Ops,2905.67,2/10 Net 30,1.6,3.0,2.5,4.8,0.5
+INV-2124,Cascade Freight Partners,Recurring,IT,7836.58,2/10 Net 30,1.0,7.4,3.5,2.0,1.0
+INV-2125,Granite Fleet Maintenance,One-off,Fleet & Logistics,4428.48,Net 30,1.4,5.7,5.5,6.3,1.2
+INV-2126,Fenwick Paper Group,Recurring,Fleet & Logistics,2031.75,Net 30,1.2,3.2,3.6,7.0,0.9
+INV-2127,Meridian Cleaning Supply,Recurring,Facilities,1751.54,2/10 Net 30,1.4,6.0,6.3,4.5,1.2
+INV-2128,Cascade Freight Partners,Recurring,Fleet & Logistics,92.59,2/10 Net 30,1.3,5.5,0.0,0.0,1.1
+INV-2129,Overton Safety Gear,Recurring,Facilities,302.86,2/10 Net 30,0.2,4.7,0.0,0.0,0.1
+INV-2130,Norwood Uniform Services,Recurring,Warehouse Ops,114446.61,2/10 Net 30,1.0,6.3,3.1,7.6,1.0
+INV-2131,Ivyview Marketing Agency,One-off,Fleet & Logistics,46950.41,Net 30,1.6,4.0,1.8,3.6,0.8
+INV-2132,Meridian Cleaning Supply,Recurring,Warehouse Ops,1946.95,Net 30,1.3,5.1,2.3,2.3,1.3
+INV-2133,Kestrel Office Solutions,Recurring,Sales & Marketing,4990.97,Net 30,0.7,4.5,4.9,4.6,1.2
+INV-2134,Fenwick Paper Group,Recurring,Finance,102473.3,Net 30,1.1,3.3,5.1,6.4,1.5
+INV-2135,Harlow Fasteners Inc.,Recurring,Facilities,32472.2,Net 30,1.2,4.3,5.0,3.9,0.8
+INV-2136,Ironclad Pallet Systems,Recurring,Facilities,1695.04,2/10 Net 30,1.4,3.5,4.9,4.6,0.6
+INV-2137,Cascade Freight Partners,Recurring,IT,8675.13,2/10 Net 30,0.8,4.2,3.4,3.5,1.2
+INV-2138,Norwood Uniform Services,Recurring,Finance,2423.76,Net 30,0.5,3.5,0.5,4.1,1.0
+INV-2139,Lattice Warehouse Equip.,Recurring,Finance,247.46,Net 30,1.4,3.3,0.0,0.0,1.0
+INV-2140,Harlow Fasteners Inc.,Recurring,Facilities,47436.56,Net 30,0.9,5.7,4.8,4.2,0.8
+INV-2141,Harlow Fasteners Inc.,Recurring,Finance,9275.88,Net 30,1.4,2.1,3.5,4.2,1.7
+INV-2142,Lattice Warehouse Equip.,Recurring,Fleet & Logistics,6625.14,2/10 Net 30,1.2,4.8,3.6,6.3,0.9
+INV-2143,Granite Fleet Maintenance,One-off,Fleet & Logistics,571.31,2/10 Net 30,1.8,6.4,3.7,3.7,0.7
+INV-2144,Ironclad Pallet Systems,Recurring,Finance,2329.42,2/10 Net 30,1.7,8.6,2.9,6.3,1.1
+INV-2145,Kestrel Office Solutions,Recurring,IT,193.39,Net 30,1.1,1.9,0.0,0.0,0.5
+INV-2146,Cascade Freight Partners,Recurring,Facilities,32086.84,Net 30,1.5,4.4,2.8,6.0,1.5
+INV-2147,Cascade Freight Partners,Recurring,Finance,22732.74,Net 30,1.4,5.1,4.6,2.2,1.2
+INV-2148,Juniper Equipment Rental,One-off,IT,4457.91,2/10 Net 30,2.1,3.7,2.1,3.6,1.0
+INV-2149,Juniper Equipment Rental,One-off,Warehouse Ops,1958.34,Net 30,1.3,4.8,3.8,2.8,0.9
+INV-2150,Harlow Fasteners Inc.,Recurring,Sales & Marketing,8318.89,2/10 Net 30,1.1,0.7,2.5,3.6,0.8
