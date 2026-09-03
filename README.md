@@ -44,4 +44,4 @@ Each flagship case follows the same structure: `data/` → `sql/` → `scripts/`
 | 03 | [Integrating two warehouse teams without it reading as a takeover](business-analyst/case-03-change-management/) | Change management / stakeholder alignment | ✅ Built |
 | 04 | [Automate or keep hiring? A business case for order entry](business-analyst/case-04-business-case/) | Business case & cost-benefit | ✅ Built |
 
-Full track overview in [`business-analyst/README.md`](business-analyst/README.md). Each case shows the  BA work a hiring manager would expect (a BRD, a RACI matrix, a business case with NPV/payback) plus a formula-driven Excel workbook behind every numeric claim, verified with zero formula errors.
+Full track overview in [`business-analyst/README.md`](business-analyst/README.md). Each case shows the a BRD, a RACI matrix, a business case with NPV/payback plus a formula-driven Excel workbook behind every numeric claim, verified with zero formula errors.
