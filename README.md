@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Olusegun Olu.</h1>
+<h3 align="center">A Data/Information technology Enthusiast curious about finding out how our world works the way it does using technology.</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+
+- 📝 Take a look at my **Linkedin** : [Linkedin](www.linkedin.com/in/olusegunolugbogi)
+
+- 📫 Email me at: **dukeolu.e@gmail.com**
+
+  
 # Data Analytics & Business Analyst Portfolio
 
 Using data and business judgment to find what's actually wrong, figuring out the fix, and implementing. Two linked tracks live in this repo: a **data analytics** portfolio (SQL, Python, Excel, dashboards) built around business operations, and a **business analyst** portfolio (process maps, requirements documents, stakeholder analysis, business cases) built around the kinds of problems a data analyst typically does not venture into.
