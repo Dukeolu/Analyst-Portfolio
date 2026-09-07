@@ -1,0 +1,149 @@
+hire_id,start_date,department,role,remote_eligible,required_group_count
+NH-0003,2025-01-03,Finance,AP Clerk,N,3
+NH-0123,2025-01-03,Warehouse & Ops,Shift Supervisor,N,3
+NH-0132,2025-01-05,Engineering,Manufacturing Engineer,Y,4
+NH-0108,2025-01-09,Sales,Account Executive,Y,4
+NH-0091,2025-01-11,Office/Admin,Office Coordinator,N,2
+NH-0025,2025-01-15,Office/Admin,Office Coordinator,N,2
+NH-0143,2025-01-16,Finance,AP Clerk,N,3
+NH-0007,2025-01-18,Office/Admin,Administrative Assistant,N,2
+NH-0100,2025-01-21,Sales,Account Executive,Y,4
+NH-0040,2025-02-01,Office/Admin,Administrative Assistant,N,2
+NH-0094,2025-02-03,Engineering,Manufacturing Engineer,N,3
+NH-0093,2025-02-04,Sales,Sales Coordinator,Y,4
+NH-0005,2025-02-08,Warehouse & Ops,Shift Supervisor,N,3
+NH-0002,2025-02-12,Warehouse & Ops,Shift Supervisor,N,3
+NH-0061,2025-02-13,HR,HR Generalist,N,3
+NH-0079,2025-02-15,HR,Recruiter,Y,4
+NH-0102,2025-02-15,Engineering,Manufacturing Engineer,Y,4
+NH-0037,2025-02-16,Sales,Sales Coordinator,Y,4
+NH-0077,2025-02-18,Sales,Sales Coordinator,N,3
+NH-0101,2025-02-20,Warehouse & Ops,Forklift Operator,N,3
+NH-0085,2025-02-25,Warehouse & Ops,Forklift Operator,N,3
+NH-0044,2025-02-28,Office/Admin,Administrative Assistant,N,2
+NH-0039,2025-03-04,Engineering,QA Technician,N,3
+NH-0064,2025-03-05,Sales,Account Executive,N,3
+NH-0075,2025-03-05,Warehouse & Ops,Warehouse Associate,N,3
+NH-0032,2025-03-08,Warehouse & Ops,Warehouse Associate,N,3
+NH-0095,2025-03-09,Warehouse & Ops,Warehouse Associate,N,3
+NH-0105,2025-03-09,Warehouse & Ops,Warehouse Associate,N,3
+NH-0118,2025-03-09,Warehouse & Ops,Warehouse Associate,N,3
+NH-0141,2025-03-11,HR,HR Generalist,Y,4
+NH-0124,2025-03-13,Warehouse & Ops,Warehouse Associate,N,3
+NH-0034,2025-03-14,Finance,Financial Analyst,Y,4
+NH-0062,2025-03-14,HR,HR Generalist,Y,4
+NH-0068,2025-03-14,Warehouse & Ops,Shift Supervisor,N,3
+NH-0087,2025-03-15,Office/Admin,Office Coordinator,N,2
+NH-0047,2025-03-17,Warehouse & Ops,Shift Supervisor,N,3
+NH-0097,2025-03-18,Engineering,QA Technician,N,3
+NH-0074,2025-03-20,Sales,Account Executive,N,3
+NH-0027,2025-03-24,Warehouse & Ops,Forklift Operator,N,3
+NH-0017,2025-03-25,Engineering,Manufacturing Engineer,Y,4
+NH-0069,2025-04-01,Engineering,Manufacturing Engineer,N,3
+NH-0038,2025-04-03,Finance,AP Clerk,N,3
+NH-0089,2025-04-06,Warehouse & Ops,Shift Supervisor,N,3
+NH-0090,2025-04-12,IT,Systems Administrator,Y,4
+NH-0110,2025-04-15,Sales,Account Executive,Y,4
+NH-0054,2025-04-17,Office/Admin,Administrative Assistant,N,2
+NH-0081,2025-04-23,Sales,Sales Coordinator,Y,4
+NH-0138,2025-04-24,Sales,Account Executive,N,3
+NH-0053,2025-04-27,Finance,AP Clerk,N,3
+NH-0082,2025-04-27,Sales,Sales Coordinator,N,3
+NH-0078,2025-05-02,Warehouse & Ops,Warehouse Associate,N,3
+NH-0045,2025-05-03,Sales,Sales Coordinator,Y,4
+NH-0120,2025-05-07,Office/Admin,Administrative Assistant,N,2
+NH-0107,2025-05-15,Office/Admin,Administrative Assistant,N,2
+NH-0055,2025-05-16,Sales,Account Executive,N,3
+NH-0015,2025-05-17,Warehouse & Ops,Shift Supervisor,N,3
+NH-0050,2025-05-17,Engineering,Manufacturing Engineer,Y,4
+NH-0016,2025-05-20,Sales,Sales Coordinator,N,3
+NH-0106,2025-05-21,Warehouse & Ops,Warehouse Associate,N,3
+NH-0125,2025-05-21,Finance,Financial Analyst,Y,4
+NH-0024,2025-05-23,Office/Admin,Office Coordinator,N,2
+NH-0112,2025-05-23,Sales,Sales Coordinator,N,3
+NH-0114,2025-06-02,Engineering,Manufacturing Engineer,Y,4
+NH-0057,2025-06-03,Sales,Sales Coordinator,N,3
+NH-0048,2025-06-05,Warehouse & Ops,Shift Supervisor,N,3
+NH-0066,2025-06-05,Finance,Financial Analyst,Y,4
+NH-0113,2025-06-07,Warehouse & Ops,Warehouse Associate,N,3
+NH-0013,2025-06-10,Office/Admin,Office Coordinator,N,2
+NH-0121,2025-06-13,Office/Admin,Administrative Assistant,N,2
+NH-0072,2025-06-15,Warehouse & Ops,Shift Supervisor,N,3
+NH-0119,2025-06-18,Sales,Sales Coordinator,Y,4
+NH-0041,2025-06-20,Finance,AP Clerk,N,3
+NH-0043,2025-06-20,Warehouse & Ops,Forklift Operator,N,3
+NH-0076,2025-06-22,Sales,Account Executive,Y,4
+NH-0020,2025-06-23,Engineering,QA Technician,N,3
+NH-0046,2025-06-24,Warehouse & Ops,Shift Supervisor,N,3
+NH-0051,2025-06-25,Office/Admin,Administrative Assistant,N,2
+NH-0018,2025-07-02,Office/Admin,Office Coordinator,N,2
+NH-0084,2025-07-03,Warehouse & Ops,Warehouse Associate,N,3
+NH-0008,2025-07-05,Engineering,QA Technician,N,3
+NH-0031,2025-07-08,IT,Systems Administrator,Y,4
+NH-0103,2025-07-09,Warehouse & Ops,Shift Supervisor,N,3
+NH-0092,2025-07-11,Sales,Sales Coordinator,N,3
+NH-0088,2025-07-16,Warehouse & Ops,Warehouse Associate,N,3
+NH-0001,2025-07-21,Office/Admin,Administrative Assistant,N,2
+NH-0111,2025-07-22,Warehouse & Ops,Shift Supervisor,N,3
+NH-0012,2025-07-25,Finance,Financial Analyst,Y,4
+NH-0071,2025-07-27,HR,Recruiter,Y,4
+NH-0133,2025-07-27,Finance,AP Clerk,N,3
+NH-0116,2025-07-28,Sales,Account Executive,Y,4
+NH-0147,2025-08-01,Office/Admin,Administrative Assistant,N,2
+NH-0026,2025-08-02,Office/Admin,Administrative Assistant,N,2
+NH-0028,2025-08-03,Warehouse & Ops,Forklift Operator,N,3
+NH-0058,2025-08-07,Warehouse & Ops,Warehouse Associate,N,3
+NH-0083,2025-08-11,Sales,Sales Coordinator,Y,4
+NH-0139,2025-08-16,HR,HR Generalist,N,3
+NH-0022,2025-08-23,Sales,Account Executive,N,3
+NH-0065,2025-08-26,Warehouse & Ops,Shift Supervisor,N,3
+NH-0135,2025-08-26,IT,Systems Administrator,Y,4
+NH-0033,2025-08-27,Finance,AP Clerk,N,3
+NH-0136,2025-09-03,Warehouse & Ops,Shift Supervisor,N,3
+NH-0073,2025-09-05,IT,Systems Administrator,N,3
+NH-0146,2025-09-07,Sales,Sales Coordinator,N,3
+NH-0070,2025-09-08,Warehouse & Ops,Forklift Operator,N,3
+NH-0029,2025-09-09,Warehouse & Ops,Forklift Operator,N,3
+NH-0030,2025-09-09,Engineering,QA Technician,N,3
+NH-0049,2025-09-10,IT,Help Desk Technician,N,3
+NH-0145,2025-09-10,IT,Systems Administrator,Y,4
+NH-0052,2025-09-11,Warehouse & Ops,Shift Supervisor,N,3
+NH-0004,2025-09-14,Sales,Account Executive,Y,4
+NH-0148,2025-09-15,Warehouse & Ops,Warehouse Associate,N,3
+NH-0130,2025-09-19,Sales,Account Executive,N,3
+NH-0122,2025-09-21,Warehouse & Ops,Forklift Operator,N,3
+NH-0129,2025-09-21,Warehouse & Ops,Shift Supervisor,N,3
+NH-0104,2025-09-23,Finance,AP Clerk,N,3
+NH-0126,2025-09-28,Warehouse & Ops,Shift Supervisor,N,3
+NH-0011,2025-10-02,Office/Admin,Administrative Assistant,N,2
+NH-0056,2025-10-12,Warehouse & Ops,Shift Supervisor,N,3
+NH-0042,2025-10-13,Warehouse & Ops,Warehouse Associate,N,3
+NH-0006,2025-10-19,Finance,AP Clerk,N,3
+NH-0059,2025-10-20,Office/Admin,Office Coordinator,N,2
+NH-0128,2025-10-21,Warehouse & Ops,Shift Supervisor,N,3
+NH-0019,2025-10-26,Engineering,Manufacturing Engineer,N,3
+NH-0021,2025-10-26,Office/Admin,Office Coordinator,N,2
+NH-0131,2025-10-26,Engineering,Manufacturing Engineer,N,3
+NH-0144,2025-11-04,Warehouse & Ops,Forklift Operator,N,3
+NH-0009,2025-11-06,Sales,Sales Coordinator,Y,4
+NH-0010,2025-11-07,Warehouse & Ops,Shift Supervisor,N,3
+NH-0140,2025-11-10,Engineering,Manufacturing Engineer,Y,4
+NH-0060,2025-11-12,Engineering,QA Technician,N,3
+NH-0134,2025-11-18,Sales,Account Executive,Y,4
+NH-0086,2025-11-22,Warehouse & Ops,Shift Supervisor,N,3
+NH-0036,2025-11-26,Sales,Account Executive,Y,4
+NH-0096,2025-11-27,HR,Recruiter,N,3
+NH-0099,2025-12-06,Warehouse & Ops,Warehouse Associate,N,3
+NH-0080,2025-12-09,Office/Admin,Administrative Assistant,N,2
+NH-0115,2025-12-09,Engineering,Manufacturing Engineer,Y,4
+NH-0117,2025-12-10,Sales,Sales Coordinator,Y,4
+NH-0142,2025-12-10,Warehouse & Ops,Shift Supervisor,N,3
+NH-0098,2025-12-11,Engineering,QA Technician,N,3
+NH-0063,2025-12-13,HR,Recruiter,Y,4
+NH-0127,2025-12-16,HR,Recruiter,N,3
+NH-0109,2025-12-17,Warehouse & Ops,Warehouse Associate,N,3
+NH-0067,2025-12-21,Sales,Account Executive,Y,4
+NH-0023,2025-12-23,IT,Help Desk Technician,N,3
+NH-0137,2025-12-24,Finance,AP Clerk,N,3
+NH-0014,2025-12-25,Warehouse & Ops,Warehouse Associate,N,3
+NH-0035,2025-12-28,Sales,Sales Coordinator,N,3

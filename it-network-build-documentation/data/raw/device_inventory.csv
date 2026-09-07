@@ -1,0 +1,79 @@
+device_id,segment,device_type,assigned_vlan,assigned_subnet,legacy_unpatched_risk,patch_status
+MFG-RVS-0001,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0002,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0003,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0004,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0005,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0006,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0007,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0008,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0009,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0010,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0011,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0012,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0013,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0014,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0015,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0016,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0017,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0018,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0019,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0020,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0021,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0022,Office,Workstation,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0023,Office,Office printer/MFP,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0024,Office,Office printer/MFP,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0025,Office,Office printer/MFP,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0026,Office,Wireless AP (corp SSID),10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0027,Office,Wireless AP (corp SSID),10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0028,Office,File/print server,10,10.10.10.0/24,N,Managed / current
+MFG-RVS-0029,Warehouse,"Barcode scanner (handheld, legacy OS)",20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0030,Warehouse,"Barcode scanner (handheld, legacy OS)",20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0031,Warehouse,"Barcode scanner (handheld, legacy OS)",20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0032,Warehouse,"Barcode scanner (handheld, legacy OS)",20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0033,Warehouse,"Barcode scanner (handheld, legacy OS)",20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0034,Warehouse,"Barcode scanner (handheld, legacy OS)",20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0035,Warehouse,"Barcode scanner (handheld, legacy OS)",20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0036,Warehouse,"Barcode scanner (handheld, legacy OS)",20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0037,Warehouse,"Barcode scanner (handheld, legacy OS)",20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0038,Warehouse,"Barcode scanner (handheld, legacy OS)",20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0039,Warehouse,Label printer (legacy firmware),20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0040,Warehouse,Label printer (legacy firmware),20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0041,Warehouse,Label printer (legacy firmware),20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0042,Warehouse,Label printer (legacy firmware),20,10.10.20.0/24,Y,Vendor support ended / rarely patched
+MFG-RVS-0043,Warehouse,Floor terminal / WMS kiosk,20,10.10.20.0/24,N,Managed / current
+MFG-RVS-0044,Warehouse,Floor terminal / WMS kiosk,20,10.10.20.0/24,N,Managed / current
+MFG-RVS-0045,Warehouse,Floor terminal / WMS kiosk,20,10.10.20.0/24,N,Managed / current
+MFG-RVS-0046,Warehouse,Dock door controller,20,10.10.20.0/24,N,Managed / current
+MFG-RVS-0047,VoIP,Desk phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0048,VoIP,Desk phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0049,VoIP,Desk phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0050,VoIP,Desk phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0051,VoIP,Desk phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0052,VoIP,Desk phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0053,VoIP,Desk phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0054,VoIP,Desk phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0055,VoIP,Desk phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0056,VoIP,Desk phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0057,VoIP,Desk phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0058,VoIP,Desk phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0059,VoIP,Conference room phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0060,VoIP,Conference room phone,30,10.10.30.0/24,N,Managed / current
+MFG-RVS-0061,Guest,Guest wifi client (visiting driver/vendor laptop or phone),40,10.10.40.0/24,N,Managed / current
+MFG-RVS-0062,Guest,Guest wifi client (visiting driver/vendor laptop or phone),40,10.10.40.0/24,N,Managed / current
+MFG-RVS-0063,Guest,Guest wifi client (visiting driver/vendor laptop or phone),40,10.10.40.0/24,N,Managed / current
+MFG-RVS-0064,Guest,Guest wifi client (visiting driver/vendor laptop or phone),40,10.10.40.0/24,N,Managed / current
+MFG-RVS-0065,Guest,Guest wifi client (visiting driver/vendor laptop or phone),40,10.10.40.0/24,N,Managed / current
+MFG-RVS-0066,Guest,Guest wifi client (visiting driver/vendor laptop or phone),40,10.10.40.0/24,N,Managed / current
+MFG-RVS-0067,Guest,Guest wifi client (visiting driver/vendor laptop or phone),40,10.10.40.0/24,N,Managed / current
+MFG-RVS-0068,Guest,Guest wifi client (visiting driver/vendor laptop or phone),40,10.10.40.0/24,N,Managed / current
+MFG-RVS-0069,Guest,Guest wifi client (visiting driver/vendor laptop or phone),40,10.10.40.0/24,N,Managed / current
+MFG-RVS-0070,Guest,Guest wifi client (visiting driver/vendor laptop or phone),40,10.10.40.0/24,N,Managed / current
+MFG-RVS-0071,Guest,Guest wifi client (visiting driver/vendor laptop or phone),40,10.10.40.0/24,N,Managed / current
+MFG-RVS-0072,Guest,Guest wifi client (visiting driver/vendor laptop or phone),40,10.10.40.0/24,N,Managed / current
+MFG-RVS-0073,Management,Core switch,99,10.10.99.0/28,N,Managed / current
+MFG-RVS-0074,Management,Access switch,99,10.10.99.0/28,N,Managed / current
+MFG-RVS-0075,Management,Access switch,99,10.10.99.0/28,N,Managed / current
+MFG-RVS-0076,Management,Access switch,99,10.10.99.0/28,N,Managed / current
+MFG-RVS-0077,Management,Firewall (mgmt interface),99,10.10.99.0/28,N,Managed / current
+MFG-RVS-0078,Management,Wireless controller,99,10.10.99.0/28,N,Managed / current

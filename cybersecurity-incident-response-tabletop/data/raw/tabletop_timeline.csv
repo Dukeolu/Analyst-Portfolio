@@ -1,0 +1,16 @@
+event_id,elapsed_hours,phase,actor,event
+1,0.0,Initial Access,Attacker,Phishing email delivered to a Warehouse & Ops supervisor; credentials for user0147 harvested via a fake VPN login page (the same account later confirmed compromised in the Log Analysis / Intrusion Detection case)
+2,0.5,Initial Access,Attacker,Attacker authenticates to the VPN gateway using user0147's stolen credentials from an external IP
+3,2.0,Discovery & Lateral Movement,Attacker,Attacker enumerates internal file shares reachable from the Warehouse VLAN; identifies the WMS integration server and a general-purpose file server
+4,6.0,Discovery & Lateral Movement,Attacker,Attacker escalates privileges on the file server using a cached local admin credential left over from a vendor support visit 8 months earlier
+5,18.0,Discovery & Lateral Movement,Attacker,Attacker stages ransomware payload and begins exfiltrating a sample of shared-drive files (double-extortion staging)
+6,26.0,Detection,SOC Analyst,Automated alert fires: anomalous after-hours data volume leaving the file server to an unfamiliar external IP
+7,26.5,Detection,SOC Analyst,Analyst begins triage; confirms the traffic is not a known backup job and escalates to the on-call incident commander
+8,27.5,Containment,Incident Commander,Declares a P1 security incident; isolates the file server from the network (pulls its switch port) and disables user0147's account domain-wide
+9,29.0,Containment,IT + Security,VPN session for user0147 is force-terminated; VPN gateway blocks the attacker's source IP; all active sessions for the account are killed
+10,31.0,Containment,Incident Commander,Team discovers ransomware encryption has already begun on 2 of 6 shared-drive volumes before containment completed
+11,33.0,Eradication,IT + Security,Malicious payload and persistence mechanisms removed from the file server; server rebuilt from a known-good image rather than cleaned in place
+12,36.0,Eradication,IT + Security,Full credential reset forced for all Warehouse & Ops accounts as a precaution, not just user0147
+13,40.0,Recovery,IT,Encrypted volumes restored from the previous night's backup (4 hours of data loss on those 2 volumes)
+14,44.0,Recovery,IT,File server returned to production after a clean rebuild; monitoring intensified for 72 hours post-incident
+15,48.0,Post-Incident,Incident Commander,Tabletop debrief convened; timeline reconstructed and gaps identified (see After-Action Report)

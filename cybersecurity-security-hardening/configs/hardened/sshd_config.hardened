@@ -1,0 +1,22 @@
+# /etc/ssh/sshd_config — HARDENED, post-remediation on erp-integration-01.meridianmfg.local
+# Changes from baseline are commented inline with the control ID they satisfy.
+
+Port 22
+Protocol 2
+PermitRootLogin no                     # control 5.1
+PasswordAuthentication no              # control 5.2 — key-based only; keys distributed to admins before this flipped
+PubkeyAuthentication yes
+PermitEmptyPasswords no
+X11Forwarding no                       # not needed on a headless integration server; reduces attack surface
+ClientAliveInterval 300                # control 5.3
+ClientAliveCountMax 2                  # control 5.3
+MaxAuthTries 4
+UsePAM yes
+
+# control 5.4 — restrict to modern, strong algorithms only
+Ciphers chacha20-poly1305@openssh.com,aes256-gcm@openssh.com,aes128-gcm@openssh.com
+MACs hmac-sha2-512-etm@openssh.com,hmac-sha2-256-etm@openssh.com
+KexAlgorithms curve25519-sha256,curve25519-sha256@libssh.org,diffie-hellman-group16-sha512
+
+# Only the designated IT jump host may reach this port at all — enforced at
+# the firewall layer (see hardened-ufw-rules.txt), not relied on here alone.

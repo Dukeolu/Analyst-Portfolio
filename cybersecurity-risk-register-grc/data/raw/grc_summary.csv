@@ -1,0 +1,11 @@
+metric,value
+total_risks,15
+total_inherent_score,169.0
+total_residual_score,116.0
+overall_reduction_pct,31.4
+closed_count,4
+open_count,7
+in_progress_count,1
+risk_accepted_count,1
+monitoring_count,2
+open_risk_residual_sum,89.0

@@ -1,0 +1,2 @@
+# No third-party Python packages required — src/timeline_analysis.py and
+# visuals/build_exhibit.py both use only the standard library.

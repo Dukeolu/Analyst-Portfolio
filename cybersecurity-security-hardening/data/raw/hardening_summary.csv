@@ -1,0 +1,8 @@
+metric,value
+total_controls,25
+baseline_pass,5
+baseline_pass_pct,20.0
+remediated_pass,24
+remediated_pass_pct,96.0
+risk_accepted_exceptions,1
+avg_attack_surface_reduction_pct,89.5

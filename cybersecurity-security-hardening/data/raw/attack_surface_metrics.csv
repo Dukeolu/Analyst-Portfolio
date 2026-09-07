@@ -1,0 +1,7 @@
+metric,baseline_count,remediated_count
+Listening network services,14,6
+World-writable files,8,0
+Accounts with empty passwords,2,0
+Services running as root unnecessarily,5,1
+Weak/legacy SSH ciphers accepted,9,0
+Unpatched security updates pending,23,0

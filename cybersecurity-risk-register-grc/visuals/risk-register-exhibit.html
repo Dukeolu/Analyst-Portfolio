@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meridian Manufacturing &middot; Risk Register &amp; GRC Exhibit</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --paper:#F3F1EF; --paper-raised:#FBF9F8; --ink:#0b0b0b; --ink-soft:#524d4a; --ink-faint:#8c8681;
+  --line:#DCD5D0; --line-strong:#C2B8B2; --accent:#8b2f2f; --accent-ink:#6b2020; --accent-wash:#F2DEDE;
+  --good:#0ca30c;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#1C1416; --paper-raised:#241A1D; --ink:#ffffff; --ink-soft:#c7bdb9; --ink-faint:#85787a;
+    --line:#382A2C; --line-strong:#4A3838; --accent:#D98080; --accent-ink:#E8B0B0; --accent-wash:#2E1A1B;
+    --good:#3fcf5f;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#1C1416; --paper-raised:#241A1D; --ink:#ffffff; --ink-soft:#c7bdb9; --ink-faint:#85787a;
+  --line:#382A2C; --line-strong:#4A3838; --accent:#D98080; --accent-ink:#E8B0B0; --accent-wash:#2E1A1B;
+  --good:#3fcf5f;
+}
+*{box-sizing:border-box;}
+body{margin:0; background:var(--paper); color:var(--ink); font-family:"IBM Plex Sans",sans-serif; -webkit-font-smoothing:antialiased;}
+h1,h2{font-family:"Spectral",Georgia,serif; font-weight:600; margin:0; text-wrap:balance;}
+.mono{font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums;}
+.shell{max-width:1080px; margin:0 auto; padding:40px 28px 72px;}
+header{padding-bottom:24px; border-bottom:1px solid var(--line); margin-bottom:28px;}
+.eyebrow{font-family:"IBM Plex Mono",monospace; font-size:12px; letter-spacing:.1em; text-transform:uppercase; color:var(--accent-ink); display:flex; align-items:center; gap:8px; margin-bottom:10px;}
+.eyebrow::before{content:""; width:6px; height:6px; border-radius:50%; background:var(--accent);}
+header h1{font-size:clamp(24px,3.4vw,32px);}
+header p{color:var(--ink-soft); font-size:14.5px; max-width:68ch; margin-top:10px; line-height:1.6;}
+
+.kpis{display:grid; grid-template-columns:repeat(4,1fr); gap:16px; margin-bottom:32px;}
+@media (max-width:820px){.kpis{grid-template-columns:1fr 1fr;}}
+.kpi{background:var(--paper-raised); border:1px solid var(--line); border-radius:10px; padding:18px 18px 16px;}
+.kpi .k{font-family:"IBM Plex Mono",monospace; font-size:11px; text-transform:uppercase; letter-spacing:.05em; color:var(--ink-faint);}
+.kpi .v{font-family:"IBM Plex Mono",monospace; font-size:25px; margin-top:8px;}
+.kpi .delta{font-size:12.5px; color:var(--ink-soft); margin-top:4px;}
+.kpi .delta.good{color:var(--good);}
+.kpi .delta.bad{color:#c0392b;}
+
+section{margin-bottom:36px;}
+section h2{font-size:17px; margin-bottom:4px;}
+section .sub{color:var(--ink-faint); font-size:13px; margin-bottom:14px;}
+.panel{background:var(--paper-raised); border:1px solid var(--line); border-radius:10px; padding:18px 18px 8px; overflow-x:auto;}
+
+.chart-svg .baseline{stroke:var(--line-strong); stroke-width:1;}
+.chart-svg .axis-label{fill:var(--ink-faint); font-size:11px; font-family:"IBM Plex Mono",monospace;}
+.chart-svg .sku-label{fill:var(--ink-soft); font-family:"IBM Plex Sans",sans-serif;}
+.chart-svg .bar-label-h{fill:var(--ink); font-size:12px; font-family:"IBM Plex Mono",monospace; font-weight:500;}
+
+table{width:100%; border-collapse:collapse; font-size:13px;}
+th,td{text-align:left; padding:8px 10px; border-bottom:1px solid var(--line); vertical-align:top;}
+th{font-family:"IBM Plex Mono",monospace; font-size:11px; text-transform:uppercase; letter-spacing:.05em; color:var(--ink-faint); font-weight:500;}
+td.mono{white-space:nowrap;}
+
+footer{border-top:1px solid var(--line); padding-top:18px; font-size:12px; color:var(--ink-faint);}
+</style>
+</head>
+<body>
+<div class="shell">
+  <header>
+    <div class="eyebrow">Cybersecurity &middot; Meridian Manufacturing (simulated)</div>
+    <h1>One risk register, rolled up from every case in the track</h1>
+    <p>15 risks, each citing the specific case it came from &mdash; Log4Shell and the VPN gateway RCE from the vulnerability assessment, the hardening exceptions, the four gaps the incident response tabletop surfaced. This is where those findings get tracked to closure instead of staying one-off write-ups.</p>
+  </header>
+
+  <div class="kpis">
+    <div class="kpi">
+      <div class="k">Total risks tracked</div>
+      <div class="v">15</div>
+      <div class="delta">across 6 NIST CSF 2.0 functions</div>
+    </div>
+    <div class="kpi">
+      <div class="k">Overall risk reduction</div>
+      <div class="v">31.4%</div>
+      <div class="delta good">169 &rarr; 116 points, inherent to residual</div>
+    </div>
+    <div class="kpi">
+      <div class="k">Closed</div>
+      <div class="v">4 of 15</div>
+      <div class="delta good">remediated with a verifiable case behind each one</div>
+    </div>
+    <div class="kpi">
+      <div class="k">Open, still tracked</div>
+      <div class="v">7</div>
+      <div class="delta bad">89 residual points remaining</div>
+    </div>
+  </div>
+
+  <section>
+    <h2>Residual risk heat map</h2>
+    <div class="sub">Every risk plotted by residual likelihood &times; impact, colored by status. Two risks (R06, R14) still sit in the top-right cell.</div>
+    <div class="panel">
+      <svg viewBox="0 0 560 500" width="100%" height="500" role="img" class="chart-svg">
+<rect x="70" y="372" width="86" height="86" fill="#8fbf8f" opacity="0.28" rx="4"/>
+<rect x="70" y="284" width="86" height="86" fill="#8fbf8f" opacity="0.28" rx="4"/>
+<rect x="70" y="196" width="86" height="86" fill="#8fbf8f" opacity="0.28" rx="4"/>
+<rect x="70" y="108" width="86" height="86" fill="#8fbf8f" opacity="0.28" rx="4"/>
+<rect x="70" y="20" width="86" height="86" fill="#8fbf8f" opacity="0.28" rx="4"/>
+<rect x="158" y="372" width="86" height="86" fill="#8fbf8f" opacity="0.28" rx="4"/>
+<rect x="158" y="284" width="86" height="86" fill="#8fbf8f" opacity="0.28" rx="4"/>
+<rect x="158" y="196" width="86" height="86" fill="#8fbf8f" opacity="0.28" rx="4"/>
+<rect x="158" y="108" width="86" height="86" fill="#e0c468" opacity="0.28" rx="4"/>
+<rect x="158" y="20" width="86" height="86" fill="#e0c468" opacity="0.28" rx="4"/>
+<rect x="246" y="372" width="86" height="86" fill="#8fbf8f" opacity="0.28" rx="4"/>
+<rect x="246" y="284" width="86" height="86" fill="#8fbf8f" opacity="0.28" rx="4"/>
+<rect x="246" y="196" width="86" height="86" fill="#e0c468" opacity="0.28" rx="4"/>
+<rect x="246" y="108" width="86" height="86" fill="#e0c468" opacity="0.28" rx="4"/>
+<rect x="246" y="20" width="86" height="86" fill="#d98f5f" opacity="0.28" rx="4"/>
+<rect x="334" y="372" width="86" height="86" fill="#8fbf8f" opacity="0.28" rx="4"/>
+<rect x="334" y="284" width="86" height="86" fill="#e0c468" opacity="0.28" rx="4"/>
+<rect x="334" y="196" width="86" height="86" fill="#e0c468" opacity="0.28" rx="4"/>
+<rect x="334" y="108" width="86" height="86" fill="#d98f5f" opacity="0.28" rx="4"/>
+<rect x="334" y="20" width="86" height="86" fill="#c0392b" opacity="0.28" rx="4"/>
+<rect x="422" y="372" width="86" height="86" fill="#8fbf8f" opacity="0.28" rx="4"/>
+<rect x="422" y="284" width="86" height="86" fill="#e0c468" opacity="0.28" rx="4"/>
+<rect x="422" y="196" width="86" height="86" fill="#d98f5f" opacity="0.28" rx="4"/>
+<rect x="422" y="108" width="86" height="86" fill="#c0392b" opacity="0.28" rx="4"/>
+<rect x="422" y="20" width="86" height="86" fill="#c0392b" opacity="0.28" rx="4"/>
+<text x="114.0" y="478" text-anchor="middle" class="axis-label">1</text>
+<text x="202.0" y="478" text-anchor="middle" class="axis-label">2</text>
+<text x="290.0" y="478" text-anchor="middle" class="axis-label">3</text>
+<text x="378.0" y="478" text-anchor="middle" class="axis-label">4</text>
+<text x="466.0" y="478" text-anchor="middle" class="axis-label">5</text>
+<text x="56" y="420.0" text-anchor="end" class="axis-label">1</text>
+<text x="56" y="332.0" text-anchor="end" class="axis-label">2</text>
+<text x="56" y="244.0" text-anchor="end" class="axis-label">3</text>
+<text x="56" y="156.0" text-anchor="end" class="axis-label">4</text>
+<text x="56" y="68.0" text-anchor="end" class="axis-label">5</text>
+<text x="290.0" y="496" text-anchor="middle" class="sku-label">Residual likelihood &rarr;</text>
+<text x="14" y="240.0" text-anchor="middle" class="sku-label" transform="rotate(-90,14,240.0)">Residual impact &rarr;</text>
+<circle cx="106.0" cy="64.0" r="9" fill="#2a6f6f" stroke="var(--paper)" stroke-width="2"><title>R01: Log4Shell RCE on the ERP/WMS integration server (Closed)</title></circle>
+<text x="106.0" y="67.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">01</text>
+<circle cx="122.0" cy="64.0" r="9" fill="#2a6f6f" stroke="var(--paper)" stroke-width="2"><title>R02: Citrix VPN gateway RCE (refined priority #1 finding) (Closed)</title></circle>
+<text x="122.0" y="67.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">02</text>
+<circle cx="202.0" cy="240.0" r="9" fill="#7a5fa0" stroke="var(--paper)" stroke-width="2"><title>R03: Legacy TLS 1.0/1.1 still enabled on the EDI integration API (Risk Accepted)</title></circle>
+<text x="202.0" y="243.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">03</text>
+<circle cx="282.0" cy="152.0" r="9" fill="#c0392b" stroke="var(--paper)" stroke-width="2"><title>R04: Vendor support account still active & privileged 8 months post-engagement (Open)</title></circle>
+<text x="282.0" y="155.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">04</text>
+<circle cx="298.0" cy="152.0" r="9" fill="#c0392b" stroke="var(--paper)" stroke-width="2"><title>R05: No ransomware-specific incident response runbook (Open)</title></circle>
+<text x="298.0" y="155.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">05</text>
+<circle cx="370.0" cy="152.0" r="9" fill="#c0392b" stroke="var(--paper)" stroke-width="2"><title>R06: Phishing reports take ~2 days to reach security (26h detection gap) (Open)</title></circle>
+<text x="370.0" y="155.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">06</text>
+<circle cx="386.0" cy="152.0" r="9" fill="#c0392b" stroke="var(--paper)" stroke-width="2"><title>R14: Warehouse & Ops VPN accounts use single-factor authentication (Open)</title></circle>
+<text x="386.0" y="155.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">14</text>
+<circle cx="274.0" cy="240.0" r="9" fill="#b5652f" stroke="var(--paper)" stroke-width="2"><title>R07: Account-takeover detection rule not yet deployed (In Progress)</title></circle>
+<text x="274.0" y="243.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">07</text>
+<circle cx="290.0" cy="240.0" r="9" fill="#c0392b" stroke="var(--paper)" stroke-width="2"><title>R08: No recurring access review for third-party / vendor accounts (Open)</title></circle>
+<text x="290.0" y="243.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">08</text>
+<circle cx="306.0" cy="240.0" r="9" fill="#c0392b" stroke="var(--paper)" stroke-width="2"><title>R13: No policy trigger tying account deprovisioning to HR/vendor contract end dates (Open)</title></circle>
+<text x="306.0" y="243.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">13</text>
+<circle cx="114.0" cy="240.0" r="9" fill="#2a6f6f" stroke="var(--paper)" stroke-width="2"><title>R09: SSH accepted password auth & legacy ciphers (pre-hardening baseline) (Closed)</title></circle>
+<text x="114.0" y="243.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">09</text>
+<circle cx="114.0" cy="328.0" r="9" fill="#2a6f6f" stroke="var(--paper)" stroke-width="2"><title>R10: World-writable files & empty-password accounts (pre-hardening baseline) (Closed)</title></circle>
+<text x="114.0" y="331.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">10</text>
+<circle cx="202.0" cy="328.0" r="9" fill="#3d7ab5" stroke="var(--paper)" stroke-width="2"><title>R11: Backup recovery point objective is a 4-hour window, unvalidated beyond one incident (Monitoring)</title></circle>
+<text x="202.0" y="331.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">11</text>
+<circle cx="290.0" cy="328.0" r="9" fill="#c0392b" stroke="var(--paper)" stroke-width="2"><title>R12: 181 lower-severity scan findings outside the 8-hour remediation window (Open)</title></circle>
+<text x="290.0" y="331.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">12</text>
+<circle cx="202.0" cy="416.0" r="9" fill="#3d7ab5" stroke="var(--paper)" stroke-width="2"><title>R15: KB self-service articles still building toward target adoption (Monitoring)</title></circle>
+<text x="202.0" y="419.5" text-anchor="middle" font-size="8.5" fill="white" font-family="IBM Plex Mono, monospace">15</text>
+</svg>
+      <div style="padding:4px 0 14px;"><span style="display:inline-flex;align-items:center;gap:5px;margin-right:16px;font-size:12px;color:var(--ink-soft);"><span style="width:10px;height:10px;border-radius:50%;background:#2a6f6f;display:inline-block;"></span>Closed</span><span style="display:inline-flex;align-items:center;gap:5px;margin-right:16px;font-size:12px;color:var(--ink-soft);"><span style="width:10px;height:10px;border-radius:50%;background:#c0392b;display:inline-block;"></span>Open</span><span style="display:inline-flex;align-items:center;gap:5px;margin-right:16px;font-size:12px;color:var(--ink-soft);"><span style="width:10px;height:10px;border-radius:50%;background:#b5652f;display:inline-block;"></span>In Progress</span><span style="display:inline-flex;align-items:center;gap:5px;margin-right:16px;font-size:12px;color:var(--ink-soft);"><span style="width:10px;height:10px;border-radius:50%;background:#7a5fa0;display:inline-block;"></span>Risk Accepted</span><span style="display:inline-flex;align-items:center;gap:5px;margin-right:16px;font-size:12px;color:var(--ink-soft);"><span style="width:10px;height:10px;border-radius:50%;background:#3d7ab5;display:inline-block;"></span>Monitoring</span></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Residual risk by NIST CSF 2.0 function</h2>
+    <div class="sub">Protect carries the most tracked risk points &mdash; expected, since patching and hardening produce the most individually-scored findings; Detect and Govern are smaller in count but carry real weight per risk.</div>
+    <div class="panel"><svg viewBox="0 0 640 248" width="100%" height="248" role="img" class="chart-svg">
+<line x1="140" x2="140" y1="0" y2="234" class="baseline"/>
+<rect x="140" y="10" width="424.0" height="18" rx="3" fill="#8b2f2f"><title>Protect: 43 residual points across 7 risks</title></rect>
+<text x="572.0" y="23" class="bar-label-h" text-anchor="start">43 pts &middot; 7 risks</text>
+<text x="130" y="23" class="axis-label sku-label" text-anchor="end">Protect</text>
+<rect x="140" y="48" width="246.5" height="18" rx="3" fill="#8b2f2f"><title>Detect: 25 residual points across 2 risks</title></rect>
+<text x="394.5" y="61" class="bar-label-h" text-anchor="start">25 pts &middot; 2 risks</text>
+<text x="130" y="61" class="axis-label sku-label" text-anchor="end">Detect</text>
+<rect x="140" y="86" width="177.5" height="18" rx="3" fill="#8b2f2f"><title>Govern: 18 residual points across 2 risks</title></rect>
+<text x="325.5" y="99" class="bar-label-h" text-anchor="start">18 pts &middot; 2 risks</text>
+<text x="130" y="99" class="axis-label sku-label" text-anchor="end">Govern</text>
+<rect x="140" y="124" width="138.0" height="18" rx="3" fill="#8b2f2f"><title>Respond: 14 residual points across 2 risks</title></rect>
+<text x="286.0" y="137" class="bar-label-h" text-anchor="start">14 pts &middot; 2 risks</text>
+<text x="130" y="137" class="axis-label sku-label" text-anchor="end">Respond</text>
+<rect x="140" y="162" width="118.3" height="18" rx="3" fill="#8b2f2f"><title>Identify: 12 residual points across 1 risks</title></rect>
+<text x="266.3" y="175" class="bar-label-h" text-anchor="start">12 pts &middot; 1 risks</text>
+<text x="130" y="175" class="axis-label sku-label" text-anchor="end">Identify</text>
+<rect x="140" y="200" width="39.4" height="18" rx="3" fill="#8b2f2f"><title>Recover: 4 residual points across 1 risks</title></rect>
+<text x="187.4" y="213" class="bar-label-h" text-anchor="start">4 pts &middot; 1 risks</text>
+<text x="130" y="213" class="axis-label sku-label" text-anchor="end">Recover</text>
+</svg></div>
+  </section>
+
+  <section>
+    <h2>Top open risks, by residual score</h2>
+    <div class="sub">What the register says to fix next, ranked &mdash; not a flat unordered backlog.</div>
+    <div class="panel">
+      <table>
+        <thead><tr><th>ID</th><th>Risk</th><th>Residual</th><th>CSF</th><th>Owner</th><th>Target</th></tr></thead>
+        <tbody><tr><td class="mono">R06</td><td>Phishing reports take ~2 days to reach security (26h detection gap)</td><td class="mono">16</td><td>Detect</td><td>IT Security</td><td class="mono">2026-10-15</td></tr><tr><td class="mono">R14</td><td>Warehouse & Ops VPN accounts use single-factor authentication</td><td class="mono">16</td><td>Protect</td><td>IT Security</td><td class="mono">2026-11-15</td></tr><tr><td class="mono">R04</td><td>Vendor support account still active & privileged 8 months post-engagement</td><td class="mono">12</td><td>Identify</td><td>IT Security</td><td class="mono">2026-10-01</td></tr><tr><td class="mono">R05</td><td>No ransomware-specific incident response runbook</td><td class="mono">12</td><td>Respond</td><td>IT Security</td><td class="mono">2026-09-30</td></tr><tr><td class="mono">R07</td><td>Account-takeover detection rule not yet deployed</td><td class="mono">9</td><td>Detect</td><td>SOC</td><td class="mono">2026-11-01</td></tr></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer>
+    Data and workbook are simulated (see README for methodology) &middot; built from <span class="mono">src/grc_analysis.py</span> &middot; full working register: <span class="mono">reports/risk-register.xlsx</span> &middot; Cybersecurity case, IT &amp; Cybersecurity track
+  </footer>
+</div>
+</body>
+</html>

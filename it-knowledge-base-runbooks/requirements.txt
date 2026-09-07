@@ -1,0 +1,2 @@
+# No third-party Python packages required — src/generate_data.py, src/deflection_analysis.py,
+# and visuals/build_exhibit.py all use only the standard library.

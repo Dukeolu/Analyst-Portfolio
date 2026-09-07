@@ -1,0 +1,10 @@
+metric,hours
+time_to_detect,26.0
+time_to_contain,1.5
+time_to_eradicate,5.5
+time_to_recover,7.0
+total_incident_duration,48.0
+active_encryption_window,11.0
+data_loss_window,4.0
+volumes_affected,2
+volumes_total,6

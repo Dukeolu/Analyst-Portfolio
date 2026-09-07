@@ -1,0 +1,12 @@
+metric,value
+hires_per_year,148
+manual_avg_minutes_per_hire,28.3
+automated_avg_minutes_per_hire,2.8
+minutes_saved_per_hire,25.6
+manual_group_miss_rate_pct,18.9
+manual_vpn_miss_rate_pct,40.5
+annual_rework_incidents,43
+annual_handson_hours_manual,69.9
+annual_handson_hours_automated,6.8
+annual_hours_saved_total,77.4
+annual_dollar_saved,3485.0

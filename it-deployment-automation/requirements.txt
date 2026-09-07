@@ -1,0 +1,7 @@
+# No third-party Python packages required — src/generate_data.py, src/onboarding_analysis.py,
+# and visuals/build_exhibit.py all use only the standard library.
+#
+# src/onboarding_automation.ps1 is a PowerShell script intended to run against a real Active
+# Directory + Exchange Online environment. It requires the ActiveDirectory and
+# ExchangeOnlineManagement PowerShell modules — not executed against live infrastructure here
+# (none is available in this sandbox); see README.md for how it's evaluated instead.

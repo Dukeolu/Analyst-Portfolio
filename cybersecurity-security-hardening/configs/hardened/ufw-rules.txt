@@ -1,0 +1,20 @@
+# Host-based firewall (ufw) rules applied during remediation on
+# erp-integration-01.meridianmfg.local — control 3.4.
+# Baseline had no host firewall enabled at all (relying entirely on the
+# network firewall) — this adds a second layer, consistent with defense in depth.
+
+ufw default deny incoming
+ufw default allow outgoing
+
+# SSH — only from the designated IT jump host, not the whole internal network
+ufw allow from 10.10.10.10 to any port 22 proto tcp
+
+# The integration API port this server actually needs to serve, per the
+# network build's firewall policy (see the Network Build case,
+# configs/firewall-rules.conf, rule 5) — Warehouse and Office both reach
+# this single port, nothing else
+ufw allow 8443/tcp
+
+# Everything else denied by default — this used to be a bare host with no
+# local firewall, relying entirely on network-layer segmentation
+ufw enable

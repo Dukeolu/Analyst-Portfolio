@@ -1,0 +1,127 @@
+! Meridian Manufacturing — Riverside Branch — Core & Access Switch Config (simulated)
+! Cisco IOS-style running-config excerpt. Two access switches (Office, Warehouse) uplink
+! via 802.1Q trunk to one core switch, which routes between VLANs and hands off to the firewall.
+! Simulated for this portfolio — no real device was configured.
+
+! =======================================================================
+! CORE SWITCH (core-sw-01) — Layer 3, VLAN definitions + inter-VLAN routing
+! =======================================================================
+hostname core-sw-01
+!
+vlan 10
+ name OFFICE
+vlan 20
+ name WAREHOUSE
+vlan 30
+ name VOIP
+vlan 40
+ name GUEST
+vlan 99
+ name MGMT
+!
+! Switch Virtual Interfaces — one per VLAN, each is the default gateway for its subnet
+interface Vlan10
+ description OFFICE - workstations, printers, file server
+ ip address 10.10.10.1 255.255.255.0
+ no ip redirects
+!
+interface Vlan20
+ description WAREHOUSE - scanners, floor terminals, dock controllers
+ ip address 10.10.20.1 255.255.255.0
+ no ip redirects
+!
+interface Vlan30
+ description VOIP - desk phones, conference phones
+ ip address 10.10.30.1 255.255.255.0
+ no ip redirects
+ ip helper-address 10.10.30.1
+!
+interface Vlan40
+ description GUEST - visitor wifi, untrusted
+ ip address 10.10.40.1 255.255.255.0
+ no ip redirects
+!
+interface Vlan99
+ description MANAGEMENT - switches, APs, firewall mgmt interfaces
+ ip address 10.10.99.1 255.255.255.240
+ no ip redirects
+!
+! Uplinks to access switches — 802.1Q trunks carrying only the VLANs that switch needs
+interface GigabitEthernet1/0/1
+ description TRUNK to office-sw-01
+ switchport mode trunk
+ switchport trunk allowed vlan 10,30,40,99
+ switchport trunk native vlan 999
+!
+interface GigabitEthernet1/0/2
+ description TRUNK to warehouse-sw-01
+ switchport mode trunk
+ switchport trunk allowed vlan 20,99
+ switchport trunk native vlan 999
+!
+! Uplink to firewall (routed, no VLAN tagging needed on this leg)
+interface GigabitEthernet1/0/24
+ description UPLINK to fw-01 (inside interface)
+ no switchport
+ ip address 10.10.1.2 255.255.255.252
+!
+! Native VLAN 999 is intentionally unused/unassigned on every trunk (VLAN hopping mitigation) —
+! a design detail worth calling out: the default native VLAN 1 is never used for real traffic here.
+vlan 999
+ name UNUSED_NATIVE_TRAP
+
+! =======================================================================
+! ACCESS SWITCH (office-sw-01) — Layer 2 only, access ports per device type
+! =======================================================================
+hostname office-sw-01
+!
+interface range GigabitEthernet0/1-22
+ description OFFICE workstations
+ switchport mode access
+ switchport access vlan 10
+ switchport port-security
+ switchport port-security maximum 1
+ switchport port-security violation restrict
+ spanning-tree portfast
+ spanning-tree bpduguard enable
+!
+interface range GigabitEthernet0/23-24
+ description Corporate wifi APs (dual-SSID: OFFICE + GUEST via trunk)
+ switchport mode trunk
+ switchport trunk allowed vlan 10,40
+ switchport trunk native vlan 999
+!
+interface range FastEthernet0/1-14
+ description VOIP desk + conference phones (voice VLAN on data port, PC daisy-chained)
+ switchport mode access
+ switchport access vlan 10
+ switchport voice vlan 30
+ spanning-tree portfast
+ spanning-tree bpduguard enable
+!
+interface GigabitEthernet0/48
+ description UPLINK to core-sw-01
+ switchport mode trunk
+ switchport trunk allowed vlan 10,30,40,99
+
+! =======================================================================
+! ACCESS SWITCH (warehouse-sw-01) — Layer 2 only, warehouse floor devices
+! =======================================================================
+hostname warehouse-sw-01
+!
+interface range GigabitEthernet0/1-18
+ description WAREHOUSE scanners, label printers, floor terminals, dock controller
+ switchport mode access
+ switchport access vlan 20
+ switchport port-security
+ switchport port-security maximum 1
+ switchport port-security violation shutdown
+ ! shutdown (not restrict) on this switch deliberately: warehouse devices are legacy/unpatched,
+ ! so an unexpected second MAC on a scanner port is treated as a higher-confidence signal
+ spanning-tree portfast
+ spanning-tree bpduguard enable
+!
+interface GigabitEthernet0/24
+ description UPLINK to core-sw-01
+ switchport mode trunk
+ switchport trunk allowed vlan 20,99

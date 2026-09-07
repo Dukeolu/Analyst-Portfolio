@@ -1,0 +1,3 @@
+# No third-party Python packages required — src/ and visuals/ scripts use only the standard library.
+# visuals/build_diagram.py shells out to the `dot` binary (Graphviz) to render the topology diagram;
+# install Graphviz separately (e.g. `apt-get install graphviz` / `brew install graphviz`).

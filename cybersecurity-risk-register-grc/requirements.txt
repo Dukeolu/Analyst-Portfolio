@@ -1,0 +1,4 @@
+openpyxl>=3.1
+# src/generate_data.py, src/grc_analysis.py, and visuals/build_exhibit.py use only
+# the standard library. openpyxl is required only for src/build_workbook.py, which
+# builds reports/risk-register.xlsx.

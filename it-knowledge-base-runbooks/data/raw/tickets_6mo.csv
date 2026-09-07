@@ -1,0 +1,1815 @@
+ticket_id,month,category,issue,self_service_eligible,resolution_minutes
+KB-00001,1,Password Reset,Forgot network password,Y,4.9
+KB-00002,1,Password Reset,Forgot network password,Y,5.6
+KB-00003,1,Password Reset,Forgot network password,Y,3.9
+KB-00004,1,Password Reset,Forgot network password,Y,3.0
+KB-00005,1,Password Reset,Forgot network password,Y,4.4
+KB-00006,1,Password Reset,Forgot network password,Y,5.0
+KB-00007,1,Password Reset,Forgot network password,Y,5.7
+KB-00008,1,Password Reset,Forgot network password,Y,3.1
+KB-00009,1,Password Reset,Forgot network password,Y,3.0
+KB-00010,1,Password Reset,Forgot network password,Y,5.3
+KB-00011,1,Password Reset,Forgot network password,Y,5.0
+KB-00012,1,Password Reset,Forgot network password,Y,6.2
+KB-00013,1,Password Reset,Forgot network password,Y,5.6
+KB-00014,1,Password Reset,Forgot network password,Y,4.4
+KB-00015,1,Password Reset,Forgot network password,Y,4.2
+KB-00016,1,Password Reset,Forgot network password,Y,7.4
+KB-00017,1,Password Reset,Forgot network password,Y,4.2
+KB-00018,1,Password Reset,Forgot network password,Y,3.6
+KB-00019,1,Password Reset,Forgot network password,Y,3.2
+KB-00020,1,Password Reset,Forgot network password,Y,4.6
+KB-00021,1,Password Reset,Forgot network password,Y,4.7
+KB-00022,1,Password Reset,Forgot network password,Y,4.1
+KB-00023,1,Password Reset,Forgot network password,Y,4.4
+KB-00024,1,Password Reset,Forgot network password,Y,4.8
+KB-00025,1,Password Reset,Forgot network password,Y,5.3
+KB-00026,1,Password Reset,Forgot network password,Y,5.7
+KB-00027,1,Password Reset,Forgot network password,Y,4.7
+KB-00028,1,Password Reset,Forgot network password,Y,2.5
+KB-00029,1,Password Reset,Forgot network password,Y,5.3
+KB-00030,1,Password Reset,Forgot network password,Y,2.9
+KB-00031,1,Password Reset,Forgot network password,Y,4.3
+KB-00032,1,Password Reset,Forgot network password,Y,2.8
+KB-00033,1,Password Reset,Forgot network password,Y,4.5
+KB-00034,1,Password Reset,Forgot network password,Y,3.6
+KB-00035,1,Password Reset,Forgot network password,Y,4.7
+KB-00036,1,Password Reset,Forgot network password,Y,8.2
+KB-00037,1,Password Reset,Forgot network password,Y,4.4
+KB-00038,1,Password Reset,Forgot network password,Y,5.4
+KB-00039,1,Password Reset,Forgot network password,Y,3.0
+KB-00040,1,Password Reset,Forgot network password,Y,4.2
+KB-00041,1,Password Reset,Forgot network password,Y,5.2
+KB-00042,1,Password Reset,Forgot network password,Y,4.4
+KB-00043,1,Password Reset,Forgot network password,Y,4.9
+KB-00044,1,Password Reset,Forgot network password,Y,4.6
+KB-00045,1,Password Reset,Forgot network password,Y,3.4
+KB-00046,1,Password Reset,Forgot network password,Y,5.1
+KB-00047,1,Password Reset,Forgot network password,Y,3.6
+KB-00048,1,Password Reset,Forgot network password,Y,6.6
+KB-00049,2,Password Reset,Forgot network password,Y,5.3
+KB-00050,2,Password Reset,Forgot network password,Y,4.5
+KB-00051,2,Password Reset,Forgot network password,Y,5.6
+KB-00052,2,Password Reset,Forgot network password,Y,3.8
+KB-00053,2,Password Reset,Forgot network password,Y,5.6
+KB-00054,2,Password Reset,Forgot network password,Y,4.4
+KB-00055,2,Password Reset,Forgot network password,Y,5.9
+KB-00056,2,Password Reset,Forgot network password,Y,5.2
+KB-00057,2,Password Reset,Forgot network password,Y,4.7
+KB-00058,2,Password Reset,Forgot network password,Y,3.6
+KB-00059,2,Password Reset,Forgot network password,Y,5.4
+KB-00060,2,Password Reset,Forgot network password,Y,5.0
+KB-00061,2,Password Reset,Forgot network password,Y,6.3
+KB-00062,2,Password Reset,Forgot network password,Y,4.1
+KB-00063,2,Password Reset,Forgot network password,Y,5.1
+KB-00064,2,Password Reset,Forgot network password,Y,5.1
+KB-00065,2,Password Reset,Forgot network password,Y,4.8
+KB-00066,2,Password Reset,Forgot network password,Y,4.7
+KB-00067,2,Password Reset,Forgot network password,Y,4.7
+KB-00068,2,Password Reset,Forgot network password,Y,3.8
+KB-00069,2,Password Reset,Forgot network password,Y,3.4
+KB-00070,2,Password Reset,Forgot network password,Y,4.1
+KB-00071,2,Password Reset,Forgot network password,Y,5.2
+KB-00072,2,Password Reset,Forgot network password,Y,6.2
+KB-00073,2,Password Reset,Forgot network password,Y,5.6
+KB-00074,2,Password Reset,Forgot network password,Y,5.7
+KB-00075,2,Password Reset,Forgot network password,Y,5.4
+KB-00076,2,Password Reset,Forgot network password,Y,5.3
+KB-00077,2,Password Reset,Forgot network password,Y,4.7
+KB-00078,2,Password Reset,Forgot network password,Y,5.4
+KB-00079,2,Password Reset,Forgot network password,Y,6.5
+KB-00080,2,Password Reset,Forgot network password,Y,4.1
+KB-00081,2,Password Reset,Forgot network password,Y,3.7
+KB-00082,2,Password Reset,Forgot network password,Y,6.7
+KB-00083,2,Password Reset,Forgot network password,Y,4.8
+KB-00084,2,Password Reset,Forgot network password,Y,5.6
+KB-00085,2,Password Reset,Forgot network password,Y,5.5
+KB-00086,2,Password Reset,Forgot network password,Y,3.2
+KB-00087,2,Password Reset,Forgot network password,Y,7.2
+KB-00088,2,Password Reset,Forgot network password,Y,6.5
+KB-00089,2,Password Reset,Forgot network password,Y,4.7
+KB-00090,2,Password Reset,Forgot network password,Y,5.3
+KB-00091,2,Password Reset,Forgot network password,Y,4.6
+KB-00092,2,Password Reset,Forgot network password,Y,3.5
+KB-00093,2,Password Reset,Forgot network password,Y,4.4
+KB-00094,2,Password Reset,Forgot network password,Y,4.9
+KB-00095,2,Password Reset,Forgot network password,Y,5.8
+KB-00096,2,Password Reset,Forgot network password,Y,5.3
+KB-00097,2,Password Reset,Forgot network password,Y,4.6
+KB-00098,2,Password Reset,Forgot network password,Y,6.0
+KB-00099,2,Password Reset,Forgot network password,Y,3.6
+KB-00100,2,Password Reset,Forgot network password,Y,5.4
+KB-00101,2,Password Reset,Forgot network password,Y,5.8
+KB-00102,2,Password Reset,Forgot network password,Y,4.2
+KB-00103,2,Password Reset,Forgot network password,Y,2.5
+KB-00104,2,Password Reset,Forgot network password,Y,3.5
+KB-00105,3,Password Reset,Forgot network password,Y,5.1
+KB-00106,3,Password Reset,Forgot network password,Y,6.2
+KB-00107,3,Password Reset,Forgot network password,Y,3.4
+KB-00108,3,Password Reset,Forgot network password,Y,4.5
+KB-00109,3,Password Reset,Forgot network password,Y,5.2
+KB-00110,3,Password Reset,Forgot network password,Y,4.3
+KB-00111,3,Password Reset,Forgot network password,Y,2.0
+KB-00112,3,Password Reset,Forgot network password,Y,5.4
+KB-00113,3,Password Reset,Forgot network password,Y,7.1
+KB-00114,3,Password Reset,Forgot network password,Y,5.6
+KB-00115,3,Password Reset,Forgot network password,Y,3.5
+KB-00116,3,Password Reset,Forgot network password,Y,4.0
+KB-00117,3,Password Reset,Forgot network password,Y,4.7
+KB-00118,3,Password Reset,Forgot network password,Y,7.3
+KB-00119,3,Password Reset,Forgot network password,Y,5.2
+KB-00120,3,Password Reset,Forgot network password,Y,4.6
+KB-00121,3,Password Reset,Forgot network password,Y,6.3
+KB-00122,3,Password Reset,Forgot network password,Y,4.4
+KB-00123,3,Password Reset,Forgot network password,Y,6.6
+KB-00124,3,Password Reset,Forgot network password,Y,3.7
+KB-00125,3,Password Reset,Forgot network password,Y,4.0
+KB-00126,3,Password Reset,Forgot network password,Y,5.3
+KB-00127,3,Password Reset,Forgot network password,Y,6.1
+KB-00128,3,Password Reset,Forgot network password,Y,5.2
+KB-00129,3,Password Reset,Forgot network password,Y,4.8
+KB-00130,3,Password Reset,Forgot network password,Y,2.5
+KB-00131,3,Password Reset,Forgot network password,Y,3.7
+KB-00132,3,Password Reset,Forgot network password,Y,3.8
+KB-00133,3,Password Reset,Forgot network password,Y,3.9
+KB-00134,3,Password Reset,Forgot network password,Y,5.2
+KB-00135,3,Password Reset,Forgot network password,Y,4.1
+KB-00136,3,Password Reset,Forgot network password,Y,5.4
+KB-00137,3,Password Reset,Forgot network password,Y,4.6
+KB-00138,3,Password Reset,Forgot network password,Y,4.1
+KB-00139,3,Password Reset,Forgot network password,Y,4.6
+KB-00140,3,Password Reset,Forgot network password,Y,5.0
+KB-00141,3,Password Reset,Forgot network password,Y,5.5
+KB-00142,3,Password Reset,Forgot network password,Y,4.0
+KB-00143,3,Password Reset,Forgot network password,Y,4.2
+KB-00144,3,Password Reset,Forgot network password,Y,3.0
+KB-00145,3,Password Reset,Forgot network password,Y,6.3
+KB-00146,3,Password Reset,Forgot network password,Y,6.1
+KB-00147,3,Password Reset,Forgot network password,Y,4.3
+KB-00148,3,Password Reset,Forgot network password,Y,4.0
+KB-00149,3,Password Reset,Forgot network password,Y,3.1
+KB-00150,3,Password Reset,Forgot network password,Y,4.7
+KB-00151,3,Password Reset,Forgot network password,Y,4.7
+KB-00152,3,Password Reset,Forgot network password,Y,7.0
+KB-00153,3,Password Reset,Forgot network password,Y,4.8
+KB-00154,3,Password Reset,Forgot network password,Y,3.6
+KB-00155,3,Password Reset,Forgot network password,Y,2.0
+KB-00156,3,Password Reset,Forgot network password,Y,6.1
+KB-00157,3,Password Reset,Forgot network password,Y,4.7
+KB-00158,3,Password Reset,Forgot network password,Y,2.7
+KB-00159,3,Password Reset,Forgot network password,Y,4.7
+KB-00160,3,Password Reset,Forgot network password,Y,2.7
+KB-00161,3,Password Reset,Forgot network password,Y,8.4
+KB-00162,3,Password Reset,Forgot network password,Y,5.8
+KB-00163,3,Password Reset,Forgot network password,Y,5.1
+KB-00164,3,Password Reset,Forgot network password,Y,4.3
+KB-00165,3,Password Reset,Forgot network password,Y,2.1
+KB-00166,3,Password Reset,Forgot network password,Y,4.4
+KB-00167,3,Password Reset,Forgot network password,Y,2.8
+KB-00168,3,Password Reset,Forgot network password,Y,5.2
+KB-00169,3,Password Reset,Forgot network password,Y,2.1
+KB-00170,4,Password Reset,Forgot network password,Y,5.9
+KB-00171,4,Password Reset,Forgot network password,Y,6.3
+KB-00172,4,Password Reset,Forgot network password,Y,3.2
+KB-00173,4,Password Reset,Forgot network password,Y,2.8
+KB-00174,4,Password Reset,Forgot network password,Y,5.5
+KB-00175,4,Password Reset,Forgot network password,Y,5.5
+KB-00176,4,Password Reset,Forgot network password,Y,3.4
+KB-00177,4,Password Reset,Forgot network password,Y,3.7
+KB-00178,4,Password Reset,Forgot network password,Y,3.7
+KB-00179,4,Password Reset,Forgot network password,Y,3.2
+KB-00180,4,Password Reset,Forgot network password,Y,3.7
+KB-00181,4,Password Reset,Forgot network password,Y,5.9
+KB-00182,4,Password Reset,Forgot network password,Y,5.3
+KB-00183,4,Password Reset,Forgot network password,Y,6.8
+KB-00184,4,Password Reset,Forgot network password,Y,4.4
+KB-00185,4,Password Reset,Forgot network password,Y,4.3
+KB-00186,4,Password Reset,Forgot network password,Y,3.4
+KB-00187,4,Password Reset,Forgot network password,Y,4.4
+KB-00188,4,Password Reset,Forgot network password,Y,3.0
+KB-00189,4,Password Reset,Forgot network password,Y,2.5
+KB-00190,4,Password Reset,Forgot network password,Y,5.3
+KB-00191,4,Password Reset,Forgot network password,Y,6.1
+KB-00192,4,Password Reset,Forgot network password,Y,5.4
+KB-00193,4,Password Reset,Forgot network password,Y,6.0
+KB-00194,4,Password Reset,Forgot network password,Y,4.8
+KB-00195,4,Password Reset,Forgot network password,Y,3.7
+KB-00196,4,Password Reset,Forgot network password,Y,4.6
+KB-00197,4,Password Reset,Forgot network password,Y,4.1
+KB-00198,4,Password Reset,Forgot network password,Y,3.2
+KB-00199,4,Password Reset,Forgot network password,Y,2.6
+KB-00200,4,Password Reset,Forgot network password,Y,2.8
+KB-00201,4,Password Reset,Forgot network password,Y,4.5
+KB-00202,4,Password Reset,Forgot network password,Y,4.7
+KB-00203,4,Password Reset,Forgot network password,Y,4.0
+KB-00204,4,Password Reset,Forgot network password,Y,6.1
+KB-00205,4,Password Reset,Forgot network password,Y,4.7
+KB-00206,4,Password Reset,Forgot network password,Y,5.2
+KB-00207,4,Password Reset,Forgot network password,Y,5.9
+KB-00208,4,Password Reset,Forgot network password,Y,3.6
+KB-00209,4,Password Reset,Forgot network password,Y,2.3
+KB-00210,4,Password Reset,Forgot network password,Y,5.3
+KB-00211,4,Password Reset,Forgot network password,Y,3.7
+KB-00212,4,Password Reset,Forgot network password,Y,6.0
+KB-00213,4,Password Reset,Forgot network password,Y,4.9
+KB-00214,4,Password Reset,Forgot network password,Y,5.6
+KB-00215,4,Password Reset,Forgot network password,Y,5.4
+KB-00216,4,Password Reset,Forgot network password,Y,2.2
+KB-00217,4,Password Reset,Forgot network password,Y,5.3
+KB-00218,4,Password Reset,Forgot network password,Y,3.7
+KB-00219,4,Password Reset,Forgot network password,Y,3.6
+KB-00220,4,Password Reset,Forgot network password,Y,4.0
+KB-00221,4,Password Reset,Forgot network password,Y,5.4
+KB-00222,5,Password Reset,Forgot network password,Y,5.6
+KB-00223,5,Password Reset,Forgot network password,Y,2.6
+KB-00224,5,Password Reset,Forgot network password,Y,3.8
+KB-00225,5,Password Reset,Forgot network password,Y,2.0
+KB-00226,5,Password Reset,Forgot network password,Y,4.4
+KB-00227,5,Password Reset,Forgot network password,Y,5.2
+KB-00228,5,Password Reset,Forgot network password,Y,3.6
+KB-00229,5,Password Reset,Forgot network password,Y,4.8
+KB-00230,5,Password Reset,Forgot network password,Y,4.8
+KB-00231,5,Password Reset,Forgot network password,Y,5.6
+KB-00232,5,Password Reset,Forgot network password,Y,3.6
+KB-00233,5,Password Reset,Forgot network password,Y,3.6
+KB-00234,5,Password Reset,Forgot network password,Y,3.6
+KB-00235,5,Password Reset,Forgot network password,Y,6.5
+KB-00236,5,Password Reset,Forgot network password,Y,5.7
+KB-00237,5,Password Reset,Forgot network password,Y,4.4
+KB-00238,5,Password Reset,Forgot network password,Y,4.8
+KB-00239,5,Password Reset,Forgot network password,Y,4.6
+KB-00240,5,Password Reset,Forgot network password,Y,4.7
+KB-00241,5,Password Reset,Forgot network password,Y,4.3
+KB-00242,5,Password Reset,Forgot network password,Y,4.1
+KB-00243,5,Password Reset,Forgot network password,Y,3.1
+KB-00244,5,Password Reset,Forgot network password,Y,3.8
+KB-00245,5,Password Reset,Forgot network password,Y,6.4
+KB-00246,5,Password Reset,Forgot network password,Y,5.1
+KB-00247,5,Password Reset,Forgot network password,Y,4.6
+KB-00248,5,Password Reset,Forgot network password,Y,4.3
+KB-00249,5,Password Reset,Forgot network password,Y,4.6
+KB-00250,5,Password Reset,Forgot network password,Y,4.9
+KB-00251,5,Password Reset,Forgot network password,Y,3.8
+KB-00252,5,Password Reset,Forgot network password,Y,4.7
+KB-00253,5,Password Reset,Forgot network password,Y,4.8
+KB-00254,5,Password Reset,Forgot network password,Y,3.7
+KB-00255,5,Password Reset,Forgot network password,Y,3.6
+KB-00256,5,Password Reset,Forgot network password,Y,3.4
+KB-00257,5,Password Reset,Forgot network password,Y,3.3
+KB-00258,5,Password Reset,Forgot network password,Y,5.5
+KB-00259,5,Password Reset,Forgot network password,Y,2.0
+KB-00260,5,Password Reset,Forgot network password,Y,4.2
+KB-00261,5,Password Reset,Forgot network password,Y,3.8
+KB-00262,5,Password Reset,Forgot network password,Y,3.8
+KB-00263,5,Password Reset,Forgot network password,Y,4.6
+KB-00264,5,Password Reset,Forgot network password,Y,5.8
+KB-00265,5,Password Reset,Forgot network password,Y,4.6
+KB-00266,5,Password Reset,Forgot network password,Y,4.3
+KB-00267,5,Password Reset,Forgot network password,Y,3.8
+KB-00268,5,Password Reset,Forgot network password,Y,4.4
+KB-00269,5,Password Reset,Forgot network password,Y,5.5
+KB-00270,5,Password Reset,Forgot network password,Y,4.1
+KB-00271,5,Password Reset,Forgot network password,Y,3.2
+KB-00272,5,Password Reset,Forgot network password,Y,3.1
+KB-00273,5,Password Reset,Forgot network password,Y,3.3
+KB-00274,5,Password Reset,Forgot network password,Y,2.9
+KB-00275,5,Password Reset,Forgot network password,Y,5.7
+KB-00276,5,Password Reset,Forgot network password,Y,4.9
+KB-00277,5,Password Reset,Forgot network password,Y,4.2
+KB-00278,5,Password Reset,Forgot network password,Y,6.1
+KB-00279,5,Password Reset,Forgot network password,Y,3.8
+KB-00280,5,Password Reset,Forgot network password,Y,5.3
+KB-00281,5,Password Reset,Forgot network password,Y,5.4
+KB-00282,5,Password Reset,Forgot network password,Y,2.8
+KB-00283,5,Password Reset,Forgot network password,Y,2.7
+KB-00284,5,Password Reset,Forgot network password,Y,3.5
+KB-00285,5,Password Reset,Forgot network password,Y,5.5
+KB-00286,5,Password Reset,Forgot network password,Y,6.0
+KB-00287,5,Password Reset,Forgot network password,Y,3.1
+KB-00288,5,Password Reset,Forgot network password,Y,5.7
+KB-00289,5,Password Reset,Forgot network password,Y,4.1
+KB-00290,5,Password Reset,Forgot network password,Y,4.1
+KB-00291,5,Password Reset,Forgot network password,Y,3.9
+KB-00292,5,Password Reset,Forgot network password,Y,4.1
+KB-00293,5,Password Reset,Forgot network password,Y,2.5
+KB-00294,6,Password Reset,Forgot network password,Y,3.1
+KB-00295,6,Password Reset,Forgot network password,Y,5.1
+KB-00296,6,Password Reset,Forgot network password,Y,6.9
+KB-00297,6,Password Reset,Forgot network password,Y,7.6
+KB-00298,6,Password Reset,Forgot network password,Y,4.1
+KB-00299,6,Password Reset,Forgot network password,Y,2.6
+KB-00300,6,Password Reset,Forgot network password,Y,4.0
+KB-00301,6,Password Reset,Forgot network password,Y,3.4
+KB-00302,6,Password Reset,Forgot network password,Y,6.7
+KB-00303,6,Password Reset,Forgot network password,Y,5.1
+KB-00304,6,Password Reset,Forgot network password,Y,3.7
+KB-00305,6,Password Reset,Forgot network password,Y,5.6
+KB-00306,6,Password Reset,Forgot network password,Y,5.1
+KB-00307,6,Password Reset,Forgot network password,Y,2.7
+KB-00308,6,Password Reset,Forgot network password,Y,3.9
+KB-00309,6,Password Reset,Forgot network password,Y,4.2
+KB-00310,6,Password Reset,Forgot network password,Y,4.5
+KB-00311,6,Password Reset,Forgot network password,Y,4.6
+KB-00312,6,Password Reset,Forgot network password,Y,4.1
+KB-00313,6,Password Reset,Forgot network password,Y,4.7
+KB-00314,6,Password Reset,Forgot network password,Y,3.8
+KB-00315,6,Password Reset,Forgot network password,Y,3.5
+KB-00316,6,Password Reset,Forgot network password,Y,6.2
+KB-00317,6,Password Reset,Forgot network password,Y,4.9
+KB-00318,6,Password Reset,Forgot network password,Y,5.0
+KB-00319,6,Password Reset,Forgot network password,Y,2.7
+KB-00320,6,Password Reset,Forgot network password,Y,4.3
+KB-00321,6,Password Reset,Forgot network password,Y,5.4
+KB-00322,6,Password Reset,Forgot network password,Y,3.0
+KB-00323,6,Password Reset,Forgot network password,Y,5.7
+KB-00324,6,Password Reset,Forgot network password,Y,4.1
+KB-00325,6,Password Reset,Forgot network password,Y,5.0
+KB-00326,6,Password Reset,Forgot network password,Y,4.4
+KB-00327,6,Password Reset,Forgot network password,Y,4.7
+KB-00328,6,Password Reset,Forgot network password,Y,5.9
+KB-00329,6,Password Reset,Forgot network password,Y,4.0
+KB-00330,6,Password Reset,Forgot network password,Y,6.3
+KB-00331,6,Password Reset,Forgot network password,Y,3.6
+KB-00332,6,Password Reset,Forgot network password,Y,3.5
+KB-00333,6,Password Reset,Forgot network password,Y,5.3
+KB-00334,6,Password Reset,Forgot network password,Y,3.3
+KB-00335,6,Password Reset,Forgot network password,Y,4.1
+KB-00336,6,Password Reset,Forgot network password,Y,5.5
+KB-00337,6,Password Reset,Forgot network password,Y,5.9
+KB-00338,6,Password Reset,Forgot network password,Y,2.5
+KB-00339,6,Password Reset,Forgot network password,Y,5.1
+KB-00340,6,Password Reset,Forgot network password,Y,6.6
+KB-00341,6,Password Reset,Forgot network password,Y,5.8
+KB-00342,6,Password Reset,Forgot network password,Y,4.2
+KB-00343,6,Password Reset,Forgot network password,Y,3.8
+KB-00344,6,Password Reset,Forgot network password,Y,4.2
+KB-00345,1,Password Reset,Account locked after failed attempts,Y,5.6
+KB-00346,1,Password Reset,Account locked after failed attempts,Y,5.7
+KB-00347,1,Password Reset,Account locked after failed attempts,Y,5.8
+KB-00348,1,Password Reset,Account locked after failed attempts,Y,7.8
+KB-00349,1,Password Reset,Account locked after failed attempts,Y,5.7
+KB-00350,1,Password Reset,Account locked after failed attempts,Y,3.8
+KB-00351,1,Password Reset,Account locked after failed attempts,Y,7.6
+KB-00352,1,Password Reset,Account locked after failed attempts,Y,4.4
+KB-00353,1,Password Reset,Account locked after failed attempts,Y,5.3
+KB-00354,1,Password Reset,Account locked after failed attempts,Y,5.8
+KB-00355,1,Password Reset,Account locked after failed attempts,Y,5.5
+KB-00356,1,Password Reset,Account locked after failed attempts,Y,4.5
+KB-00357,1,Password Reset,Account locked after failed attempts,Y,5.6
+KB-00358,1,Password Reset,Account locked after failed attempts,Y,9.3
+KB-00359,1,Password Reset,Account locked after failed attempts,Y,5.1
+KB-00360,1,Password Reset,Account locked after failed attempts,Y,5.8
+KB-00361,1,Password Reset,Account locked after failed attempts,Y,7.7
+KB-00362,1,Password Reset,Account locked after failed attempts,Y,7.1
+KB-00363,1,Password Reset,Account locked after failed attempts,Y,7.1
+KB-00364,2,Password Reset,Account locked after failed attempts,Y,3.0
+KB-00365,2,Password Reset,Account locked after failed attempts,Y,4.7
+KB-00366,2,Password Reset,Account locked after failed attempts,Y,6.2
+KB-00367,2,Password Reset,Account locked after failed attempts,Y,6.7
+KB-00368,2,Password Reset,Account locked after failed attempts,Y,7.9
+KB-00369,2,Password Reset,Account locked after failed attempts,Y,6.7
+KB-00370,2,Password Reset,Account locked after failed attempts,Y,5.6
+KB-00371,2,Password Reset,Account locked after failed attempts,Y,6.1
+KB-00372,2,Password Reset,Account locked after failed attempts,Y,5.7
+KB-00373,2,Password Reset,Account locked after failed attempts,Y,6.4
+KB-00374,2,Password Reset,Account locked after failed attempts,Y,7.0
+KB-00375,2,Password Reset,Account locked after failed attempts,Y,5.5
+KB-00376,2,Password Reset,Account locked after failed attempts,Y,4.8
+KB-00377,2,Password Reset,Account locked after failed attempts,Y,4.7
+KB-00378,2,Password Reset,Account locked after failed attempts,Y,7.6
+KB-00379,2,Password Reset,Account locked after failed attempts,Y,7.9
+KB-00380,2,Password Reset,Account locked after failed attempts,Y,7.5
+KB-00381,2,Password Reset,Account locked after failed attempts,Y,7.3
+KB-00382,2,Password Reset,Account locked after failed attempts,Y,7.2
+KB-00383,2,Password Reset,Account locked after failed attempts,Y,6.0
+KB-00384,2,Password Reset,Account locked after failed attempts,Y,7.0
+KB-00385,2,Password Reset,Account locked after failed attempts,Y,4.4
+KB-00386,2,Password Reset,Account locked after failed attempts,Y,5.7
+KB-00387,2,Password Reset,Account locked after failed attempts,Y,4.9
+KB-00388,2,Password Reset,Account locked after failed attempts,Y,7.1
+KB-00389,2,Password Reset,Account locked after failed attempts,Y,5.1
+KB-00390,2,Password Reset,Account locked after failed attempts,Y,5.8
+KB-00391,2,Password Reset,Account locked after failed attempts,Y,6.6
+KB-00392,3,Password Reset,Account locked after failed attempts,Y,4.8
+KB-00393,3,Password Reset,Account locked after failed attempts,Y,4.6
+KB-00394,3,Password Reset,Account locked after failed attempts,Y,7.2
+KB-00395,3,Password Reset,Account locked after failed attempts,Y,4.3
+KB-00396,3,Password Reset,Account locked after failed attempts,Y,6.7
+KB-00397,3,Password Reset,Account locked after failed attempts,Y,5.1
+KB-00398,3,Password Reset,Account locked after failed attempts,Y,5.8
+KB-00399,3,Password Reset,Account locked after failed attempts,Y,3.3
+KB-00400,3,Password Reset,Account locked after failed attempts,Y,7.1
+KB-00401,3,Password Reset,Account locked after failed attempts,Y,5.2
+KB-00402,3,Password Reset,Account locked after failed attempts,Y,4.7
+KB-00403,3,Password Reset,Account locked after failed attempts,Y,9.1
+KB-00404,3,Password Reset,Account locked after failed attempts,Y,7.1
+KB-00405,3,Password Reset,Account locked after failed attempts,Y,11.3
+KB-00406,3,Password Reset,Account locked after failed attempts,Y,6.6
+KB-00407,3,Password Reset,Account locked after failed attempts,Y,5.5
+KB-00408,3,Password Reset,Account locked after failed attempts,Y,6.2
+KB-00409,3,Password Reset,Account locked after failed attempts,Y,8.4
+KB-00410,3,Password Reset,Account locked after failed attempts,Y,6.0
+KB-00411,3,Password Reset,Account locked after failed attempts,Y,6.7
+KB-00412,3,Password Reset,Account locked after failed attempts,Y,6.8
+KB-00413,3,Password Reset,Account locked after failed attempts,Y,4.6
+KB-00414,3,Password Reset,Account locked after failed attempts,Y,6.2
+KB-00415,3,Password Reset,Account locked after failed attempts,Y,5.2
+KB-00416,3,Password Reset,Account locked after failed attempts,Y,4.1
+KB-00417,3,Password Reset,Account locked after failed attempts,Y,7.3
+KB-00418,3,Password Reset,Account locked after failed attempts,Y,7.0
+KB-00419,3,Password Reset,Account locked after failed attempts,Y,6.1
+KB-00420,3,Password Reset,Account locked after failed attempts,Y,4.6
+KB-00421,3,Password Reset,Account locked after failed attempts,Y,3.0
+KB-00422,4,Password Reset,Account locked after failed attempts,Y,5.9
+KB-00423,4,Password Reset,Account locked after failed attempts,Y,3.5
+KB-00424,4,Password Reset,Account locked after failed attempts,Y,5.9
+KB-00425,4,Password Reset,Account locked after failed attempts,Y,3.7
+KB-00426,4,Password Reset,Account locked after failed attempts,Y,6.0
+KB-00427,4,Password Reset,Account locked after failed attempts,Y,6.2
+KB-00428,4,Password Reset,Account locked after failed attempts,Y,6.5
+KB-00429,4,Password Reset,Account locked after failed attempts,Y,6.3
+KB-00430,4,Password Reset,Account locked after failed attempts,Y,6.3
+KB-00431,4,Password Reset,Account locked after failed attempts,Y,4.3
+KB-00432,4,Password Reset,Account locked after failed attempts,Y,5.4
+KB-00433,4,Password Reset,Account locked after failed attempts,Y,5.2
+KB-00434,4,Password Reset,Account locked after failed attempts,Y,5.6
+KB-00435,4,Password Reset,Account locked after failed attempts,Y,6.4
+KB-00436,4,Password Reset,Account locked after failed attempts,Y,6.9
+KB-00437,4,Password Reset,Account locked after failed attempts,Y,8.5
+KB-00438,4,Password Reset,Account locked after failed attempts,Y,2.1
+KB-00439,4,Password Reset,Account locked after failed attempts,Y,6.6
+KB-00440,4,Password Reset,Account locked after failed attempts,Y,5.7
+KB-00441,4,Password Reset,Account locked after failed attempts,Y,9.4
+KB-00442,4,Password Reset,Account locked after failed attempts,Y,7.4
+KB-00443,4,Password Reset,Account locked after failed attempts,Y,3.5
+KB-00444,4,Password Reset,Account locked after failed attempts,Y,6.6
+KB-00445,4,Password Reset,Account locked after failed attempts,Y,5.2
+KB-00446,4,Password Reset,Account locked after failed attempts,Y,7.5
+KB-00447,4,Password Reset,Account locked after failed attempts,Y,4.4
+KB-00448,5,Password Reset,Account locked after failed attempts,Y,5.8
+KB-00449,5,Password Reset,Account locked after failed attempts,Y,5.9
+KB-00450,5,Password Reset,Account locked after failed attempts,Y,5.1
+KB-00451,5,Password Reset,Account locked after failed attempts,Y,3.2
+KB-00452,5,Password Reset,Account locked after failed attempts,Y,6.7
+KB-00453,5,Password Reset,Account locked after failed attempts,Y,7.5
+KB-00454,5,Password Reset,Account locked after failed attempts,Y,5.9
+KB-00455,5,Password Reset,Account locked after failed attempts,Y,4.5
+KB-00456,5,Password Reset,Account locked after failed attempts,Y,6.3
+KB-00457,5,Password Reset,Account locked after failed attempts,Y,6.8
+KB-00458,5,Password Reset,Account locked after failed attempts,Y,5.7
+KB-00459,5,Password Reset,Account locked after failed attempts,Y,6.0
+KB-00460,5,Password Reset,Account locked after failed attempts,Y,8.1
+KB-00461,5,Password Reset,Account locked after failed attempts,Y,4.3
+KB-00462,5,Password Reset,Account locked after failed attempts,Y,5.2
+KB-00463,5,Password Reset,Account locked after failed attempts,Y,3.1
+KB-00464,5,Password Reset,Account locked after failed attempts,Y,5.0
+KB-00465,5,Password Reset,Account locked after failed attempts,Y,4.9
+KB-00466,5,Password Reset,Account locked after failed attempts,Y,4.6
+KB-00467,5,Password Reset,Account locked after failed attempts,Y,5.0
+KB-00468,5,Password Reset,Account locked after failed attempts,Y,8.7
+KB-00469,5,Password Reset,Account locked after failed attempts,Y,5.7
+KB-00470,5,Password Reset,Account locked after failed attempts,Y,5.8
+KB-00471,5,Password Reset,Account locked after failed attempts,Y,9.3
+KB-00472,6,Password Reset,Account locked after failed attempts,Y,3.4
+KB-00473,6,Password Reset,Account locked after failed attempts,Y,6.6
+KB-00474,6,Password Reset,Account locked after failed attempts,Y,4.6
+KB-00475,6,Password Reset,Account locked after failed attempts,Y,8.5
+KB-00476,6,Password Reset,Account locked after failed attempts,Y,4.1
+KB-00477,6,Password Reset,Account locked after failed attempts,Y,5.1
+KB-00478,6,Password Reset,Account locked after failed attempts,Y,3.6
+KB-00479,6,Password Reset,Account locked after failed attempts,Y,6.1
+KB-00480,6,Password Reset,Account locked after failed attempts,Y,4.5
+KB-00481,6,Password Reset,Account locked after failed attempts,Y,5.9
+KB-00482,6,Password Reset,Account locked after failed attempts,Y,5.4
+KB-00483,6,Password Reset,Account locked after failed attempts,Y,5.1
+KB-00484,6,Password Reset,Account locked after failed attempts,Y,7.4
+KB-00485,6,Password Reset,Account locked after failed attempts,Y,7.4
+KB-00486,6,Password Reset,Account locked after failed attempts,Y,6.1
+KB-00487,6,Password Reset,Account locked after failed attempts,Y,4.6
+KB-00488,6,Password Reset,Account locked after failed attempts,Y,4.4
+KB-00489,6,Password Reset,Account locked after failed attempts,Y,6.4
+KB-00490,6,Password Reset,Account locked after failed attempts,Y,9.6
+KB-00491,6,Password Reset,Account locked after failed attempts,Y,5.3
+KB-00492,6,Password Reset,Account locked after failed attempts,Y,4.8
+KB-00493,6,Password Reset,Account locked after failed attempts,Y,5.0
+KB-00494,6,Password Reset,Account locked after failed attempts,Y,4.4
+KB-00495,6,Password Reset,Account locked after failed attempts,Y,4.5
+KB-00496,1,Account Access,New software access request,N,16.3
+KB-00497,1,Account Access,New software access request,N,12.0
+KB-00498,1,Account Access,New software access request,N,10.5
+KB-00499,1,Account Access,New software access request,N,7.2
+KB-00500,1,Account Access,New software access request,N,12.6
+KB-00501,1,Account Access,New software access request,N,11.9
+KB-00502,1,Account Access,New software access request,N,8.3
+KB-00503,1,Account Access,New software access request,N,8.7
+KB-00504,1,Account Access,New software access request,N,11.9
+KB-00505,1,Account Access,New software access request,N,15.0
+KB-00506,1,Account Access,New software access request,N,13.9
+KB-00507,1,Account Access,New software access request,N,12.6
+KB-00508,1,Account Access,New software access request,N,11.0
+KB-00509,1,Account Access,New software access request,N,13.0
+KB-00510,1,Account Access,New software access request,N,12.0
+KB-00511,1,Account Access,New software access request,N,18.5
+KB-00512,1,Account Access,New software access request,N,8.6
+KB-00513,2,Account Access,New software access request,N,15.8
+KB-00514,2,Account Access,New software access request,N,11.2
+KB-00515,2,Account Access,New software access request,N,16.3
+KB-00516,2,Account Access,New software access request,N,11.9
+KB-00517,2,Account Access,New software access request,N,12.4
+KB-00518,2,Account Access,New software access request,N,10.9
+KB-00519,2,Account Access,New software access request,N,7.9
+KB-00520,2,Account Access,New software access request,N,9.1
+KB-00521,2,Account Access,New software access request,N,18.6
+KB-00522,2,Account Access,New software access request,N,13.9
+KB-00523,2,Account Access,New software access request,N,13.8
+KB-00524,2,Account Access,New software access request,N,14.9
+KB-00525,2,Account Access,New software access request,N,13.7
+KB-00526,2,Account Access,New software access request,N,15.1
+KB-00527,2,Account Access,New software access request,N,11.2
+KB-00528,2,Account Access,New software access request,N,11.3
+KB-00529,2,Account Access,New software access request,N,15.0
+KB-00530,3,Account Access,New software access request,N,8.0
+KB-00531,3,Account Access,New software access request,N,11.3
+KB-00532,3,Account Access,New software access request,N,10.4
+KB-00533,3,Account Access,New software access request,N,13.8
+KB-00534,3,Account Access,New software access request,N,9.8
+KB-00535,3,Account Access,New software access request,N,8.8
+KB-00536,3,Account Access,New software access request,N,11.0
+KB-00537,3,Account Access,New software access request,N,16.7
+KB-00538,3,Account Access,New software access request,N,11.9
+KB-00539,3,Account Access,New software access request,N,12.5
+KB-00540,3,Account Access,New software access request,N,12.0
+KB-00541,3,Account Access,New software access request,N,12.9
+KB-00542,3,Account Access,New software access request,N,14.8
+KB-00543,3,Account Access,New software access request,N,16.2
+KB-00544,3,Account Access,New software access request,N,7.1
+KB-00545,3,Account Access,New software access request,N,16.1
+KB-00546,3,Account Access,New software access request,N,12.0
+KB-00547,4,Account Access,New software access request,N,19.2
+KB-00548,4,Account Access,New software access request,N,11.5
+KB-00549,4,Account Access,New software access request,N,17.8
+KB-00550,4,Account Access,New software access request,N,14.9
+KB-00551,4,Account Access,New software access request,N,8.9
+KB-00552,4,Account Access,New software access request,N,13.5
+KB-00553,4,Account Access,New software access request,N,14.2
+KB-00554,4,Account Access,New software access request,N,11.6
+KB-00555,4,Account Access,New software access request,N,5.0
+KB-00556,4,Account Access,New software access request,N,11.0
+KB-00557,4,Account Access,New software access request,N,11.4
+KB-00558,4,Account Access,New software access request,N,8.7
+KB-00559,4,Account Access,New software access request,N,17.5
+KB-00560,4,Account Access,New software access request,N,11.3
+KB-00561,4,Account Access,New software access request,N,10.8
+KB-00562,4,Account Access,New software access request,N,11.1
+KB-00563,4,Account Access,New software access request,N,9.6
+KB-00564,5,Account Access,New software access request,N,12.3
+KB-00565,5,Account Access,New software access request,N,12.9
+KB-00566,5,Account Access,New software access request,N,10.5
+KB-00567,5,Account Access,New software access request,N,11.7
+KB-00568,5,Account Access,New software access request,N,7.8
+KB-00569,5,Account Access,New software access request,N,13.6
+KB-00570,5,Account Access,New software access request,N,9.8
+KB-00571,5,Account Access,New software access request,N,12.6
+KB-00572,5,Account Access,New software access request,N,9.3
+KB-00573,5,Account Access,New software access request,N,10.5
+KB-00574,5,Account Access,New software access request,N,12.6
+KB-00575,5,Account Access,New software access request,N,8.4
+KB-00576,5,Account Access,New software access request,N,19.4
+KB-00577,5,Account Access,New software access request,N,11.9
+KB-00578,5,Account Access,New software access request,N,11.8
+KB-00579,6,Account Access,New software access request,N,16.8
+KB-00580,6,Account Access,New software access request,N,16.2
+KB-00581,6,Account Access,New software access request,N,12.9
+KB-00582,6,Account Access,New software access request,N,7.9
+KB-00583,6,Account Access,New software access request,N,10.5
+KB-00584,6,Account Access,New software access request,N,13.8
+KB-00585,6,Account Access,New software access request,N,10.5
+KB-00586,6,Account Access,New software access request,N,8.4
+KB-00587,6,Account Access,New software access request,N,8.4
+KB-00588,6,Account Access,New software access request,N,9.7
+KB-00589,6,Account Access,New software access request,N,12.0
+KB-00590,6,Account Access,New software access request,N,10.1
+KB-00591,6,Account Access,New software access request,N,12.1
+KB-00592,6,Account Access,New software access request,N,20.4
+KB-00593,6,Account Access,New software access request,N,17.3
+KB-00594,6,Account Access,New software access request,N,8.9
+KB-00595,1,Account Access,Shared drive permission request,N,9.2
+KB-00596,1,Account Access,Shared drive permission request,N,8.7
+KB-00597,1,Account Access,Shared drive permission request,N,11.3
+KB-00598,1,Account Access,Shared drive permission request,N,8.3
+KB-00599,1,Account Access,Shared drive permission request,N,8.3
+KB-00600,1,Account Access,Shared drive permission request,N,8.2
+KB-00601,1,Account Access,Shared drive permission request,N,8.8
+KB-00602,1,Account Access,Shared drive permission request,N,11.9
+KB-00603,1,Account Access,Shared drive permission request,N,10.7
+KB-00604,1,Account Access,Shared drive permission request,N,6.0
+KB-00605,1,Account Access,Shared drive permission request,N,8.0
+KB-00606,1,Account Access,Shared drive permission request,N,7.2
+KB-00607,1,Account Access,Shared drive permission request,N,10.8
+KB-00608,1,Account Access,Shared drive permission request,N,9.5
+KB-00609,1,Account Access,Shared drive permission request,N,11.0
+KB-00610,2,Account Access,Shared drive permission request,N,4.7
+KB-00611,2,Account Access,Shared drive permission request,N,10.0
+KB-00612,2,Account Access,Shared drive permission request,N,9.5
+KB-00613,2,Account Access,Shared drive permission request,N,10.1
+KB-00614,2,Account Access,Shared drive permission request,N,6.1
+KB-00615,2,Account Access,Shared drive permission request,N,9.2
+KB-00616,2,Account Access,Shared drive permission request,N,7.5
+KB-00617,2,Account Access,Shared drive permission request,N,7.5
+KB-00618,2,Account Access,Shared drive permission request,N,9.8
+KB-00619,2,Account Access,Shared drive permission request,N,9.8
+KB-00620,2,Account Access,Shared drive permission request,N,7.0
+KB-00621,2,Account Access,Shared drive permission request,N,5.1
+KB-00622,2,Account Access,Shared drive permission request,N,3.4
+KB-00623,2,Account Access,Shared drive permission request,N,7.7
+KB-00624,3,Account Access,Shared drive permission request,N,8.9
+KB-00625,3,Account Access,Shared drive permission request,N,3.9
+KB-00626,3,Account Access,Shared drive permission request,N,7.1
+KB-00627,3,Account Access,Shared drive permission request,N,9.9
+KB-00628,3,Account Access,Shared drive permission request,N,12.8
+KB-00629,3,Account Access,Shared drive permission request,N,11.6
+KB-00630,3,Account Access,Shared drive permission request,N,9.8
+KB-00631,3,Account Access,Shared drive permission request,N,9.4
+KB-00632,3,Account Access,Shared drive permission request,N,6.6
+KB-00633,3,Account Access,Shared drive permission request,N,8.0
+KB-00634,3,Account Access,Shared drive permission request,N,8.3
+KB-00635,3,Account Access,Shared drive permission request,N,7.3
+KB-00636,3,Account Access,Shared drive permission request,N,9.1
+KB-00637,3,Account Access,Shared drive permission request,N,8.1
+KB-00638,3,Account Access,Shared drive permission request,N,9.8
+KB-00639,3,Account Access,Shared drive permission request,N,12.2
+KB-00640,3,Account Access,Shared drive permission request,N,10.7
+KB-00641,4,Account Access,Shared drive permission request,N,8.5
+KB-00642,4,Account Access,Shared drive permission request,N,5.6
+KB-00643,4,Account Access,Shared drive permission request,N,8.7
+KB-00644,4,Account Access,Shared drive permission request,N,10.2
+KB-00645,4,Account Access,Shared drive permission request,N,6.7
+KB-00646,4,Account Access,Shared drive permission request,N,11.8
+KB-00647,4,Account Access,Shared drive permission request,N,8.2
+KB-00648,4,Account Access,Shared drive permission request,N,9.8
+KB-00649,4,Account Access,Shared drive permission request,N,8.3
+KB-00650,4,Account Access,Shared drive permission request,N,6.2
+KB-00651,4,Account Access,Shared drive permission request,N,13.7
+KB-00652,4,Account Access,Shared drive permission request,N,6.4
+KB-00653,4,Account Access,Shared drive permission request,N,11.1
+KB-00654,4,Account Access,Shared drive permission request,N,7.7
+KB-00655,4,Account Access,Shared drive permission request,N,9.6
+KB-00656,5,Account Access,Shared drive permission request,N,8.1
+KB-00657,5,Account Access,Shared drive permission request,N,11.1
+KB-00658,5,Account Access,Shared drive permission request,N,13.4
+KB-00659,5,Account Access,Shared drive permission request,N,7.1
+KB-00660,5,Account Access,Shared drive permission request,N,9.0
+KB-00661,5,Account Access,Shared drive permission request,N,11.1
+KB-00662,5,Account Access,Shared drive permission request,N,7.6
+KB-00663,5,Account Access,Shared drive permission request,N,10.6
+KB-00664,5,Account Access,Shared drive permission request,N,7.2
+KB-00665,5,Account Access,Shared drive permission request,N,10.4
+KB-00666,5,Account Access,Shared drive permission request,N,10.0
+KB-00667,5,Account Access,Shared drive permission request,N,11.7
+KB-00668,6,Account Access,Shared drive permission request,N,6.3
+KB-00669,6,Account Access,Shared drive permission request,N,10.5
+KB-00670,6,Account Access,Shared drive permission request,N,6.5
+KB-00671,6,Account Access,Shared drive permission request,N,10.7
+KB-00672,6,Account Access,Shared drive permission request,N,12.4
+KB-00673,6,Account Access,Shared drive permission request,N,10.3
+KB-00674,6,Account Access,Shared drive permission request,N,7.8
+KB-00675,6,Account Access,Shared drive permission request,N,11.7
+KB-00676,6,Account Access,Shared drive permission request,N,9.4
+KB-00677,6,Account Access,Shared drive permission request,N,6.2
+KB-00678,6,Account Access,Shared drive permission request,N,8.2
+KB-00679,6,Account Access,Shared drive permission request,N,12.2
+KB-00680,6,Account Access,Shared drive permission request,N,8.3
+KB-00681,6,Account Access,Shared drive permission request,N,9.3
+KB-00682,6,Account Access,Shared drive permission request,N,8.2
+KB-00683,1,Email & Calendar,Can't set up email on phone,Y,8.3
+KB-00684,1,Email & Calendar,Can't set up email on phone,Y,10.3
+KB-00685,1,Email & Calendar,Can't set up email on phone,Y,10.0
+KB-00686,1,Email & Calendar,Can't set up email on phone,Y,9.1
+KB-00687,1,Email & Calendar,Can't set up email on phone,Y,4.4
+KB-00688,1,Email & Calendar,Can't set up email on phone,Y,12.4
+KB-00689,1,Email & Calendar,Can't set up email on phone,Y,11.2
+KB-00690,1,Email & Calendar,Can't set up email on phone,Y,11.9
+KB-00691,1,Email & Calendar,Can't set up email on phone,Y,12.6
+KB-00692,1,Email & Calendar,Can't set up email on phone,Y,8.4
+KB-00693,1,Email & Calendar,Can't set up email on phone,Y,8.1
+KB-00694,1,Email & Calendar,Can't set up email on phone,Y,10.2
+KB-00695,1,Email & Calendar,Can't set up email on phone,Y,13.5
+KB-00696,1,Email & Calendar,Can't set up email on phone,Y,5.5
+KB-00697,1,Email & Calendar,Can't set up email on phone,Y,9.0
+KB-00698,1,Email & Calendar,Can't set up email on phone,Y,7.8
+KB-00699,1,Email & Calendar,Can't set up email on phone,Y,10.8
+KB-00700,1,Email & Calendar,Can't set up email on phone,Y,13.0
+KB-00701,1,Email & Calendar,Can't set up email on phone,Y,8.8
+KB-00702,1,Email & Calendar,Can't set up email on phone,Y,6.6
+KB-00703,1,Email & Calendar,Can't set up email on phone,Y,9.6
+KB-00704,1,Email & Calendar,Can't set up email on phone,Y,8.8
+KB-00705,2,Email & Calendar,Can't set up email on phone,Y,11.6
+KB-00706,2,Email & Calendar,Can't set up email on phone,Y,8.3
+KB-00707,2,Email & Calendar,Can't set up email on phone,Y,11.1
+KB-00708,2,Email & Calendar,Can't set up email on phone,Y,6.4
+KB-00709,2,Email & Calendar,Can't set up email on phone,Y,12.1
+KB-00710,2,Email & Calendar,Can't set up email on phone,Y,6.1
+KB-00711,2,Email & Calendar,Can't set up email on phone,Y,12.0
+KB-00712,2,Email & Calendar,Can't set up email on phone,Y,5.2
+KB-00713,2,Email & Calendar,Can't set up email on phone,Y,12.8
+KB-00714,2,Email & Calendar,Can't set up email on phone,Y,8.6
+KB-00715,2,Email & Calendar,Can't set up email on phone,Y,5.8
+KB-00716,2,Email & Calendar,Can't set up email on phone,Y,8.9
+KB-00717,2,Email & Calendar,Can't set up email on phone,Y,10.3
+KB-00718,2,Email & Calendar,Can't set up email on phone,Y,7.1
+KB-00719,2,Email & Calendar,Can't set up email on phone,Y,8.3
+KB-00720,2,Email & Calendar,Can't set up email on phone,Y,10.1
+KB-00721,2,Email & Calendar,Can't set up email on phone,Y,9.1
+KB-00722,2,Email & Calendar,Can't set up email on phone,Y,2.2
+KB-00723,2,Email & Calendar,Can't set up email on phone,Y,8.5
+KB-00724,2,Email & Calendar,Can't set up email on phone,Y,10.5
+KB-00725,2,Email & Calendar,Can't set up email on phone,Y,10.2
+KB-00726,2,Email & Calendar,Can't set up email on phone,Y,11.9
+KB-00727,3,Email & Calendar,Can't set up email on phone,Y,15.6
+KB-00728,3,Email & Calendar,Can't set up email on phone,Y,11.4
+KB-00729,3,Email & Calendar,Can't set up email on phone,Y,10.2
+KB-00730,3,Email & Calendar,Can't set up email on phone,Y,12.1
+KB-00731,3,Email & Calendar,Can't set up email on phone,Y,11.8
+KB-00732,3,Email & Calendar,Can't set up email on phone,Y,9.7
+KB-00733,3,Email & Calendar,Can't set up email on phone,Y,8.0
+KB-00734,3,Email & Calendar,Can't set up email on phone,Y,11.9
+KB-00735,3,Email & Calendar,Can't set up email on phone,Y,10.5
+KB-00736,3,Email & Calendar,Can't set up email on phone,Y,5.0
+KB-00737,3,Email & Calendar,Can't set up email on phone,Y,6.9
+KB-00738,3,Email & Calendar,Can't set up email on phone,Y,10.6
+KB-00739,3,Email & Calendar,Can't set up email on phone,Y,9.8
+KB-00740,3,Email & Calendar,Can't set up email on phone,Y,10.2
+KB-00741,3,Email & Calendar,Can't set up email on phone,Y,11.0
+KB-00742,3,Email & Calendar,Can't set up email on phone,Y,9.8
+KB-00743,3,Email & Calendar,Can't set up email on phone,Y,13.3
+KB-00744,3,Email & Calendar,Can't set up email on phone,Y,8.1
+KB-00745,3,Email & Calendar,Can't set up email on phone,Y,8.6
+KB-00746,3,Email & Calendar,Can't set up email on phone,Y,10.3
+KB-00747,3,Email & Calendar,Can't set up email on phone,Y,11.3
+KB-00748,3,Email & Calendar,Can't set up email on phone,Y,11.4
+KB-00749,3,Email & Calendar,Can't set up email on phone,Y,13.0
+KB-00750,3,Email & Calendar,Can't set up email on phone,Y,8.4
+KB-00751,3,Email & Calendar,Can't set up email on phone,Y,12.3
+KB-00752,3,Email & Calendar,Can't set up email on phone,Y,10.6
+KB-00753,3,Email & Calendar,Can't set up email on phone,Y,7.0
+KB-00754,4,Email & Calendar,Can't set up email on phone,Y,14.5
+KB-00755,4,Email & Calendar,Can't set up email on phone,Y,11.4
+KB-00756,4,Email & Calendar,Can't set up email on phone,Y,8.4
+KB-00757,4,Email & Calendar,Can't set up email on phone,Y,3.8
+KB-00758,4,Email & Calendar,Can't set up email on phone,Y,7.8
+KB-00759,4,Email & Calendar,Can't set up email on phone,Y,7.8
+KB-00760,4,Email & Calendar,Can't set up email on phone,Y,9.7
+KB-00761,4,Email & Calendar,Can't set up email on phone,Y,15.0
+KB-00762,4,Email & Calendar,Can't set up email on phone,Y,11.3
+KB-00763,4,Email & Calendar,Can't set up email on phone,Y,10.2
+KB-00764,4,Email & Calendar,Can't set up email on phone,Y,7.3
+KB-00765,4,Email & Calendar,Can't set up email on phone,Y,6.7
+KB-00766,4,Email & Calendar,Can't set up email on phone,Y,9.0
+KB-00767,4,Email & Calendar,Can't set up email on phone,Y,8.4
+KB-00768,4,Email & Calendar,Can't set up email on phone,Y,16.6
+KB-00769,4,Email & Calendar,Can't set up email on phone,Y,8.5
+KB-00770,4,Email & Calendar,Can't set up email on phone,Y,8.0
+KB-00771,4,Email & Calendar,Can't set up email on phone,Y,12.2
+KB-00772,4,Email & Calendar,Can't set up email on phone,Y,9.7
+KB-00773,4,Email & Calendar,Can't set up email on phone,Y,6.6
+KB-00774,4,Email & Calendar,Can't set up email on phone,Y,12.6
+KB-00775,4,Email & Calendar,Can't set up email on phone,Y,8.8
+KB-00776,4,Email & Calendar,Can't set up email on phone,Y,6.3
+KB-00777,4,Email & Calendar,Can't set up email on phone,Y,10.3
+KB-00778,4,Email & Calendar,Can't set up email on phone,Y,10.7
+KB-00779,4,Email & Calendar,Can't set up email on phone,Y,8.7
+KB-00780,4,Email & Calendar,Can't set up email on phone,Y,11.2
+KB-00781,4,Email & Calendar,Can't set up email on phone,Y,11.4
+KB-00782,4,Email & Calendar,Can't set up email on phone,Y,7.4
+KB-00783,4,Email & Calendar,Can't set up email on phone,Y,4.6
+KB-00784,5,Email & Calendar,Can't set up email on phone,Y,9.2
+KB-00785,5,Email & Calendar,Can't set up email on phone,Y,12.4
+KB-00786,5,Email & Calendar,Can't set up email on phone,Y,11.9
+KB-00787,5,Email & Calendar,Can't set up email on phone,Y,12.8
+KB-00788,5,Email & Calendar,Can't set up email on phone,Y,13.9
+KB-00789,5,Email & Calendar,Can't set up email on phone,Y,9.5
+KB-00790,5,Email & Calendar,Can't set up email on phone,Y,12.0
+KB-00791,5,Email & Calendar,Can't set up email on phone,Y,5.9
+KB-00792,5,Email & Calendar,Can't set up email on phone,Y,11.1
+KB-00793,5,Email & Calendar,Can't set up email on phone,Y,10.4
+KB-00794,5,Email & Calendar,Can't set up email on phone,Y,9.3
+KB-00795,5,Email & Calendar,Can't set up email on phone,Y,8.4
+KB-00796,5,Email & Calendar,Can't set up email on phone,Y,6.8
+KB-00797,5,Email & Calendar,Can't set up email on phone,Y,9.8
+KB-00798,5,Email & Calendar,Can't set up email on phone,Y,12.5
+KB-00799,5,Email & Calendar,Can't set up email on phone,Y,8.6
+KB-00800,5,Email & Calendar,Can't set up email on phone,Y,10.8
+KB-00801,5,Email & Calendar,Can't set up email on phone,Y,7.9
+KB-00802,6,Email & Calendar,Can't set up email on phone,Y,7.1
+KB-00803,6,Email & Calendar,Can't set up email on phone,Y,10.4
+KB-00804,6,Email & Calendar,Can't set up email on phone,Y,9.0
+KB-00805,6,Email & Calendar,Can't set up email on phone,Y,10.2
+KB-00806,6,Email & Calendar,Can't set up email on phone,Y,8.1
+KB-00807,6,Email & Calendar,Can't set up email on phone,Y,6.7
+KB-00808,6,Email & Calendar,Can't set up email on phone,Y,8.7
+KB-00809,6,Email & Calendar,Can't set up email on phone,Y,12.0
+KB-00810,6,Email & Calendar,Can't set up email on phone,Y,13.3
+KB-00811,6,Email & Calendar,Can't set up email on phone,Y,8.7
+KB-00812,6,Email & Calendar,Can't set up email on phone,Y,11.4
+KB-00813,6,Email & Calendar,Can't set up email on phone,Y,11.3
+KB-00814,6,Email & Calendar,Can't set up email on phone,Y,10.4
+KB-00815,6,Email & Calendar,Can't set up email on phone,Y,5.8
+KB-00816,6,Email & Calendar,Can't set up email on phone,Y,10.3
+KB-00817,6,Email & Calendar,Can't set up email on phone,Y,7.2
+KB-00818,6,Email & Calendar,Can't set up email on phone,Y,12.3
+KB-00819,6,Email & Calendar,Can't set up email on phone,Y,11.4
+KB-00820,6,Email & Calendar,Can't set up email on phone,Y,11.0
+KB-00821,6,Email & Calendar,Can't set up email on phone,Y,3.5
+KB-00822,6,Email & Calendar,Can't set up email on phone,Y,11.0
+KB-00823,6,Email & Calendar,Can't set up email on phone,Y,11.2
+KB-00824,6,Email & Calendar,Can't set up email on phone,Y,6.5
+KB-00825,6,Email & Calendar,Can't set up email on phone,Y,11.8
+KB-00826,6,Email & Calendar,Can't set up email on phone,Y,9.7
+KB-00827,6,Email & Calendar,Can't set up email on phone,Y,9.1
+KB-00828,6,Email & Calendar,Can't set up email on phone,Y,7.8
+KB-00829,6,Email & Calendar,Can't set up email on phone,Y,7.1
+KB-00830,6,Email & Calendar,Can't set up email on phone,Y,8.5
+KB-00831,6,Email & Calendar,Can't set up email on phone,Y,16.8
+KB-00832,6,Email & Calendar,Can't set up email on phone,Y,10.0
+KB-00833,6,Email & Calendar,Can't set up email on phone,Y,10.0
+KB-00834,1,Email & Calendar,Shared calendar not syncing,N,11.8
+KB-00835,1,Email & Calendar,Shared calendar not syncing,N,12.1
+KB-00836,1,Email & Calendar,Shared calendar not syncing,N,10.9
+KB-00837,1,Email & Calendar,Shared calendar not syncing,N,17.1
+KB-00838,1,Email & Calendar,Shared calendar not syncing,N,13.1
+KB-00839,1,Email & Calendar,Shared calendar not syncing,N,17.0
+KB-00840,1,Email & Calendar,Shared calendar not syncing,N,10.0
+KB-00841,1,Email & Calendar,Shared calendar not syncing,N,17.3
+KB-00842,2,Email & Calendar,Shared calendar not syncing,N,16.3
+KB-00843,2,Email & Calendar,Shared calendar not syncing,N,13.6
+KB-00844,2,Email & Calendar,Shared calendar not syncing,N,10.9
+KB-00845,2,Email & Calendar,Shared calendar not syncing,N,18.2
+KB-00846,2,Email & Calendar,Shared calendar not syncing,N,12.5
+KB-00847,2,Email & Calendar,Shared calendar not syncing,N,13.5
+KB-00848,2,Email & Calendar,Shared calendar not syncing,N,10.9
+KB-00849,2,Email & Calendar,Shared calendar not syncing,N,14.7
+KB-00850,2,Email & Calendar,Shared calendar not syncing,N,12.6
+KB-00851,3,Email & Calendar,Shared calendar not syncing,N,15.2
+KB-00852,3,Email & Calendar,Shared calendar not syncing,N,11.6
+KB-00853,3,Email & Calendar,Shared calendar not syncing,N,9.1
+KB-00854,3,Email & Calendar,Shared calendar not syncing,N,15.5
+KB-00855,3,Email & Calendar,Shared calendar not syncing,N,17.2
+KB-00856,3,Email & Calendar,Shared calendar not syncing,N,16.4
+KB-00857,3,Email & Calendar,Shared calendar not syncing,N,10.0
+KB-00858,3,Email & Calendar,Shared calendar not syncing,N,16.1
+KB-00859,3,Email & Calendar,Shared calendar not syncing,N,15.3
+KB-00860,4,Email & Calendar,Shared calendar not syncing,N,15.5
+KB-00861,4,Email & Calendar,Shared calendar not syncing,N,12.9
+KB-00862,4,Email & Calendar,Shared calendar not syncing,N,14.8
+KB-00863,4,Email & Calendar,Shared calendar not syncing,N,17.2
+KB-00864,4,Email & Calendar,Shared calendar not syncing,N,12.2
+KB-00865,4,Email & Calendar,Shared calendar not syncing,N,9.0
+KB-00866,4,Email & Calendar,Shared calendar not syncing,N,13.6
+KB-00867,4,Email & Calendar,Shared calendar not syncing,N,14.7
+KB-00868,4,Email & Calendar,Shared calendar not syncing,N,7.5
+KB-00869,5,Email & Calendar,Shared calendar not syncing,N,16.1
+KB-00870,5,Email & Calendar,Shared calendar not syncing,N,13.5
+KB-00871,5,Email & Calendar,Shared calendar not syncing,N,14.3
+KB-00872,5,Email & Calendar,Shared calendar not syncing,N,9.6
+KB-00873,5,Email & Calendar,Shared calendar not syncing,N,17.2
+KB-00874,5,Email & Calendar,Shared calendar not syncing,N,20.1
+KB-00875,5,Email & Calendar,Shared calendar not syncing,N,13.3
+KB-00876,5,Email & Calendar,Shared calendar not syncing,N,11.4
+KB-00877,6,Email & Calendar,Shared calendar not syncing,N,17.1
+KB-00878,6,Email & Calendar,Shared calendar not syncing,N,14.4
+KB-00879,6,Email & Calendar,Shared calendar not syncing,N,11.2
+KB-00880,6,Email & Calendar,Shared calendar not syncing,N,18.2
+KB-00881,6,Email & Calendar,Shared calendar not syncing,N,16.7
+KB-00882,6,Email & Calendar,Shared calendar not syncing,N,16.1
+KB-00883,6,Email & Calendar,Shared calendar not syncing,N,7.8
+KB-00884,1,Hardware,Printer won't print / shows offline,Y,12.7
+KB-00885,1,Hardware,Printer won't print / shows offline,Y,7.6
+KB-00886,1,Hardware,Printer won't print / shows offline,Y,13.6
+KB-00887,1,Hardware,Printer won't print / shows offline,Y,14.9
+KB-00888,1,Hardware,Printer won't print / shows offline,Y,13.8
+KB-00889,1,Hardware,Printer won't print / shows offline,Y,9.0
+KB-00890,1,Hardware,Printer won't print / shows offline,Y,9.1
+KB-00891,1,Hardware,Printer won't print / shows offline,Y,13.6
+KB-00892,1,Hardware,Printer won't print / shows offline,Y,13.7
+KB-00893,1,Hardware,Printer won't print / shows offline,Y,14.4
+KB-00894,1,Hardware,Printer won't print / shows offline,Y,14.3
+KB-00895,1,Hardware,Printer won't print / shows offline,Y,10.7
+KB-00896,1,Hardware,Printer won't print / shows offline,Y,9.9
+KB-00897,1,Hardware,Printer won't print / shows offline,Y,5.9
+KB-00898,1,Hardware,Printer won't print / shows offline,Y,13.2
+KB-00899,1,Hardware,Printer won't print / shows offline,Y,17.3
+KB-00900,1,Hardware,Printer won't print / shows offline,Y,9.7
+KB-00901,1,Hardware,Printer won't print / shows offline,Y,9.7
+KB-00902,1,Hardware,Printer won't print / shows offline,Y,12.8
+KB-00903,1,Hardware,Printer won't print / shows offline,Y,12.0
+KB-00904,1,Hardware,Printer won't print / shows offline,Y,7.2
+KB-00905,1,Hardware,Printer won't print / shows offline,Y,9.0
+KB-00906,1,Hardware,Printer won't print / shows offline,Y,8.0
+KB-00907,1,Hardware,Printer won't print / shows offline,Y,16.6
+KB-00908,1,Hardware,Printer won't print / shows offline,Y,9.0
+KB-00909,1,Hardware,Printer won't print / shows offline,Y,13.3
+KB-00910,1,Hardware,Printer won't print / shows offline,Y,16.3
+KB-00911,1,Hardware,Printer won't print / shows offline,Y,16.2
+KB-00912,1,Hardware,Printer won't print / shows offline,Y,14.9
+KB-00913,1,Hardware,Printer won't print / shows offline,Y,15.5
+KB-00914,1,Hardware,Printer won't print / shows offline,Y,7.6
+KB-00915,1,Hardware,Printer won't print / shows offline,Y,10.0
+KB-00916,1,Hardware,Printer won't print / shows offline,Y,9.0
+KB-00917,1,Hardware,Printer won't print / shows offline,Y,10.2
+KB-00918,1,Hardware,Printer won't print / shows offline,Y,18.2
+KB-00919,1,Hardware,Printer won't print / shows offline,Y,6.4
+KB-00920,1,Hardware,Printer won't print / shows offline,Y,12.5
+KB-00921,2,Hardware,Printer won't print / shows offline,Y,14.7
+KB-00922,2,Hardware,Printer won't print / shows offline,Y,14.6
+KB-00923,2,Hardware,Printer won't print / shows offline,Y,9.6
+KB-00924,2,Hardware,Printer won't print / shows offline,Y,16.7
+KB-00925,2,Hardware,Printer won't print / shows offline,Y,11.2
+KB-00926,2,Hardware,Printer won't print / shows offline,Y,14.6
+KB-00927,2,Hardware,Printer won't print / shows offline,Y,11.9
+KB-00928,2,Hardware,Printer won't print / shows offline,Y,9.5
+KB-00929,2,Hardware,Printer won't print / shows offline,Y,10.0
+KB-00930,2,Hardware,Printer won't print / shows offline,Y,10.7
+KB-00931,2,Hardware,Printer won't print / shows offline,Y,12.7
+KB-00932,2,Hardware,Printer won't print / shows offline,Y,11.3
+KB-00933,2,Hardware,Printer won't print / shows offline,Y,17.5
+KB-00934,2,Hardware,Printer won't print / shows offline,Y,10.5
+KB-00935,2,Hardware,Printer won't print / shows offline,Y,9.7
+KB-00936,2,Hardware,Printer won't print / shows offline,Y,9.0
+KB-00937,2,Hardware,Printer won't print / shows offline,Y,8.9
+KB-00938,2,Hardware,Printer won't print / shows offline,Y,7.0
+KB-00939,2,Hardware,Printer won't print / shows offline,Y,8.3
+KB-00940,2,Hardware,Printer won't print / shows offline,Y,13.5
+KB-00941,2,Hardware,Printer won't print / shows offline,Y,11.2
+KB-00942,2,Hardware,Printer won't print / shows offline,Y,10.5
+KB-00943,2,Hardware,Printer won't print / shows offline,Y,12.0
+KB-00944,2,Hardware,Printer won't print / shows offline,Y,13.9
+KB-00945,2,Hardware,Printer won't print / shows offline,Y,12.7
+KB-00946,2,Hardware,Printer won't print / shows offline,Y,13.1
+KB-00947,2,Hardware,Printer won't print / shows offline,Y,9.5
+KB-00948,2,Hardware,Printer won't print / shows offline,Y,10.3
+KB-00949,2,Hardware,Printer won't print / shows offline,Y,8.9
+KB-00950,2,Hardware,Printer won't print / shows offline,Y,10.7
+KB-00951,3,Hardware,Printer won't print / shows offline,Y,10.0
+KB-00952,3,Hardware,Printer won't print / shows offline,Y,10.5
+KB-00953,3,Hardware,Printer won't print / shows offline,Y,10.4
+KB-00954,3,Hardware,Printer won't print / shows offline,Y,10.3
+KB-00955,3,Hardware,Printer won't print / shows offline,Y,9.6
+KB-00956,3,Hardware,Printer won't print / shows offline,Y,14.6
+KB-00957,3,Hardware,Printer won't print / shows offline,Y,10.1
+KB-00958,3,Hardware,Printer won't print / shows offline,Y,8.2
+KB-00959,3,Hardware,Printer won't print / shows offline,Y,11.5
+KB-00960,3,Hardware,Printer won't print / shows offline,Y,8.0
+KB-00961,3,Hardware,Printer won't print / shows offline,Y,8.0
+KB-00962,3,Hardware,Printer won't print / shows offline,Y,11.2
+KB-00963,3,Hardware,Printer won't print / shows offline,Y,6.4
+KB-00964,3,Hardware,Printer won't print / shows offline,Y,2.1
+KB-00965,3,Hardware,Printer won't print / shows offline,Y,11.8
+KB-00966,3,Hardware,Printer won't print / shows offline,Y,13.8
+KB-00967,3,Hardware,Printer won't print / shows offline,Y,6.4
+KB-00968,3,Hardware,Printer won't print / shows offline,Y,8.5
+KB-00969,3,Hardware,Printer won't print / shows offline,Y,12.6
+KB-00970,3,Hardware,Printer won't print / shows offline,Y,5.5
+KB-00971,3,Hardware,Printer won't print / shows offline,Y,8.6
+KB-00972,3,Hardware,Printer won't print / shows offline,Y,7.7
+KB-00973,3,Hardware,Printer won't print / shows offline,Y,10.5
+KB-00974,3,Hardware,Printer won't print / shows offline,Y,5.6
+KB-00975,3,Hardware,Printer won't print / shows offline,Y,13.5
+KB-00976,3,Hardware,Printer won't print / shows offline,Y,10.6
+KB-00977,3,Hardware,Printer won't print / shows offline,Y,11.8
+KB-00978,3,Hardware,Printer won't print / shows offline,Y,10.1
+KB-00979,3,Hardware,Printer won't print / shows offline,Y,5.2
+KB-00980,3,Hardware,Printer won't print / shows offline,Y,10.6
+KB-00981,3,Hardware,Printer won't print / shows offline,Y,7.3
+KB-00982,3,Hardware,Printer won't print / shows offline,Y,11.0
+KB-00983,4,Hardware,Printer won't print / shows offline,Y,10.1
+KB-00984,4,Hardware,Printer won't print / shows offline,Y,10.4
+KB-00985,4,Hardware,Printer won't print / shows offline,Y,13.1
+KB-00986,4,Hardware,Printer won't print / shows offline,Y,13.1
+KB-00987,4,Hardware,Printer won't print / shows offline,Y,8.2
+KB-00988,4,Hardware,Printer won't print / shows offline,Y,11.0
+KB-00989,4,Hardware,Printer won't print / shows offline,Y,15.0
+KB-00990,4,Hardware,Printer won't print / shows offline,Y,12.4
+KB-00991,4,Hardware,Printer won't print / shows offline,Y,9.0
+KB-00992,4,Hardware,Printer won't print / shows offline,Y,10.7
+KB-00993,4,Hardware,Printer won't print / shows offline,Y,10.0
+KB-00994,4,Hardware,Printer won't print / shows offline,Y,13.6
+KB-00995,4,Hardware,Printer won't print / shows offline,Y,11.1
+KB-00996,4,Hardware,Printer won't print / shows offline,Y,12.0
+KB-00997,4,Hardware,Printer won't print / shows offline,Y,17.1
+KB-00998,4,Hardware,Printer won't print / shows offline,Y,7.2
+KB-00999,4,Hardware,Printer won't print / shows offline,Y,8.2
+KB-01000,4,Hardware,Printer won't print / shows offline,Y,6.2
+KB-01001,4,Hardware,Printer won't print / shows offline,Y,6.6
+KB-01002,4,Hardware,Printer won't print / shows offline,Y,13.4
+KB-01003,4,Hardware,Printer won't print / shows offline,Y,11.8
+KB-01004,4,Hardware,Printer won't print / shows offline,Y,15.5
+KB-01005,4,Hardware,Printer won't print / shows offline,Y,5.6
+KB-01006,4,Hardware,Printer won't print / shows offline,Y,8.6
+KB-01007,4,Hardware,Printer won't print / shows offline,Y,15.0
+KB-01008,4,Hardware,Printer won't print / shows offline,Y,13.8
+KB-01009,4,Hardware,Printer won't print / shows offline,Y,13.4
+KB-01010,4,Hardware,Printer won't print / shows offline,Y,13.4
+KB-01011,4,Hardware,Printer won't print / shows offline,Y,11.1
+KB-01012,4,Hardware,Printer won't print / shows offline,Y,11.0
+KB-01013,4,Hardware,Printer won't print / shows offline,Y,11.1
+KB-01014,4,Hardware,Printer won't print / shows offline,Y,13.3
+KB-01015,5,Hardware,Printer won't print / shows offline,Y,11.9
+KB-01016,5,Hardware,Printer won't print / shows offline,Y,15.0
+KB-01017,5,Hardware,Printer won't print / shows offline,Y,7.9
+KB-01018,5,Hardware,Printer won't print / shows offline,Y,8.9
+KB-01019,5,Hardware,Printer won't print / shows offline,Y,12.6
+KB-01020,5,Hardware,Printer won't print / shows offline,Y,10.3
+KB-01021,5,Hardware,Printer won't print / shows offline,Y,10.6
+KB-01022,5,Hardware,Printer won't print / shows offline,Y,16.8
+KB-01023,5,Hardware,Printer won't print / shows offline,Y,12.1
+KB-01024,5,Hardware,Printer won't print / shows offline,Y,9.9
+KB-01025,5,Hardware,Printer won't print / shows offline,Y,14.0
+KB-01026,5,Hardware,Printer won't print / shows offline,Y,17.9
+KB-01027,5,Hardware,Printer won't print / shows offline,Y,7.9
+KB-01028,5,Hardware,Printer won't print / shows offline,Y,9.2
+KB-01029,5,Hardware,Printer won't print / shows offline,Y,11.3
+KB-01030,5,Hardware,Printer won't print / shows offline,Y,9.3
+KB-01031,5,Hardware,Printer won't print / shows offline,Y,17.0
+KB-01032,5,Hardware,Printer won't print / shows offline,Y,12.4
+KB-01033,5,Hardware,Printer won't print / shows offline,Y,9.9
+KB-01034,5,Hardware,Printer won't print / shows offline,Y,12.3
+KB-01035,5,Hardware,Printer won't print / shows offline,Y,8.8
+KB-01036,5,Hardware,Printer won't print / shows offline,Y,9.3
+KB-01037,5,Hardware,Printer won't print / shows offline,Y,11.3
+KB-01038,5,Hardware,Printer won't print / shows offline,Y,17.6
+KB-01039,5,Hardware,Printer won't print / shows offline,Y,4.8
+KB-01040,5,Hardware,Printer won't print / shows offline,Y,12.2
+KB-01041,5,Hardware,Printer won't print / shows offline,Y,14.7
+KB-01042,5,Hardware,Printer won't print / shows offline,Y,13.0
+KB-01043,5,Hardware,Printer won't print / shows offline,Y,16.3
+KB-01044,5,Hardware,Printer won't print / shows offline,Y,12.2
+KB-01045,5,Hardware,Printer won't print / shows offline,Y,11.4
+KB-01046,5,Hardware,Printer won't print / shows offline,Y,10.6
+KB-01047,5,Hardware,Printer won't print / shows offline,Y,8.6
+KB-01048,5,Hardware,Printer won't print / shows offline,Y,15.5
+KB-01049,5,Hardware,Printer won't print / shows offline,Y,7.7
+KB-01050,5,Hardware,Printer won't print / shows offline,Y,10.7
+KB-01051,5,Hardware,Printer won't print / shows offline,Y,9.6
+KB-01052,6,Hardware,Printer won't print / shows offline,Y,4.9
+KB-01053,6,Hardware,Printer won't print / shows offline,Y,9.9
+KB-01054,6,Hardware,Printer won't print / shows offline,Y,11.4
+KB-01055,6,Hardware,Printer won't print / shows offline,Y,11.4
+KB-01056,6,Hardware,Printer won't print / shows offline,Y,13.3
+KB-01057,6,Hardware,Printer won't print / shows offline,Y,10.6
+KB-01058,6,Hardware,Printer won't print / shows offline,Y,9.2
+KB-01059,6,Hardware,Printer won't print / shows offline,Y,11.8
+KB-01060,6,Hardware,Printer won't print / shows offline,Y,12.8
+KB-01061,6,Hardware,Printer won't print / shows offline,Y,8.5
+KB-01062,6,Hardware,Printer won't print / shows offline,Y,6.8
+KB-01063,6,Hardware,Printer won't print / shows offline,Y,8.2
+KB-01064,6,Hardware,Printer won't print / shows offline,Y,13.9
+KB-01065,6,Hardware,Printer won't print / shows offline,Y,13.7
+KB-01066,6,Hardware,Printer won't print / shows offline,Y,8.6
+KB-01067,6,Hardware,Printer won't print / shows offline,Y,11.3
+KB-01068,6,Hardware,Printer won't print / shows offline,Y,13.3
+KB-01069,6,Hardware,Printer won't print / shows offline,Y,14.7
+KB-01070,6,Hardware,Printer won't print / shows offline,Y,9.2
+KB-01071,6,Hardware,Printer won't print / shows offline,Y,10.3
+KB-01072,6,Hardware,Printer won't print / shows offline,Y,14.9
+KB-01073,6,Hardware,Printer won't print / shows offline,Y,17.6
+KB-01074,6,Hardware,Printer won't print / shows offline,Y,15.2
+KB-01075,6,Hardware,Printer won't print / shows offline,Y,7.9
+KB-01076,6,Hardware,Printer won't print / shows offline,Y,12.2
+KB-01077,6,Hardware,Printer won't print / shows offline,Y,10.2
+KB-01078,6,Hardware,Printer won't print / shows offline,Y,10.8
+KB-01079,6,Hardware,Printer won't print / shows offline,Y,9.2
+KB-01080,6,Hardware,Printer won't print / shows offline,Y,9.7
+KB-01081,6,Hardware,Printer won't print / shows offline,Y,11.0
+KB-01082,6,Hardware,Printer won't print / shows offline,Y,16.0
+KB-01083,6,Hardware,Printer won't print / shows offline,Y,12.9
+KB-01084,6,Hardware,Printer won't print / shows offline,Y,12.2
+KB-01085,1,Hardware,Monitor / dock not detected,N,13.0
+KB-01086,1,Hardware,Monitor / dock not detected,N,15.1
+KB-01087,1,Hardware,Monitor / dock not detected,N,21.0
+KB-01088,1,Hardware,Monitor / dock not detected,N,19.3
+KB-01089,1,Hardware,Monitor / dock not detected,N,23.9
+KB-01090,1,Hardware,Monitor / dock not detected,N,17.0
+KB-01091,1,Hardware,Monitor / dock not detected,N,15.9
+KB-01092,1,Hardware,Monitor / dock not detected,N,9.5
+KB-01093,1,Hardware,Monitor / dock not detected,N,17.6
+KB-01094,1,Hardware,Monitor / dock not detected,N,9.1
+KB-01095,1,Hardware,Monitor / dock not detected,N,22.1
+KB-01096,1,Hardware,Monitor / dock not detected,N,13.5
+KB-01097,2,Hardware,Monitor / dock not detected,N,10.6
+KB-01098,2,Hardware,Monitor / dock not detected,N,14.0
+KB-01099,2,Hardware,Monitor / dock not detected,N,12.3
+KB-01100,2,Hardware,Monitor / dock not detected,N,20.5
+KB-01101,2,Hardware,Monitor / dock not detected,N,17.0
+KB-01102,2,Hardware,Monitor / dock not detected,N,11.3
+KB-01103,2,Hardware,Monitor / dock not detected,N,8.3
+KB-01104,2,Hardware,Monitor / dock not detected,N,15.7
+KB-01105,2,Hardware,Monitor / dock not detected,N,14.1
+KB-01106,2,Hardware,Monitor / dock not detected,N,11.6
+KB-01107,2,Hardware,Monitor / dock not detected,N,18.4
+KB-01108,2,Hardware,Monitor / dock not detected,N,15.3
+KB-01109,3,Hardware,Monitor / dock not detected,N,13.6
+KB-01110,3,Hardware,Monitor / dock not detected,N,13.7
+KB-01111,3,Hardware,Monitor / dock not detected,N,14.2
+KB-01112,3,Hardware,Monitor / dock not detected,N,9.6
+KB-01113,3,Hardware,Monitor / dock not detected,N,18.5
+KB-01114,3,Hardware,Monitor / dock not detected,N,17.6
+KB-01115,3,Hardware,Monitor / dock not detected,N,9.1
+KB-01116,3,Hardware,Monitor / dock not detected,N,16.4
+KB-01117,3,Hardware,Monitor / dock not detected,N,20.6
+KB-01118,3,Hardware,Monitor / dock not detected,N,16.9
+KB-01119,3,Hardware,Monitor / dock not detected,N,21.2
+KB-01120,3,Hardware,Monitor / dock not detected,N,14.9
+KB-01121,4,Hardware,Monitor / dock not detected,N,10.8
+KB-01122,4,Hardware,Monitor / dock not detected,N,12.4
+KB-01123,4,Hardware,Monitor / dock not detected,N,8.7
+KB-01124,4,Hardware,Monitor / dock not detected,N,12.4
+KB-01125,4,Hardware,Monitor / dock not detected,N,17.0
+KB-01126,4,Hardware,Monitor / dock not detected,N,18.1
+KB-01127,4,Hardware,Monitor / dock not detected,N,20.7
+KB-01128,4,Hardware,Monitor / dock not detected,N,16.5
+KB-01129,4,Hardware,Monitor / dock not detected,N,12.0
+KB-01130,4,Hardware,Monitor / dock not detected,N,17.7
+KB-01131,4,Hardware,Monitor / dock not detected,N,15.4
+KB-01132,4,Hardware,Monitor / dock not detected,N,23.1
+KB-01133,5,Hardware,Monitor / dock not detected,N,19.8
+KB-01134,5,Hardware,Monitor / dock not detected,N,11.5
+KB-01135,5,Hardware,Monitor / dock not detected,N,13.9
+KB-01136,5,Hardware,Monitor / dock not detected,N,16.8
+KB-01137,5,Hardware,Monitor / dock not detected,N,13.2
+KB-01138,5,Hardware,Monitor / dock not detected,N,18.1
+KB-01139,5,Hardware,Monitor / dock not detected,N,18.7
+KB-01140,5,Hardware,Monitor / dock not detected,N,19.4
+KB-01141,5,Hardware,Monitor / dock not detected,N,16.9
+KB-01142,5,Hardware,Monitor / dock not detected,N,12.5
+KB-01143,5,Hardware,Monitor / dock not detected,N,12.6
+KB-01144,5,Hardware,Monitor / dock not detected,N,15.5
+KB-01145,5,Hardware,Monitor / dock not detected,N,21.3
+KB-01146,5,Hardware,Monitor / dock not detected,N,22.3
+KB-01147,5,Hardware,Monitor / dock not detected,N,19.9
+KB-01148,5,Hardware,Monitor / dock not detected,N,17.5
+KB-01149,6,Hardware,Monitor / dock not detected,N,19.3
+KB-01150,6,Hardware,Monitor / dock not detected,N,21.2
+KB-01151,6,Hardware,Monitor / dock not detected,N,19.4
+KB-01152,6,Hardware,Monitor / dock not detected,N,9.9
+KB-01153,6,Hardware,Monitor / dock not detected,N,19.8
+KB-01154,6,Hardware,Monitor / dock not detected,N,17.5
+KB-01155,6,Hardware,Monitor / dock not detected,N,14.2
+KB-01156,6,Hardware,Monitor / dock not detected,N,18.1
+KB-01157,6,Hardware,Monitor / dock not detected,N,17.2
+KB-01158,6,Hardware,Monitor / dock not detected,N,15.8
+KB-01159,6,Hardware,Monitor / dock not detected,N,9.2
+KB-01160,6,Hardware,Monitor / dock not detected,N,16.4
+KB-01161,6,Hardware,Monitor / dock not detected,N,18.2
+KB-01162,1,Software Install,Standard software request (pre-approved list),Y,4.2
+KB-01163,1,Software Install,Standard software request (pre-approved list),Y,7.8
+KB-01164,1,Software Install,Standard software request (pre-approved list),Y,8.3
+KB-01165,1,Software Install,Standard software request (pre-approved list),Y,7.3
+KB-01166,1,Software Install,Standard software request (pre-approved list),Y,7.7
+KB-01167,1,Software Install,Standard software request (pre-approved list),Y,6.4
+KB-01168,1,Software Install,Standard software request (pre-approved list),Y,5.8
+KB-01169,1,Software Install,Standard software request (pre-approved list),Y,7.9
+KB-01170,1,Software Install,Standard software request (pre-approved list),Y,6.4
+KB-01171,1,Software Install,Standard software request (pre-approved list),Y,7.3
+KB-01172,1,Software Install,Standard software request (pre-approved list),Y,12.7
+KB-01173,1,Software Install,Standard software request (pre-approved list),Y,8.2
+KB-01174,1,Software Install,Standard software request (pre-approved list),Y,7.2
+KB-01175,1,Software Install,Standard software request (pre-approved list),Y,4.2
+KB-01176,1,Software Install,Standard software request (pre-approved list),Y,7.2
+KB-01177,1,Software Install,Standard software request (pre-approved list),Y,8.3
+KB-01178,1,Software Install,Standard software request (pre-approved list),Y,5.8
+KB-01179,1,Software Install,Standard software request (pre-approved list),Y,6.6
+KB-01180,1,Software Install,Standard software request (pre-approved list),Y,3.1
+KB-01181,1,Software Install,Standard software request (pre-approved list),Y,8.0
+KB-01182,1,Software Install,Standard software request (pre-approved list),Y,6.0
+KB-01183,1,Software Install,Standard software request (pre-approved list),Y,8.2
+KB-01184,1,Software Install,Standard software request (pre-approved list),Y,9.4
+KB-01185,1,Software Install,Standard software request (pre-approved list),Y,6.7
+KB-01186,1,Software Install,Standard software request (pre-approved list),Y,8.7
+KB-01187,1,Software Install,Standard software request (pre-approved list),Y,7.4
+KB-01188,1,Software Install,Standard software request (pre-approved list),Y,6.6
+KB-01189,2,Software Install,Standard software request (pre-approved list),Y,5.5
+KB-01190,2,Software Install,Standard software request (pre-approved list),Y,9.2
+KB-01191,2,Software Install,Standard software request (pre-approved list),Y,8.5
+KB-01192,2,Software Install,Standard software request (pre-approved list),Y,5.2
+KB-01193,2,Software Install,Standard software request (pre-approved list),Y,8.5
+KB-01194,2,Software Install,Standard software request (pre-approved list),Y,5.7
+KB-01195,2,Software Install,Standard software request (pre-approved list),Y,4.4
+KB-01196,2,Software Install,Standard software request (pre-approved list),Y,9.1
+KB-01197,2,Software Install,Standard software request (pre-approved list),Y,4.8
+KB-01198,2,Software Install,Standard software request (pre-approved list),Y,9.1
+KB-01199,2,Software Install,Standard software request (pre-approved list),Y,7.3
+KB-01200,2,Software Install,Standard software request (pre-approved list),Y,8.6
+KB-01201,2,Software Install,Standard software request (pre-approved list),Y,7.9
+KB-01202,2,Software Install,Standard software request (pre-approved list),Y,9.0
+KB-01203,2,Software Install,Standard software request (pre-approved list),Y,7.6
+KB-01204,2,Software Install,Standard software request (pre-approved list),Y,8.0
+KB-01205,2,Software Install,Standard software request (pre-approved list),Y,7.4
+KB-01206,2,Software Install,Standard software request (pre-approved list),Y,8.9
+KB-01207,2,Software Install,Standard software request (pre-approved list),Y,6.3
+KB-01208,2,Software Install,Standard software request (pre-approved list),Y,8.8
+KB-01209,2,Software Install,Standard software request (pre-approved list),Y,9.6
+KB-01210,2,Software Install,Standard software request (pre-approved list),Y,6.9
+KB-01211,2,Software Install,Standard software request (pre-approved list),Y,7.8
+KB-01212,2,Software Install,Standard software request (pre-approved list),Y,6.1
+KB-01213,2,Software Install,Standard software request (pre-approved list),Y,6.5
+KB-01214,2,Software Install,Standard software request (pre-approved list),Y,7.5
+KB-01215,3,Software Install,Standard software request (pre-approved list),Y,5.5
+KB-01216,3,Software Install,Standard software request (pre-approved list),Y,6.9
+KB-01217,3,Software Install,Standard software request (pre-approved list),Y,7.3
+KB-01218,3,Software Install,Standard software request (pre-approved list),Y,7.6
+KB-01219,3,Software Install,Standard software request (pre-approved list),Y,8.2
+KB-01220,3,Software Install,Standard software request (pre-approved list),Y,3.9
+KB-01221,3,Software Install,Standard software request (pre-approved list),Y,9.5
+KB-01222,3,Software Install,Standard software request (pre-approved list),Y,6.7
+KB-01223,3,Software Install,Standard software request (pre-approved list),Y,5.6
+KB-01224,3,Software Install,Standard software request (pre-approved list),Y,6.4
+KB-01225,3,Software Install,Standard software request (pre-approved list),Y,7.8
+KB-01226,3,Software Install,Standard software request (pre-approved list),Y,8.5
+KB-01227,3,Software Install,Standard software request (pre-approved list),Y,6.4
+KB-01228,3,Software Install,Standard software request (pre-approved list),Y,7.3
+KB-01229,3,Software Install,Standard software request (pre-approved list),Y,4.2
+KB-01230,3,Software Install,Standard software request (pre-approved list),Y,7.3
+KB-01231,3,Software Install,Standard software request (pre-approved list),Y,6.8
+KB-01232,3,Software Install,Standard software request (pre-approved list),Y,6.2
+KB-01233,3,Software Install,Standard software request (pre-approved list),Y,8.6
+KB-01234,3,Software Install,Standard software request (pre-approved list),Y,10.1
+KB-01235,3,Software Install,Standard software request (pre-approved list),Y,8.8
+KB-01236,3,Software Install,Standard software request (pre-approved list),Y,5.6
+KB-01237,3,Software Install,Standard software request (pre-approved list),Y,9.7
+KB-01238,3,Software Install,Standard software request (pre-approved list),Y,6.4
+KB-01239,3,Software Install,Standard software request (pre-approved list),Y,6.9
+KB-01240,4,Software Install,Standard software request (pre-approved list),Y,7.8
+KB-01241,4,Software Install,Standard software request (pre-approved list),Y,8.0
+KB-01242,4,Software Install,Standard software request (pre-approved list),Y,7.3
+KB-01243,4,Software Install,Standard software request (pre-approved list),Y,6.6
+KB-01244,4,Software Install,Standard software request (pre-approved list),Y,6.7
+KB-01245,4,Software Install,Standard software request (pre-approved list),Y,6.3
+KB-01246,4,Software Install,Standard software request (pre-approved list),Y,8.7
+KB-01247,4,Software Install,Standard software request (pre-approved list),Y,6.1
+KB-01248,4,Software Install,Standard software request (pre-approved list),Y,6.7
+KB-01249,4,Software Install,Standard software request (pre-approved list),Y,6.6
+KB-01250,4,Software Install,Standard software request (pre-approved list),Y,5.7
+KB-01251,4,Software Install,Standard software request (pre-approved list),Y,6.6
+KB-01252,4,Software Install,Standard software request (pre-approved list),Y,4.4
+KB-01253,4,Software Install,Standard software request (pre-approved list),Y,7.7
+KB-01254,4,Software Install,Standard software request (pre-approved list),Y,7.9
+KB-01255,4,Software Install,Standard software request (pre-approved list),Y,6.5
+KB-01256,4,Software Install,Standard software request (pre-approved list),Y,9.7
+KB-01257,4,Software Install,Standard software request (pre-approved list),Y,5.6
+KB-01258,4,Software Install,Standard software request (pre-approved list),Y,8.0
+KB-01259,4,Software Install,Standard software request (pre-approved list),Y,7.8
+KB-01260,4,Software Install,Standard software request (pre-approved list),Y,6.1
+KB-01261,4,Software Install,Standard software request (pre-approved list),Y,6.6
+KB-01262,4,Software Install,Standard software request (pre-approved list),Y,8.6
+KB-01263,4,Software Install,Standard software request (pre-approved list),Y,7.1
+KB-01264,5,Software Install,Standard software request (pre-approved list),Y,9.4
+KB-01265,5,Software Install,Standard software request (pre-approved list),Y,7.4
+KB-01266,5,Software Install,Standard software request (pre-approved list),Y,4.1
+KB-01267,5,Software Install,Standard software request (pre-approved list),Y,5.7
+KB-01268,5,Software Install,Standard software request (pre-approved list),Y,8.5
+KB-01269,5,Software Install,Standard software request (pre-approved list),Y,6.8
+KB-01270,5,Software Install,Standard software request (pre-approved list),Y,5.1
+KB-01271,5,Software Install,Standard software request (pre-approved list),Y,3.6
+KB-01272,5,Software Install,Standard software request (pre-approved list),Y,7.6
+KB-01273,5,Software Install,Standard software request (pre-approved list),Y,9.6
+KB-01274,5,Software Install,Standard software request (pre-approved list),Y,4.8
+KB-01275,5,Software Install,Standard software request (pre-approved list),Y,3.2
+KB-01276,5,Software Install,Standard software request (pre-approved list),Y,7.9
+KB-01277,5,Software Install,Standard software request (pre-approved list),Y,6.1
+KB-01278,5,Software Install,Standard software request (pre-approved list),Y,6.5
+KB-01279,5,Software Install,Standard software request (pre-approved list),Y,6.4
+KB-01280,5,Software Install,Standard software request (pre-approved list),Y,5.4
+KB-01281,5,Software Install,Standard software request (pre-approved list),Y,7.8
+KB-01282,5,Software Install,Standard software request (pre-approved list),Y,8.6
+KB-01283,5,Software Install,Standard software request (pre-approved list),Y,7.6
+KB-01284,5,Software Install,Standard software request (pre-approved list),Y,6.0
+KB-01285,5,Software Install,Standard software request (pre-approved list),Y,8.8
+KB-01286,5,Software Install,Standard software request (pre-approved list),Y,6.8
+KB-01287,5,Software Install,Standard software request (pre-approved list),Y,8.0
+KB-01288,5,Software Install,Standard software request (pre-approved list),Y,5.4
+KB-01289,5,Software Install,Standard software request (pre-approved list),Y,8.1
+KB-01290,5,Software Install,Standard software request (pre-approved list),Y,8.3
+KB-01291,5,Software Install,Standard software request (pre-approved list),Y,9.2
+KB-01292,6,Software Install,Standard software request (pre-approved list),Y,7.8
+KB-01293,6,Software Install,Standard software request (pre-approved list),Y,6.0
+KB-01294,6,Software Install,Standard software request (pre-approved list),Y,8.5
+KB-01295,6,Software Install,Standard software request (pre-approved list),Y,8.4
+KB-01296,6,Software Install,Standard software request (pre-approved list),Y,8.9
+KB-01297,6,Software Install,Standard software request (pre-approved list),Y,6.3
+KB-01298,6,Software Install,Standard software request (pre-approved list),Y,4.9
+KB-01299,6,Software Install,Standard software request (pre-approved list),Y,6.9
+KB-01300,6,Software Install,Standard software request (pre-approved list),Y,6.6
+KB-01301,6,Software Install,Standard software request (pre-approved list),Y,5.7
+KB-01302,6,Software Install,Standard software request (pre-approved list),Y,8.1
+KB-01303,6,Software Install,Standard software request (pre-approved list),Y,8.6
+KB-01304,6,Software Install,Standard software request (pre-approved list),Y,7.7
+KB-01305,6,Software Install,Standard software request (pre-approved list),Y,8.9
+KB-01306,6,Software Install,Standard software request (pre-approved list),Y,7.7
+KB-01307,6,Software Install,Standard software request (pre-approved list),Y,5.3
+KB-01308,6,Software Install,Standard software request (pre-approved list),Y,6.0
+KB-01309,6,Software Install,Standard software request (pre-approved list),Y,6.4
+KB-01310,6,Software Install,Standard software request (pre-approved list),Y,8.2
+KB-01311,6,Software Install,Standard software request (pre-approved list),Y,8.6
+KB-01312,6,Software Install,Standard software request (pre-approved list),Y,7.2
+KB-01313,6,Software Install,Standard software request (pre-approved list),Y,8.8
+KB-01314,6,Software Install,Standard software request (pre-approved list),Y,5.6
+KB-01315,6,Software Install,Standard software request (pre-approved list),Y,6.8
+KB-01316,6,Software Install,Standard software request (pre-approved list),Y,9.6
+KB-01317,6,Software Install,Standard software request (pre-approved list),Y,7.8
+KB-01318,6,Software Install,Standard software request (pre-approved list),Y,8.8
+KB-01319,1,Software Install,Non-standard software request (needs approval),N,12.9
+KB-01320,1,Software Install,Non-standard software request (needs approval),N,17.3
+KB-01321,1,Software Install,Non-standard software request (needs approval),N,27.5
+KB-01322,1,Software Install,Non-standard software request (needs approval),N,30.8
+KB-01323,1,Software Install,Non-standard software request (needs approval),N,18.7
+KB-01324,2,Software Install,Non-standard software request (needs approval),N,16.5
+KB-01325,2,Software Install,Non-standard software request (needs approval),N,17.2
+KB-01326,2,Software Install,Non-standard software request (needs approval),N,25.0
+KB-01327,2,Software Install,Non-standard software request (needs approval),N,20.3
+KB-01328,2,Software Install,Non-standard software request (needs approval),N,32.2
+KB-01329,2,Software Install,Non-standard software request (needs approval),N,25.9
+KB-01330,2,Software Install,Non-standard software request (needs approval),N,18.3
+KB-01331,3,Software Install,Non-standard software request (needs approval),N,21.2
+KB-01332,3,Software Install,Non-standard software request (needs approval),N,26.3
+KB-01333,3,Software Install,Non-standard software request (needs approval),N,26.9
+KB-01334,3,Software Install,Non-standard software request (needs approval),N,20.1
+KB-01335,3,Software Install,Non-standard software request (needs approval),N,26.9
+KB-01336,3,Software Install,Non-standard software request (needs approval),N,25.1
+KB-01337,3,Software Install,Non-standard software request (needs approval),N,21.5
+KB-01338,3,Software Install,Non-standard software request (needs approval),N,23.4
+KB-01339,4,Software Install,Non-standard software request (needs approval),N,20.3
+KB-01340,4,Software Install,Non-standard software request (needs approval),N,18.4
+KB-01341,4,Software Install,Non-standard software request (needs approval),N,28.9
+KB-01342,4,Software Install,Non-standard software request (needs approval),N,22.0
+KB-01343,4,Software Install,Non-standard software request (needs approval),N,18.8
+KB-01344,4,Software Install,Non-standard software request (needs approval),N,24.5
+KB-01345,4,Software Install,Non-standard software request (needs approval),N,14.0
+KB-01346,4,Software Install,Non-standard software request (needs approval),N,22.3
+KB-01347,4,Software Install,Non-standard software request (needs approval),N,14.7
+KB-01348,5,Software Install,Non-standard software request (needs approval),N,12.4
+KB-01349,5,Software Install,Non-standard software request (needs approval),N,18.1
+KB-01350,5,Software Install,Non-standard software request (needs approval),N,26.9
+KB-01351,5,Software Install,Non-standard software request (needs approval),N,21.0
+KB-01352,5,Software Install,Non-standard software request (needs approval),N,15.5
+KB-01353,5,Software Install,Non-standard software request (needs approval),N,31.4
+KB-01354,5,Software Install,Non-standard software request (needs approval),N,18.6
+KB-01355,6,Software Install,Non-standard software request (needs approval),N,19.2
+KB-01356,6,Software Install,Non-standard software request (needs approval),N,14.1
+KB-01357,6,Software Install,Non-standard software request (needs approval),N,32.0
+KB-01358,6,Software Install,Non-standard software request (needs approval),N,19.7
+KB-01359,6,Software Install,Non-standard software request (needs approval),N,26.1
+KB-01360,6,Software Install,Non-standard software request (needs approval),N,28.5
+KB-01361,6,Software Install,Non-standard software request (needs approval),N,14.9
+KB-01362,6,Software Install,Non-standard software request (needs approval),N,22.4
+KB-01363,6,Software Install,Non-standard software request (needs approval),N,18.9
+KB-01364,6,Software Install,Non-standard software request (needs approval),N,25.3
+KB-01365,1,Network & VPN,Can't connect to office VPN,Y,9.3
+KB-01366,1,Network & VPN,Can't connect to office VPN,Y,13.7
+KB-01367,1,Network & VPN,Can't connect to office VPN,Y,16.0
+KB-01368,1,Network & VPN,Can't connect to office VPN,Y,12.5
+KB-01369,1,Network & VPN,Can't connect to office VPN,Y,15.4
+KB-01370,1,Network & VPN,Can't connect to office VPN,Y,11.8
+KB-01371,1,Network & VPN,Can't connect to office VPN,Y,13.3
+KB-01372,1,Network & VPN,Can't connect to office VPN,Y,14.7
+KB-01373,1,Network & VPN,Can't connect to office VPN,Y,14.0
+KB-01374,1,Network & VPN,Can't connect to office VPN,Y,17.7
+KB-01375,1,Network & VPN,Can't connect to office VPN,Y,16.7
+KB-01376,1,Network & VPN,Can't connect to office VPN,Y,16.3
+KB-01377,1,Network & VPN,Can't connect to office VPN,Y,15.9
+KB-01378,1,Network & VPN,Can't connect to office VPN,Y,14.0
+KB-01379,1,Network & VPN,Can't connect to office VPN,Y,9.7
+KB-01380,1,Network & VPN,Can't connect to office VPN,Y,17.0
+KB-01381,1,Network & VPN,Can't connect to office VPN,Y,19.3
+KB-01382,1,Network & VPN,Can't connect to office VPN,Y,14.3
+KB-01383,1,Network & VPN,Can't connect to office VPN,Y,12.7
+KB-01384,1,Network & VPN,Can't connect to office VPN,Y,13.4
+KB-01385,1,Network & VPN,Can't connect to office VPN,Y,17.5
+KB-01386,1,Network & VPN,Can't connect to office VPN,Y,14.5
+KB-01387,1,Network & VPN,Can't connect to office VPN,Y,10.3
+KB-01388,1,Network & VPN,Can't connect to office VPN,Y,13.0
+KB-01389,1,Network & VPN,Can't connect to office VPN,Y,11.0
+KB-01390,1,Network & VPN,Can't connect to office VPN,Y,12.9
+KB-01391,1,Network & VPN,Can't connect to office VPN,Y,10.6
+KB-01392,1,Network & VPN,Can't connect to office VPN,Y,10.6
+KB-01393,1,Network & VPN,Can't connect to office VPN,Y,18.4
+KB-01394,1,Network & VPN,Can't connect to office VPN,Y,17.0
+KB-01395,1,Network & VPN,Can't connect to office VPN,Y,8.2
+KB-01396,1,Network & VPN,Can't connect to office VPN,Y,10.3
+KB-01397,1,Network & VPN,Can't connect to office VPN,Y,12.0
+KB-01398,1,Network & VPN,Can't connect to office VPN,Y,12.2
+KB-01399,1,Network & VPN,Can't connect to office VPN,Y,9.0
+KB-01400,1,Network & VPN,Can't connect to office VPN,Y,16.5
+KB-01401,1,Network & VPN,Can't connect to office VPN,Y,8.2
+KB-01402,1,Network & VPN,Can't connect to office VPN,Y,15.8
+KB-01403,1,Network & VPN,Can't connect to office VPN,Y,15.8
+KB-01404,1,Network & VPN,Can't connect to office VPN,Y,12.3
+KB-01405,1,Network & VPN,Can't connect to office VPN,Y,11.4
+KB-01406,1,Network & VPN,Can't connect to office VPN,Y,13.7
+KB-01407,1,Network & VPN,Can't connect to office VPN,Y,14.0
+KB-01408,1,Network & VPN,Can't connect to office VPN,Y,6.6
+KB-01409,2,Network & VPN,Can't connect to office VPN,Y,15.3
+KB-01410,2,Network & VPN,Can't connect to office VPN,Y,13.2
+KB-01411,2,Network & VPN,Can't connect to office VPN,Y,12.2
+KB-01412,2,Network & VPN,Can't connect to office VPN,Y,10.2
+KB-01413,2,Network & VPN,Can't connect to office VPN,Y,11.2
+KB-01414,2,Network & VPN,Can't connect to office VPN,Y,11.0
+KB-01415,2,Network & VPN,Can't connect to office VPN,Y,22.7
+KB-01416,2,Network & VPN,Can't connect to office VPN,Y,9.4
+KB-01417,2,Network & VPN,Can't connect to office VPN,Y,18.6
+KB-01418,2,Network & VPN,Can't connect to office VPN,Y,15.1
+KB-01419,2,Network & VPN,Can't connect to office VPN,Y,14.2
+KB-01420,2,Network & VPN,Can't connect to office VPN,Y,14.2
+KB-01421,2,Network & VPN,Can't connect to office VPN,Y,12.3
+KB-01422,2,Network & VPN,Can't connect to office VPN,Y,18.8
+KB-01423,2,Network & VPN,Can't connect to office VPN,Y,15.2
+KB-01424,2,Network & VPN,Can't connect to office VPN,Y,13.4
+KB-01425,2,Network & VPN,Can't connect to office VPN,Y,13.1
+KB-01426,2,Network & VPN,Can't connect to office VPN,Y,14.2
+KB-01427,2,Network & VPN,Can't connect to office VPN,Y,9.8
+KB-01428,2,Network & VPN,Can't connect to office VPN,Y,12.5
+KB-01429,2,Network & VPN,Can't connect to office VPN,Y,11.5
+KB-01430,2,Network & VPN,Can't connect to office VPN,Y,15.6
+KB-01431,2,Network & VPN,Can't connect to office VPN,Y,15.5
+KB-01432,2,Network & VPN,Can't connect to office VPN,Y,7.4
+KB-01433,2,Network & VPN,Can't connect to office VPN,Y,12.8
+KB-01434,2,Network & VPN,Can't connect to office VPN,Y,16.8
+KB-01435,2,Network & VPN,Can't connect to office VPN,Y,9.3
+KB-01436,2,Network & VPN,Can't connect to office VPN,Y,9.6
+KB-01437,2,Network & VPN,Can't connect to office VPN,Y,16.8
+KB-01438,2,Network & VPN,Can't connect to office VPN,Y,13.1
+KB-01439,2,Network & VPN,Can't connect to office VPN,Y,12.0
+KB-01440,2,Network & VPN,Can't connect to office VPN,Y,9.5
+KB-01441,2,Network & VPN,Can't connect to office VPN,Y,14.1
+KB-01442,2,Network & VPN,Can't connect to office VPN,Y,11.7
+KB-01443,3,Network & VPN,Can't connect to office VPN,Y,14.9
+KB-01444,3,Network & VPN,Can't connect to office VPN,Y,15.8
+KB-01445,3,Network & VPN,Can't connect to office VPN,Y,12.5
+KB-01446,3,Network & VPN,Can't connect to office VPN,Y,11.8
+KB-01447,3,Network & VPN,Can't connect to office VPN,Y,13.6
+KB-01448,3,Network & VPN,Can't connect to office VPN,Y,13.2
+KB-01449,3,Network & VPN,Can't connect to office VPN,Y,14.1
+KB-01450,3,Network & VPN,Can't connect to office VPN,Y,11.8
+KB-01451,3,Network & VPN,Can't connect to office VPN,Y,12.7
+KB-01452,3,Network & VPN,Can't connect to office VPN,Y,11.6
+KB-01453,3,Network & VPN,Can't connect to office VPN,Y,11.6
+KB-01454,3,Network & VPN,Can't connect to office VPN,Y,14.0
+KB-01455,3,Network & VPN,Can't connect to office VPN,Y,17.3
+KB-01456,3,Network & VPN,Can't connect to office VPN,Y,11.8
+KB-01457,3,Network & VPN,Can't connect to office VPN,Y,15.5
+KB-01458,3,Network & VPN,Can't connect to office VPN,Y,14.7
+KB-01459,3,Network & VPN,Can't connect to office VPN,Y,13.9
+KB-01460,3,Network & VPN,Can't connect to office VPN,Y,15.8
+KB-01461,3,Network & VPN,Can't connect to office VPN,Y,11.7
+KB-01462,3,Network & VPN,Can't connect to office VPN,Y,15.4
+KB-01463,3,Network & VPN,Can't connect to office VPN,Y,14.5
+KB-01464,3,Network & VPN,Can't connect to office VPN,Y,2.0
+KB-01465,3,Network & VPN,Can't connect to office VPN,Y,14.7
+KB-01466,3,Network & VPN,Can't connect to office VPN,Y,15.5
+KB-01467,3,Network & VPN,Can't connect to office VPN,Y,20.0
+KB-01468,3,Network & VPN,Can't connect to office VPN,Y,10.0
+KB-01469,3,Network & VPN,Can't connect to office VPN,Y,13.8
+KB-01470,3,Network & VPN,Can't connect to office VPN,Y,14.7
+KB-01471,3,Network & VPN,Can't connect to office VPN,Y,10.3
+KB-01472,3,Network & VPN,Can't connect to office VPN,Y,17.5
+KB-01473,3,Network & VPN,Can't connect to office VPN,Y,15.0
+KB-01474,3,Network & VPN,Can't connect to office VPN,Y,10.9
+KB-01475,3,Network & VPN,Can't connect to office VPN,Y,9.6
+KB-01476,3,Network & VPN,Can't connect to office VPN,Y,12.1
+KB-01477,3,Network & VPN,Can't connect to office VPN,Y,21.4
+KB-01478,3,Network & VPN,Can't connect to office VPN,Y,20.7
+KB-01479,3,Network & VPN,Can't connect to office VPN,Y,5.3
+KB-01480,3,Network & VPN,Can't connect to office VPN,Y,7.5
+KB-01481,3,Network & VPN,Can't connect to office VPN,Y,15.7
+KB-01482,3,Network & VPN,Can't connect to office VPN,Y,13.2
+KB-01483,3,Network & VPN,Can't connect to office VPN,Y,11.4
+KB-01484,3,Network & VPN,Can't connect to office VPN,Y,15.5
+KB-01485,3,Network & VPN,Can't connect to office VPN,Y,13.8
+KB-01486,3,Network & VPN,Can't connect to office VPN,Y,14.5
+KB-01487,3,Network & VPN,Can't connect to office VPN,Y,14.4
+KB-01488,3,Network & VPN,Can't connect to office VPN,Y,9.9
+KB-01489,4,Network & VPN,Can't connect to office VPN,Y,12.0
+KB-01490,4,Network & VPN,Can't connect to office VPN,Y,17.3
+KB-01491,4,Network & VPN,Can't connect to office VPN,Y,15.8
+KB-01492,4,Network & VPN,Can't connect to office VPN,Y,13.7
+KB-01493,4,Network & VPN,Can't connect to office VPN,Y,14.0
+KB-01494,4,Network & VPN,Can't connect to office VPN,Y,13.4
+KB-01495,4,Network & VPN,Can't connect to office VPN,Y,7.4
+KB-01496,4,Network & VPN,Can't connect to office VPN,Y,12.5
+KB-01497,4,Network & VPN,Can't connect to office VPN,Y,14.9
+KB-01498,4,Network & VPN,Can't connect to office VPN,Y,8.2
+KB-01499,4,Network & VPN,Can't connect to office VPN,Y,8.6
+KB-01500,4,Network & VPN,Can't connect to office VPN,Y,17.1
+KB-01501,4,Network & VPN,Can't connect to office VPN,Y,16.2
+KB-01502,4,Network & VPN,Can't connect to office VPN,Y,8.4
+KB-01503,4,Network & VPN,Can't connect to office VPN,Y,15.1
+KB-01504,4,Network & VPN,Can't connect to office VPN,Y,13.4
+KB-01505,4,Network & VPN,Can't connect to office VPN,Y,16.8
+KB-01506,4,Network & VPN,Can't connect to office VPN,Y,12.4
+KB-01507,4,Network & VPN,Can't connect to office VPN,Y,12.8
+KB-01508,4,Network & VPN,Can't connect to office VPN,Y,11.0
+KB-01509,4,Network & VPN,Can't connect to office VPN,Y,14.1
+KB-01510,4,Network & VPN,Can't connect to office VPN,Y,13.1
+KB-01511,4,Network & VPN,Can't connect to office VPN,Y,11.4
+KB-01512,4,Network & VPN,Can't connect to office VPN,Y,12.4
+KB-01513,4,Network & VPN,Can't connect to office VPN,Y,11.0
+KB-01514,4,Network & VPN,Can't connect to office VPN,Y,15.6
+KB-01515,4,Network & VPN,Can't connect to office VPN,Y,10.1
+KB-01516,4,Network & VPN,Can't connect to office VPN,Y,8.4
+KB-01517,4,Network & VPN,Can't connect to office VPN,Y,10.3
+KB-01518,4,Network & VPN,Can't connect to office VPN,Y,17.1
+KB-01519,4,Network & VPN,Can't connect to office VPN,Y,11.8
+KB-01520,4,Network & VPN,Can't connect to office VPN,Y,15.7
+KB-01521,4,Network & VPN,Can't connect to office VPN,Y,16.0
+KB-01522,4,Network & VPN,Can't connect to office VPN,Y,11.8
+KB-01523,4,Network & VPN,Can't connect to office VPN,Y,16.0
+KB-01524,4,Network & VPN,Can't connect to office VPN,Y,15.2
+KB-01525,4,Network & VPN,Can't connect to office VPN,Y,13.4
+KB-01526,4,Network & VPN,Can't connect to office VPN,Y,11.2
+KB-01527,4,Network & VPN,Can't connect to office VPN,Y,13.3
+KB-01528,4,Network & VPN,Can't connect to office VPN,Y,9.3
+KB-01529,4,Network & VPN,Can't connect to office VPN,Y,12.6
+KB-01530,4,Network & VPN,Can't connect to office VPN,Y,11.6
+KB-01531,4,Network & VPN,Can't connect to office VPN,Y,15.0
+KB-01532,4,Network & VPN,Can't connect to office VPN,Y,14.7
+KB-01533,4,Network & VPN,Can't connect to office VPN,Y,11.4
+KB-01534,4,Network & VPN,Can't connect to office VPN,Y,16.4
+KB-01535,4,Network & VPN,Can't connect to office VPN,Y,17.5
+KB-01536,4,Network & VPN,Can't connect to office VPN,Y,13.7
+KB-01537,4,Network & VPN,Can't connect to office VPN,Y,11.1
+KB-01538,4,Network & VPN,Can't connect to office VPN,Y,15.2
+KB-01539,4,Network & VPN,Can't connect to office VPN,Y,5.4
+KB-01540,4,Network & VPN,Can't connect to office VPN,Y,11.6
+KB-01541,4,Network & VPN,Can't connect to office VPN,Y,15.5
+KB-01542,4,Network & VPN,Can't connect to office VPN,Y,20.2
+KB-01543,5,Network & VPN,Can't connect to office VPN,Y,18.6
+KB-01544,5,Network & VPN,Can't connect to office VPN,Y,21.3
+KB-01545,5,Network & VPN,Can't connect to office VPN,Y,19.8
+KB-01546,5,Network & VPN,Can't connect to office VPN,Y,5.7
+KB-01547,5,Network & VPN,Can't connect to office VPN,Y,17.2
+KB-01548,5,Network & VPN,Can't connect to office VPN,Y,14.2
+KB-01549,5,Network & VPN,Can't connect to office VPN,Y,16.9
+KB-01550,5,Network & VPN,Can't connect to office VPN,Y,12.9
+KB-01551,5,Network & VPN,Can't connect to office VPN,Y,11.5
+KB-01552,5,Network & VPN,Can't connect to office VPN,Y,12.8
+KB-01553,5,Network & VPN,Can't connect to office VPN,Y,18.5
+KB-01554,5,Network & VPN,Can't connect to office VPN,Y,16.3
+KB-01555,5,Network & VPN,Can't connect to office VPN,Y,12.5
+KB-01556,5,Network & VPN,Can't connect to office VPN,Y,14.8
+KB-01557,5,Network & VPN,Can't connect to office VPN,Y,16.4
+KB-01558,5,Network & VPN,Can't connect to office VPN,Y,15.4
+KB-01559,5,Network & VPN,Can't connect to office VPN,Y,13.4
+KB-01560,5,Network & VPN,Can't connect to office VPN,Y,11.3
+KB-01561,5,Network & VPN,Can't connect to office VPN,Y,11.0
+KB-01562,5,Network & VPN,Can't connect to office VPN,Y,12.1
+KB-01563,5,Network & VPN,Can't connect to office VPN,Y,11.7
+KB-01564,5,Network & VPN,Can't connect to office VPN,Y,8.2
+KB-01565,5,Network & VPN,Can't connect to office VPN,Y,8.8
+KB-01566,5,Network & VPN,Can't connect to office VPN,Y,16.4
+KB-01567,5,Network & VPN,Can't connect to office VPN,Y,9.8
+KB-01568,5,Network & VPN,Can't connect to office VPN,Y,9.1
+KB-01569,5,Network & VPN,Can't connect to office VPN,Y,13.4
+KB-01570,5,Network & VPN,Can't connect to office VPN,Y,18.3
+KB-01571,5,Network & VPN,Can't connect to office VPN,Y,17.7
+KB-01572,5,Network & VPN,Can't connect to office VPN,Y,12.1
+KB-01573,5,Network & VPN,Can't connect to office VPN,Y,10.1
+KB-01574,5,Network & VPN,Can't connect to office VPN,Y,11.7
+KB-01575,5,Network & VPN,Can't connect to office VPN,Y,10.5
+KB-01576,5,Network & VPN,Can't connect to office VPN,Y,11.7
+KB-01577,5,Network & VPN,Can't connect to office VPN,Y,15.1
+KB-01578,5,Network & VPN,Can't connect to office VPN,Y,9.9
+KB-01579,5,Network & VPN,Can't connect to office VPN,Y,10.9
+KB-01580,5,Network & VPN,Can't connect to office VPN,Y,12.6
+KB-01581,6,Network & VPN,Can't connect to office VPN,Y,10.9
+KB-01582,6,Network & VPN,Can't connect to office VPN,Y,10.9
+KB-01583,6,Network & VPN,Can't connect to office VPN,Y,9.7
+KB-01584,6,Network & VPN,Can't connect to office VPN,Y,11.0
+KB-01585,6,Network & VPN,Can't connect to office VPN,Y,15.3
+KB-01586,6,Network & VPN,Can't connect to office VPN,Y,12.7
+KB-01587,6,Network & VPN,Can't connect to office VPN,Y,3.1
+KB-01588,6,Network & VPN,Can't connect to office VPN,Y,15.6
+KB-01589,6,Network & VPN,Can't connect to office VPN,Y,13.3
+KB-01590,6,Network & VPN,Can't connect to office VPN,Y,10.6
+KB-01591,6,Network & VPN,Can't connect to office VPN,Y,12.7
+KB-01592,6,Network & VPN,Can't connect to office VPN,Y,3.4
+KB-01593,6,Network & VPN,Can't connect to office VPN,Y,8.0
+KB-01594,6,Network & VPN,Can't connect to office VPN,Y,17.4
+KB-01595,6,Network & VPN,Can't connect to office VPN,Y,20.7
+KB-01596,6,Network & VPN,Can't connect to office VPN,Y,20.8
+KB-01597,6,Network & VPN,Can't connect to office VPN,Y,11.0
+KB-01598,6,Network & VPN,Can't connect to office VPN,Y,13.6
+KB-01599,6,Network & VPN,Can't connect to office VPN,Y,16.1
+KB-01600,6,Network & VPN,Can't connect to office VPN,Y,9.4
+KB-01601,6,Network & VPN,Can't connect to office VPN,Y,19.4
+KB-01602,6,Network & VPN,Can't connect to office VPN,Y,11.1
+KB-01603,6,Network & VPN,Can't connect to office VPN,Y,14.7
+KB-01604,6,Network & VPN,Can't connect to office VPN,Y,9.6
+KB-01605,6,Network & VPN,Can't connect to office VPN,Y,14.7
+KB-01606,6,Network & VPN,Can't connect to office VPN,Y,13.5
+KB-01607,6,Network & VPN,Can't connect to office VPN,Y,17.1
+KB-01608,6,Network & VPN,Can't connect to office VPN,Y,9.6
+KB-01609,6,Network & VPN,Can't connect to office VPN,Y,13.5
+KB-01610,6,Network & VPN,Can't connect to office VPN,Y,19.6
+KB-01611,6,Network & VPN,Can't connect to office VPN,Y,9.5
+KB-01612,6,Network & VPN,Can't connect to office VPN,Y,14.7
+KB-01613,6,Network & VPN,Can't connect to office VPN,Y,15.0
+KB-01614,6,Network & VPN,Can't connect to office VPN,Y,11.8
+KB-01615,6,Network & VPN,Can't connect to office VPN,Y,12.6
+KB-01616,6,Network & VPN,Can't connect to office VPN,Y,18.3
+KB-01617,6,Network & VPN,Can't connect to office VPN,Y,17.3
+KB-01618,6,Network & VPN,Can't connect to office VPN,Y,15.4
+KB-01619,6,Network & VPN,Can't connect to office VPN,Y,14.4
+KB-01620,6,Network & VPN,Can't connect to office VPN,Y,9.7
+KB-01621,6,Network & VPN,Can't connect to office VPN,Y,13.8
+KB-01622,6,Network & VPN,Can't connect to office VPN,Y,19.5
+KB-01623,6,Network & VPN,Can't connect to office VPN,Y,17.1
+KB-01624,6,Network & VPN,Can't connect to office VPN,Y,8.9
+KB-01625,1,Network & VPN,Can't connect to office wifi,Y,6.7
+KB-01626,1,Network & VPN,Can't connect to office wifi,Y,8.3
+KB-01627,1,Network & VPN,Can't connect to office wifi,Y,6.9
+KB-01628,1,Network & VPN,Can't connect to office wifi,Y,7.4
+KB-01629,1,Network & VPN,Can't connect to office wifi,Y,8.7
+KB-01630,1,Network & VPN,Can't connect to office wifi,Y,9.8
+KB-01631,1,Network & VPN,Can't connect to office wifi,Y,8.4
+KB-01632,1,Network & VPN,Can't connect to office wifi,Y,10.5
+KB-01633,1,Network & VPN,Can't connect to office wifi,Y,5.2
+KB-01634,1,Network & VPN,Can't connect to office wifi,Y,8.9
+KB-01635,1,Network & VPN,Can't connect to office wifi,Y,8.9
+KB-01636,1,Network & VPN,Can't connect to office wifi,Y,5.0
+KB-01637,1,Network & VPN,Can't connect to office wifi,Y,10.5
+KB-01638,1,Network & VPN,Can't connect to office wifi,Y,4.8
+KB-01639,1,Network & VPN,Can't connect to office wifi,Y,5.1
+KB-01640,1,Network & VPN,Can't connect to office wifi,Y,13.3
+KB-01641,1,Network & VPN,Can't connect to office wifi,Y,10.6
+KB-01642,1,Network & VPN,Can't connect to office wifi,Y,8.8
+KB-01643,2,Network & VPN,Can't connect to office wifi,Y,10.3
+KB-01644,2,Network & VPN,Can't connect to office wifi,Y,5.7
+KB-01645,2,Network & VPN,Can't connect to office wifi,Y,9.0
+KB-01646,2,Network & VPN,Can't connect to office wifi,Y,10.8
+KB-01647,2,Network & VPN,Can't connect to office wifi,Y,7.7
+KB-01648,2,Network & VPN,Can't connect to office wifi,Y,8.1
+KB-01649,2,Network & VPN,Can't connect to office wifi,Y,7.1
+KB-01650,2,Network & VPN,Can't connect to office wifi,Y,9.5
+KB-01651,2,Network & VPN,Can't connect to office wifi,Y,6.9
+KB-01652,2,Network & VPN,Can't connect to office wifi,Y,6.8
+KB-01653,2,Network & VPN,Can't connect to office wifi,Y,5.5
+KB-01654,2,Network & VPN,Can't connect to office wifi,Y,6.1
+KB-01655,2,Network & VPN,Can't connect to office wifi,Y,8.4
+KB-01656,2,Network & VPN,Can't connect to office wifi,Y,8.9
+KB-01657,2,Network & VPN,Can't connect to office wifi,Y,7.2
+KB-01658,2,Network & VPN,Can't connect to office wifi,Y,5.9
+KB-01659,2,Network & VPN,Can't connect to office wifi,Y,8.7
+KB-01660,2,Network & VPN,Can't connect to office wifi,Y,8.7
+KB-01661,2,Network & VPN,Can't connect to office wifi,Y,10.6
+KB-01662,2,Network & VPN,Can't connect to office wifi,Y,7.0
+KB-01663,2,Network & VPN,Can't connect to office wifi,Y,7.2
+KB-01664,2,Network & VPN,Can't connect to office wifi,Y,9.0
+KB-01665,2,Network & VPN,Can't connect to office wifi,Y,11.1
+KB-01666,2,Network & VPN,Can't connect to office wifi,Y,7.9
+KB-01667,2,Network & VPN,Can't connect to office wifi,Y,7.8
+KB-01668,2,Network & VPN,Can't connect to office wifi,Y,6.1
+KB-01669,2,Network & VPN,Can't connect to office wifi,Y,7.2
+KB-01670,2,Network & VPN,Can't connect to office wifi,Y,9.9
+KB-01671,2,Network & VPN,Can't connect to office wifi,Y,9.7
+KB-01672,2,Network & VPN,Can't connect to office wifi,Y,10.2
+KB-01673,2,Network & VPN,Can't connect to office wifi,Y,4.7
+KB-01674,2,Network & VPN,Can't connect to office wifi,Y,9.7
+KB-01675,2,Network & VPN,Can't connect to office wifi,Y,6.1
+KB-01676,2,Network & VPN,Can't connect to office wifi,Y,9.2
+KB-01677,2,Network & VPN,Can't connect to office wifi,Y,3.2
+KB-01678,2,Network & VPN,Can't connect to office wifi,Y,7.8
+KB-01679,3,Network & VPN,Can't connect to office wifi,Y,10.6
+KB-01680,3,Network & VPN,Can't connect to office wifi,Y,8.2
+KB-01681,3,Network & VPN,Can't connect to office wifi,Y,10.6
+KB-01682,3,Network & VPN,Can't connect to office wifi,Y,7.1
+KB-01683,3,Network & VPN,Can't connect to office wifi,Y,12.0
+KB-01684,3,Network & VPN,Can't connect to office wifi,Y,7.1
+KB-01685,3,Network & VPN,Can't connect to office wifi,Y,11.8
+KB-01686,3,Network & VPN,Can't connect to office wifi,Y,7.0
+KB-01687,3,Network & VPN,Can't connect to office wifi,Y,6.0
+KB-01688,3,Network & VPN,Can't connect to office wifi,Y,9.8
+KB-01689,3,Network & VPN,Can't connect to office wifi,Y,7.2
+KB-01690,3,Network & VPN,Can't connect to office wifi,Y,7.9
+KB-01691,3,Network & VPN,Can't connect to office wifi,Y,5.3
+KB-01692,3,Network & VPN,Can't connect to office wifi,Y,7.3
+KB-01693,3,Network & VPN,Can't connect to office wifi,Y,8.2
+KB-01694,3,Network & VPN,Can't connect to office wifi,Y,6.6
+KB-01695,3,Network & VPN,Can't connect to office wifi,Y,8.8
+KB-01696,3,Network & VPN,Can't connect to office wifi,Y,3.4
+KB-01697,3,Network & VPN,Can't connect to office wifi,Y,9.8
+KB-01698,3,Network & VPN,Can't connect to office wifi,Y,7.2
+KB-01699,3,Network & VPN,Can't connect to office wifi,Y,11.0
+KB-01700,3,Network & VPN,Can't connect to office wifi,Y,7.3
+KB-01701,3,Network & VPN,Can't connect to office wifi,Y,6.7
+KB-01702,3,Network & VPN,Can't connect to office wifi,Y,7.1
+KB-01703,4,Network & VPN,Can't connect to office wifi,Y,9.2
+KB-01704,4,Network & VPN,Can't connect to office wifi,Y,7.1
+KB-01705,4,Network & VPN,Can't connect to office wifi,Y,6.4
+KB-01706,4,Network & VPN,Can't connect to office wifi,Y,8.9
+KB-01707,4,Network & VPN,Can't connect to office wifi,Y,9.7
+KB-01708,4,Network & VPN,Can't connect to office wifi,Y,4.5
+KB-01709,4,Network & VPN,Can't connect to office wifi,Y,5.9
+KB-01710,4,Network & VPN,Can't connect to office wifi,Y,6.6
+KB-01711,4,Network & VPN,Can't connect to office wifi,Y,11.5
+KB-01712,4,Network & VPN,Can't connect to office wifi,Y,10.5
+KB-01713,4,Network & VPN,Can't connect to office wifi,Y,9.6
+KB-01714,4,Network & VPN,Can't connect to office wifi,Y,9.0
+KB-01715,4,Network & VPN,Can't connect to office wifi,Y,5.7
+KB-01716,4,Network & VPN,Can't connect to office wifi,Y,10.3
+KB-01717,4,Network & VPN,Can't connect to office wifi,Y,7.1
+KB-01718,4,Network & VPN,Can't connect to office wifi,Y,6.4
+KB-01719,4,Network & VPN,Can't connect to office wifi,Y,11.9
+KB-01720,4,Network & VPN,Can't connect to office wifi,Y,5.1
+KB-01721,4,Network & VPN,Can't connect to office wifi,Y,10.8
+KB-01722,4,Network & VPN,Can't connect to office wifi,Y,8.4
+KB-01723,4,Network & VPN,Can't connect to office wifi,Y,6.1
+KB-01724,4,Network & VPN,Can't connect to office wifi,Y,8.4
+KB-01725,4,Network & VPN,Can't connect to office wifi,Y,6.3
+KB-01726,4,Network & VPN,Can't connect to office wifi,Y,8.4
+KB-01727,4,Network & VPN,Can't connect to office wifi,Y,6.7
+KB-01728,4,Network & VPN,Can't connect to office wifi,Y,5.6
+KB-01729,4,Network & VPN,Can't connect to office wifi,Y,13.4
+KB-01730,4,Network & VPN,Can't connect to office wifi,Y,7.0
+KB-01731,4,Network & VPN,Can't connect to office wifi,Y,10.0
+KB-01732,4,Network & VPN,Can't connect to office wifi,Y,7.9
+KB-01733,5,Network & VPN,Can't connect to office wifi,Y,5.4
+KB-01734,5,Network & VPN,Can't connect to office wifi,Y,5.9
+KB-01735,5,Network & VPN,Can't connect to office wifi,Y,2.0
+KB-01736,5,Network & VPN,Can't connect to office wifi,Y,10.0
+KB-01737,5,Network & VPN,Can't connect to office wifi,Y,8.9
+KB-01738,5,Network & VPN,Can't connect to office wifi,Y,5.6
+KB-01739,5,Network & VPN,Can't connect to office wifi,Y,9.7
+KB-01740,5,Network & VPN,Can't connect to office wifi,Y,9.2
+KB-01741,5,Network & VPN,Can't connect to office wifi,Y,13.9
+KB-01742,5,Network & VPN,Can't connect to office wifi,Y,8.5
+KB-01743,5,Network & VPN,Can't connect to office wifi,Y,9.9
+KB-01744,5,Network & VPN,Can't connect to office wifi,Y,9.2
+KB-01745,5,Network & VPN,Can't connect to office wifi,Y,9.6
+KB-01746,5,Network & VPN,Can't connect to office wifi,Y,8.0
+KB-01747,5,Network & VPN,Can't connect to office wifi,Y,7.2
+KB-01748,5,Network & VPN,Can't connect to office wifi,Y,9.4
+KB-01749,5,Network & VPN,Can't connect to office wifi,Y,10.5
+KB-01750,5,Network & VPN,Can't connect to office wifi,Y,5.6
+KB-01751,5,Network & VPN,Can't connect to office wifi,Y,5.7
+KB-01752,5,Network & VPN,Can't connect to office wifi,Y,7.9
+KB-01753,5,Network & VPN,Can't connect to office wifi,Y,11.7
+KB-01754,5,Network & VPN,Can't connect to office wifi,Y,7.6
+KB-01755,5,Network & VPN,Can't connect to office wifi,Y,4.6
+KB-01756,5,Network & VPN,Can't connect to office wifi,Y,9.6
+KB-01757,5,Network & VPN,Can't connect to office wifi,Y,9.5
+KB-01758,5,Network & VPN,Can't connect to office wifi,Y,11.9
+KB-01759,5,Network & VPN,Can't connect to office wifi,Y,8.4
+KB-01760,5,Network & VPN,Can't connect to office wifi,Y,12.0
+KB-01761,5,Network & VPN,Can't connect to office wifi,Y,6.5
+KB-01762,5,Network & VPN,Can't connect to office wifi,Y,9.8
+KB-01763,5,Network & VPN,Can't connect to office wifi,Y,8.3
+KB-01764,5,Network & VPN,Can't connect to office wifi,Y,5.6
+KB-01765,5,Network & VPN,Can't connect to office wifi,Y,7.4
+KB-01766,6,Network & VPN,Can't connect to office wifi,Y,10.3
+KB-01767,6,Network & VPN,Can't connect to office wifi,Y,7.2
+KB-01768,6,Network & VPN,Can't connect to office wifi,Y,10.3
+KB-01769,6,Network & VPN,Can't connect to office wifi,Y,9.8
+KB-01770,6,Network & VPN,Can't connect to office wifi,Y,9.8
+KB-01771,6,Network & VPN,Can't connect to office wifi,Y,8.6
+KB-01772,6,Network & VPN,Can't connect to office wifi,Y,8.6
+KB-01773,6,Network & VPN,Can't connect to office wifi,Y,6.3
+KB-01774,6,Network & VPN,Can't connect to office wifi,Y,7.9
+KB-01775,6,Network & VPN,Can't connect to office wifi,Y,8.3
+KB-01776,6,Network & VPN,Can't connect to office wifi,Y,6.5
+KB-01777,6,Network & VPN,Can't connect to office wifi,Y,7.4
+KB-01778,6,Network & VPN,Can't connect to office wifi,Y,8.3
+KB-01779,6,Network & VPN,Can't connect to office wifi,Y,8.4
+KB-01780,6,Network & VPN,Can't connect to office wifi,Y,10.1
+KB-01781,6,Network & VPN,Can't connect to office wifi,Y,5.9
+KB-01782,6,Network & VPN,Can't connect to office wifi,Y,7.2
+KB-01783,6,Network & VPN,Can't connect to office wifi,Y,8.6
+KB-01784,6,Network & VPN,Can't connect to office wifi,Y,7.2
+KB-01785,6,Network & VPN,Can't connect to office wifi,Y,8.7
+KB-01786,6,Network & VPN,Can't connect to office wifi,Y,7.1
+KB-01787,6,Network & VPN,Can't connect to office wifi,Y,10.4
+KB-01788,6,Network & VPN,Can't connect to office wifi,Y,7.5
+KB-01789,6,Network & VPN,Can't connect to office wifi,Y,5.7
+KB-01790,6,Network & VPN,Can't connect to office wifi,Y,9.5
+KB-01791,6,Network & VPN,Can't connect to office wifi,Y,11.4
+KB-01792,6,Network & VPN,Can't connect to office wifi,Y,4.1
+KB-01793,6,Network & VPN,Can't connect to office wifi,Y,7.7
+KB-01794,6,Network & VPN,Can't connect to office wifi,Y,8.2
+KB-01795,6,Network & VPN,Can't connect to office wifi,Y,10.1
+KB-01796,6,Network & VPN,Can't connect to office wifi,Y,11.0
+KB-01797,6,Network & VPN,Can't connect to office wifi,Y,7.7
+KB-01798,6,Network & VPN,Can't connect to office wifi,Y,4.9
+KB-01799,6,Network & VPN,Can't connect to office wifi,Y,9.4
+KB-01800,6,Network & VPN,Can't connect to office wifi,Y,10.0
+KB-01801,6,Network & VPN,Can't connect to office wifi,Y,9.0
+KB-01802,1,Network & VPN,VPN gateway down (site-wide),N,75.6
+KB-01803,1,Network & VPN,VPN gateway down (site-wide),N,153.7
+KB-01804,2,Network & VPN,VPN gateway down (site-wide),N,58.9
+KB-01805,2,Network & VPN,VPN gateway down (site-wide),N,118.6
+KB-01806,3,Network & VPN,VPN gateway down (site-wide),N,111.3
+KB-01807,3,Network & VPN,VPN gateway down (site-wide),N,103.7
+KB-01808,4,Network & VPN,VPN gateway down (site-wide),N,129.4
+KB-01809,4,Network & VPN,VPN gateway down (site-wide),N,81.9
+KB-01810,4,Network & VPN,VPN gateway down (site-wide),N,119.2
+KB-01811,5,Network & VPN,VPN gateway down (site-wide),N,54.2
+KB-01812,5,Network & VPN,VPN gateway down (site-wide),N,124.0
+KB-01813,6,Network & VPN,VPN gateway down (site-wide),N,43.6
+KB-01814,6,Network & VPN,VPN gateway down (site-wide),N,94.7

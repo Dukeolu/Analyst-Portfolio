@@ -1,0 +1,18 @@
+# /etc/ssh/sshd_config — AS-FOUND baseline on erp-integration-01.meridianmfg.local
+# Captured before the hardening project. Default/permissive settings throughout —
+# this is what a server looks like when nobody has explicitly hardened SSH.
+
+Port 22
+Protocol 2
+PermitRootLogin yes
+PasswordAuthentication yes
+PubkeyAuthentication yes
+PermitEmptyPasswords no
+X11Forwarding yes
+ClientAliveInterval 0
+ClientAliveCountMax 3
+MaxAuthTries 6
+# No explicit Ciphers/MACs/KexAlgorithms restriction — server accepts its
+# distribution's full default set, which on this older OpenSSH build includes
+# several legacy algorithms considered weak by current standards.
+UsePAM yes
