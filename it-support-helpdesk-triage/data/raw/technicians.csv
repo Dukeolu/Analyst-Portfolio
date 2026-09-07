@@ -1,0 +1,9 @@
+tech_id,tech_name,specialty_categories
+T01,Aisha Bello,Password Reset;Account Access
+T02,Marcus Chen,Email & Calendar;Account Access
+T03,Priya Anand,Hardware
+T04,Diego Ramirez,Hardware;Software Install
+T05,Lena Kowalski,Network & VPN
+T06,Sam Okafor,Network & VPN;Software Install
+T07,Oksana Petrenko,Software Install
+T08,Femi Adeyemi,Password Reset;Email & Calendar

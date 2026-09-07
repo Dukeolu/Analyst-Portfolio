@@ -8,11 +8,11 @@
 - 📫 Email me at: **dukeolu.e@gmail.com**
 
   
-# Data Analytics & Business Analyst Portfolio
+# Data Analytics, Business Analyst & IT/Cybersecurity Portfolio
 
-Using data and business judgment to find what's actually wrong, figuring out the fix, and implementing. Two linked tracks live in this repo: a **data analytics** portfolio (SQL, Python, Excel, dashboards) built around business operations, and a **business analyst** portfolio (process maps, requirements documents, stakeholder analysis, business cases) built around the kinds of problems a data analyst typically does not venture into.
+Using data and business judgment to find what's actually wrong, figuring out the fix, and implementing. Three linked tracks live in this repo: a **data analytics** portfolio (SQL, Python, Excel, dashboards) built around business operations, a **business analyst** portfolio (process maps, requirements documents, stakeholder analysis, business cases) built around the kinds of problems a data analyst typically does not venture into, and an **IT & cybersecurity** portfolio (SLA analysis, log analysis, intrusion detection) built around diagnosing systems and security threats rather than business performance.
 
-**Website:** [dukeolu.github.io](https://dukeolu.github.io/) — both tracks, presented to skim through in a few minutes each. This repo is the full archive behind them.
+**Website:** [dukeolu.github.io](https://dukeolu.github.io/) — all three tracks, presented to skim through in a few minutes each. This repo is the full archive behind them.
 
 
 ## Flagship case studies
@@ -46,3 +46,12 @@ Each flagship case follows the same structure: `data/` → `sql/` → `scripts/`
 | 04 | [Automate or keep hiring? A business case for order entry](business-analyst/case-04-business-case/) | Business case & cost-benefit | ✅ Built |
 
 Full track overview in [`business-analyst/README.md`](business-analyst/README.md). Each case shows the a BRD, a RACI matrix, a business case with NPV/payback plus a formula-driven Excel workbook behind every numeric claim, verified with zero formula errors.
+
+## IT & Cybersecurity track
+
+| # | Case | Domain | Tools | Status |
+|---|------|--------|-------|--------|
+| 01 | [Why doesn't the help desk's SLA number match user complaints?](it-support-helpdesk-triage/) | IT Support & Service Desk | SQL, Python, SLA Analysis, Dashboard | ✅ Built |
+| 02 | [Does the current alert rule actually catch the attacks that matter?](cybersecurity-log-intrusion-detection/) | Cybersecurity & Log Analysis | Python, SQL, Log Analysis, Detection Rules | ✅ Built |
+
+Same repo convention as the other tracks (`data/` → `sql/`/`src/` → `notebooks/` → a dashboard → an 8-section `README.md`), applied here to service-desk operations and security log analysis instead of business performance.

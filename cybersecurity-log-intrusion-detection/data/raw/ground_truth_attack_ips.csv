@@ -1,0 +1,7 @@
+source_ip,pattern
+185.220.100.186,loud_brute_force
+185.220.101.71,loud_brute_force
+185.220.102.226,loud_brute_force
+185.220.103.68,loud_brute_force
+91.207.12.195,low_and_slow_stuffing
+91.207.79.168,low_and_slow_stuffing
