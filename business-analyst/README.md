@@ -13,7 +13,7 @@ Four case studies from a simulated embedded BA engagement at **Brightpath Distri
 | 03 | [Integrating two warehouse teams without it reading as a takeover](case-03-change-management/) | Change management / stakeholder alignment | Stakeholder power/interest analysis, RACI matrix, change management plan |
 | 04 | [Automate or keep hiring? A business case for order entry](case-04-business-case/) | Business case & cost-benefit | Business case with risk register, 3-year NPV/payback model |
 
-Each case follows the same spine: business problem → method → key finding → recommendation & business impact, and every numeric claim is backed by a formula-driven Excel workbook (verified with zero formula errors via LibreOffice recalculation) rather than a number typed into a document by hand.
+Each case follows the same 8-section spine as the data analytics track: business problem → data → data preparation → analysis → key findings → recommendations → expected impact → limitations & next analysis, and every numeric claim is backed by a formula-driven Excel workbook (verified with zero formula errors via LibreOffice recalculation) rather than a number typed into a document by hand.
 
 ## Build note
 
